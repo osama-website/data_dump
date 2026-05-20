@@ -1,0 +1,1972 @@
+{
+  "1995_ROLL-001-Islamabad": {
+    "count": 46,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Birthday",
+        "score": 2
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 2
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "1999_ROLL-001_Lahore": {
+    "count": 26,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Eid ul Adha",
+        "score": 2
+      },
+      {
+        "cat": "Sports",
+        "score": 2
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      },
+      {
+        "cat": "Baby / Newborn",
+        "score": 2
+      },
+      {
+        "cat": "Trip / Travel",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2004_ROLL-001_Lahore": {
+    "count": 74,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Food / Restaurant",
+        "score": 2
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 2
+      },
+      {
+        "cat": "Birthday",
+        "score": 1
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2005-02-08 takeout-20240619": {
+    "count": 43265,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 2
+      },
+      {
+        "cat": "Beach",
+        "score": 2
+      },
+      {
+        "cat": "Conference",
+        "score": 2
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 2
+      },
+      {
+        "cat": "Wedding",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "date"
+  },
+  "2008-10-20 OnePlus One": {
+    "count": 11518,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Beach",
+        "score": 2
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      },
+      {
+        "cat": "Baby / Newborn",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "date"
+  },
+  "2010-07-23 Unsorted 1": {
+    "count": 1960,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Conference",
+        "score": 1
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2011-04-11 facebook-osamakh766": {
+    "count": 6437,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "date"
+  },
+  "2012-06-02 Unsorted 95": {
+    "count": 24,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Trip / Travel",
+        "score": 4
+      },
+      {
+        "cat": "Beach",
+        "score": 3
+      },
+      {
+        "cat": "Conference",
+        "score": 2
+      },
+      {
+        "cat": "Medical",
+        "score": 2
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2012-06-05 Haircut +1 1": {
+    "count": 7,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "School / Campus",
+        "score": 3
+      },
+      {
+        "cat": "Conference",
+        "score": 2
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 2
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2012-06-09 Trip to Harappa": {
+    "count": 232,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Construction",
+        "score": 3
+      },
+      {
+        "cat": "Beach",
+        "score": 2
+      },
+      {
+        "cat": "School / Campus",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2012-07-05 Dinner-2012": {
+    "count": 12,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Food / Restaurant",
+        "score": 5
+      },
+      {
+        "cat": "Beach",
+        "score": 3
+      },
+      {
+        "cat": "School / Campus",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2012-10-17 Mom1": {
+    "count": 14,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Wedding",
+        "score": 9
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 7
+      },
+      {
+        "cat": "Graduation",
+        "score": 2
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2012-12-26 Rattu 12 2": {
+    "count": 6,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Sports",
+        "score": 1
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 1
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2012-12-29 Faisalabad Wedding Pictures 1": {
+    "count": 540,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Wedding",
+        "score": 14
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 10
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 8
+      },
+      {
+        "cat": "Graduation",
+        "score": 2
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2012-12-29 Rattu 12": {
+    "count": 720,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Snow / Winter",
+        "score": 14
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2013-01-31 Spring Fest 2": {
+    "count": 563,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Beach",
+        "score": 6
+      },
+      {
+        "cat": "Sports",
+        "score": 6
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2013-02-15 Spring 2013 2": {
+    "count": 10,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "School / Campus",
+        "score": 2
+      },
+      {
+        "cat": "Medical",
+        "score": 2
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 2
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2013-03-11 Mom1": {
+    "count": 12,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Wedding",
+        "score": 14
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 9
+      },
+      {
+        "cat": "Graduation",
+        "score": 5
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 3
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 2
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2013-03-18 Ikebana 3": {
+    "count": 123,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Garden / Park",
+        "score": 6
+      },
+      {
+        "cat": "Graduation",
+        "score": 5
+      },
+      {
+        "cat": "Wedding",
+        "score": 3
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2013-04-16 Daku Day": {
+    "count": 525,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "School / Campus",
+        "score": 2
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2013-04-18 Yo Day 2": {
+    "count": 520,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Garden / Park",
+        "score": 3
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Sports",
+        "score": 1
+      },
+      {
+        "cat": "School / Campus",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2013-04-28 Alpha Rung": {
+    "count": 1671,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Birthday",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2013-04-28 Rung": {
+    "count": 1671,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Beach",
+        "score": 1
+      },
+      {
+        "cat": "Sports",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2013-05-09 Others 2012-2013": {
+    "count": 10,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "School / Campus",
+        "score": 5
+      },
+      {
+        "cat": "Conference",
+        "score": 4
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      },
+      {
+        "cat": "Graduation",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2013-06-16 Unsorted 1": {
+    "count": 3009,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Zoo / Safari",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2013-11-19 Unsorted 11": {
+    "count": 23,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 1
+      },
+      {
+        "cat": "Baby / Newborn",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2014-01-01 Unsorted 1": {
+    "count": 1535,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2014-01-07 Unsorted 4": {
+    "count": 1103,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Sports",
+        "score": 9
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 6
+      },
+      {
+        "cat": "School / Campus",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2014-01-18 Unsorted 13": {
+    "count": 578,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Snow / Winter",
+        "score": 2
+      },
+      {
+        "cat": "Trip / Travel",
+        "score": 1
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2014-02-24 Unsorted 31": {
+    "count": 52,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Wedding",
+        "score": 15
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 11
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 7
+      },
+      {
+        "cat": "Graduation",
+        "score": 6
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2014-03-08 Unsorted 38": {
+    "count": 15,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "School / Campus",
+        "score": 2
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      },
+      {
+        "cat": "Sports",
+        "score": 1
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2014-05-24 Unsorted 53": {
+    "count": 19,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 2
+      },
+      {
+        "cat": "Beach",
+        "score": 2
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2014-07-11 Unsorted 62": {
+    "count": 19,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Sports",
+        "score": 1
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 1
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2015-05-17 Unsorted 125": {
+    "count": 46,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Garden / Park",
+        "score": 3
+      },
+      {
+        "cat": "Beach",
+        "score": 2
+      },
+      {
+        "cat": "Wedding",
+        "score": 1
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2015-07-16 Unsorted 6": {
+    "count": 17,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Food / Restaurant",
+        "score": 3
+      },
+      {
+        "cat": "Beach",
+        "score": 2
+      },
+      {
+        "cat": "Trip / Travel",
+        "score": 1
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2015-08-15 Unsorted 34": {
+    "count": 16,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      },
+      {
+        "cat": "Political",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2015-09-20 Unsorted 107": {
+    "count": 35,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Trip / Travel",
+        "score": 2
+      },
+      {
+        "cat": "Beach",
+        "score": 2
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2015-09-20 Unsorted 84": {
+    "count": 35,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Trip / Travel",
+        "score": 2
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2015-10-05 Unsorted 54": {
+    "count": 28,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Food / Restaurant",
+        "score": 5
+      },
+      {
+        "cat": "Beach",
+        "score": 3
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2015-11-17 Unsorted 78": {
+    "count": 51,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Birthday",
+        "score": 5
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 5
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      },
+      {
+        "cat": "Sports",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2016-01-19 Unsorted 18": {
+    "count": 14,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Family Gathering",
+        "score": 2
+      },
+      {
+        "cat": "School / Campus",
+        "score": 2
+      },
+      {
+        "cat": "Trip / Travel",
+        "score": 1
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2016-10-07 ZTE 2": {
+    "count": 7,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Sports",
+        "score": 5
+      },
+      {
+        "cat": "School / Campus",
+        "score": 3
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      },
+      {
+        "cat": "Medical",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2016-10-17 ZTE": {
+    "count": 5,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Wedding",
+        "score": 1
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2016-11-11 Unsorted 143": {
+    "count": 751,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Sports",
+        "score": 12
+      },
+      {
+        "cat": "School / Campus",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2017-01-01 Unsorted 1": {
+    "count": 660,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Beach",
+        "score": 2
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      },
+      {
+        "cat": "Medical",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2017-01-13 Unsorted 64": {
+    "count": 1634,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [],
+    "suggested_split_by": "event"
+  },
+  "2017-02-09 Unsorted 103": {
+    "count": 9,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Snow / Winter",
+        "score": 3
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2017-03-16 Unsorted 142": {
+    "count": 10,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "School / Campus",
+        "score": 4
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 3
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 2
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2017-05-01 Unsorted 190": {
+    "count": 5,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Beach",
+        "score": 1
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      },
+      {
+        "cat": "School / Campus",
+        "score": 1
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2017-10-08 Unsorted 271": {
+    "count": 1586,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Family Gathering",
+        "score": 5
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 4
+      },
+      {
+        "cat": "Trip / Travel",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2017-12-31 Unsorted 35": {
+    "count": 15,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Wedding",
+        "score": 3
+      },
+      {
+        "cat": "Trip / Travel",
+        "score": 2
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 2
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      },
+      {
+        "cat": "School / Campus",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2018-09-23 Unsorted 1": {
+    "count": 79657,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "date"
+  },
+  "2018-11-10 Unsorted 9": {
+    "count": 67,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Garden / Park",
+        "score": 3
+      },
+      {
+        "cat": "Baby / Newborn",
+        "score": 2
+      },
+      {
+        "cat": "School / Campus",
+        "score": 1
+      },
+      {
+        "cat": "Political",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2018-12-17 Unsorted 23": {
+    "count": 81,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Snow / Winter",
+        "score": 7
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 4
+      },
+      {
+        "cat": "Eid ul Adha",
+        "score": 1
+      },
+      {
+        "cat": "Eid ul Fitr",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2018-12-23 Unsorted 29": {
+    "count": 721,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Sports",
+        "score": 11
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2019-12-26 Unsorted 12": {
+    "count": 71,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Conference",
+        "score": 1
+      },
+      {
+        "cat": "School / Campus",
+        "score": 1
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 1
+      },
+      {
+        "cat": "Political",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2020-05-07 Unsorted 19": {
+    "count": 13,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Beach",
+        "score": 1
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      },
+      {
+        "cat": "Medical",
+        "score": 1
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2021-02-05 Olympic NP- Seattle": {
+    "count": 26,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 4
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 3
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 1
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2022-02-10 Olympic NP- Seattle": {
+    "count": 25,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Trip / Travel",
+        "score": 3
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 2
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2022-05-11 RoadTrip IA-WA 2 1": {
+    "count": 12,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 17
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 9
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 4
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2022-05-12 Unsorted 37": {
+    "count": 43,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 7
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 4
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2022-05-24 Tag-Machine": {
+    "count": 10,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 3
+      },
+      {
+        "cat": "Beach",
+        "score": 2
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2022-05-29 Unsorted 1": {
+    "count": 35436,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "date"
+  },
+  "2022-07-04 Unsorted 1": {
+    "count": 2047,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 11
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2022-07-25 Unsorted 3": {
+    "count": 772,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Beach",
+        "score": 16
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2022-08-09 Camera Roll": {
+    "count": 15,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Birthday",
+        "score": 1
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2022-10-30 Unsorted 1": {
+    "count": 2292,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 6
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 4
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 2
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2023-05-21 Unsorted 1": {
+    "count": 2315,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Wedding",
+        "score": 5
+      },
+      {
+        "cat": "Beach",
+        "score": 5
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 3
+      },
+      {
+        "cat": "Eid ul Adha",
+        "score": 1
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2023-12-25 mangni": {
+    "count": 560,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Wedding",
+        "score": 16
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 10
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 5
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2024-01-21 Unsorted 1": {
+    "count": 2415,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 2
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2024-03-31 Unsorted 1": {
+    "count": 2749,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 3
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2024-06-28 DJI_001": {
+    "count": 18,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 10
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 10
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 3
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2024-07-05 Unsorted 1": {
+    "count": 2613,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 7
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 4
+      },
+      {
+        "cat": "Beach",
+        "score": 2
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2024-11-28 DJI_001 2": {
+    "count": 28,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Garden / Park",
+        "score": 7
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 4
+      },
+      {
+        "cat": "Beach",
+        "score": 3
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2024-11-29 DJI_001": {
+    "count": 17,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 5
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 5
+      },
+      {
+        "cat": "Beach",
+        "score": 3
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2024_ROLL-001-NewYork": {
+    "count": 52,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Garden / Park",
+        "score": 3
+      },
+      {
+        "cat": "School / Campus",
+        "score": 2
+      },
+      {
+        "cat": "Trip / Travel",
+        "score": 1
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2025-05-19 Unsorted 1": {
+    "count": 2385,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 5
+      },
+      {
+        "cat": "Beach",
+        "score": 2
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 2
+      },
+      {
+        "cat": "Trip / Travel",
+        "score": 1
+      },
+      {
+        "cat": "School / Campus",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2025-06-19 Unsorted 1": {
+    "count": 2287,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 4
+      },
+      {
+        "cat": "Wedding",
+        "score": 1
+      },
+      {
+        "cat": "Graduation",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2025-06-19 Unsorted 2": {
+    "count": 43,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Wedding",
+        "score": 21
+      },
+      {
+        "cat": "Beach",
+        "score": 17
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 12
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 2
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2025-06-20 Unsorted 3": {
+    "count": 128,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Wedding",
+        "score": 8
+      },
+      {
+        "cat": "Sports",
+        "score": 5
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 4
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 3
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2025_ROLL-003_Wedding": {
+    "count": 27,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Family Gathering",
+        "score": 4
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 3
+      },
+      {
+        "cat": "Wedding",
+        "score": 1
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2026-05-18 Unsorted 145": {
+    "count": 40,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Food / Restaurant",
+        "score": 3
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 2
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 2
+      },
+      {
+        "cat": "Birthday",
+        "score": 1
+      },
+      {
+        "cat": "Beach",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "2026_ROLL-001_San-Francisco": {
+    "count": 54,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Trip / Travel",
+        "score": 1
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 1
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "Batch 3a (3)": {
+    "count": 16,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Sports",
+        "score": 2
+      },
+      {
+        "cat": "Family Gathering",
+        "score": 2
+      },
+      {
+        "cat": "Baby / Newborn",
+        "score": 2
+      },
+      {
+        "cat": "Trip / Travel",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "New folder": {
+    "count": 33,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Hiking / Nature",
+        "score": 3
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 2
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "New folder (6)": {
+    "count": 30,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Trip / Travel",
+        "score": 1
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Conference",
+        "score": 1
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 1
+      },
+      {
+        "cat": "Snow / Winter",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "New folder (A11)": {
+    "count": 29,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Beach",
+        "score": 3
+      },
+      {
+        "cat": "Garden / Park",
+        "score": 3
+      },
+      {
+        "cat": "Wedding",
+        "score": 2
+      },
+      {
+        "cat": "Sports",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "New_1 Agfa Color 100": {
+    "count": 34,
+    "reason": "diverse content detected",
+    "top_categories": [
+      {
+        "cat": "Eid ul Adha",
+        "score": 2
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 2
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 1
+      },
+      {
+        "cat": "Baby / Newborn",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  },
+  "Unknown Date .thumbnails": {
+    "count": 2259,
+    "reason": "too many images — likely multiple events or device dump",
+    "top_categories": [
+      {
+        "cat": "Snow / Winter",
+        "score": 4
+      },
+      {
+        "cat": "Food / Restaurant",
+        "score": 3
+      },
+      {
+        "cat": "Beach",
+        "score": 2
+      },
+      {
+        "cat": "Hiking / Nature",
+        "score": 1
+      },
+      {
+        "cat": "Zoo / Safari",
+        "score": 1
+      }
+    ],
+    "suggested_split_by": "event"
+  }
+}
