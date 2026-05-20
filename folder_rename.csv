@@ -1,17 +1,17 @@
 old_name,new_name,confidence,notes
-1986_ROLL-001_Lahore,1986-01-01 Early Childhood - Lahore,high,Baby and toddler photos with family at home; men on couch
+1986_ROLL-001_Lahore,SPLIT,see final_split_map.json,60 files → split by event
 1987_ROLL-038_Lahore,1987-01-01 Baby Photos - Lahore,high,Baby and young child playing with toys at home
 1988_ROLL-001_Lahore,1988-01-01 Family Photos - Lahore,high,Mother holding baby; girl at fence; family gatherings
-1991_ROLL-001_Lahore,1991-01-01 Birthday Celebration - Lahore,high,Children with birthday cake; baby with stuffed animals
+1991_ROLL-001_Lahore,SPLIT,see final_split_map.json,50 files → split by event
 1995_ROLL-001-Islamabad,1995-01-01 Zoo Visit and Family Outing - Islamabad,high,Elephant at zoo; kids with elephant; dining table gathering
-1995_ROLL-001_Lahore,1995-01-01 Eid ul Adha - Lahore,high,Goats; balloons; food gathering; children in yard - classic Eid imagery
+1995_ROLL-001_Lahore,SPLIT,see final_split_map.json,64 files → split by event
 1999-12-31 Unsorted 1,1999-12-31 Unsorted 1,low,captions too generic
-1999_ROLL-001_Lahore,1999-01-01 Family and Eid - Lahore,high,Man with goat (Eid); baby in crib; girl playing at home
-1999_ROLL-002_Lahore,1999-01-01 Family Life - Lahore,medium,Kids on bed; car; man in suit outside building; mixed home/outdoor
+1999_ROLL-001_Lahore,SPLIT,see final_split_map.json,26 files → split by event
+1999_ROLL-002_Lahore,SPLIT,see final_split_map.json,50 files → split by event
 2000-01-01 Unsorted 1,2000-01-01 Medical,medium,Top cats: Medical(2)
 2002_ROLL-001_Naran,2002-01-01 Naran Valley Family Trip,high,Rocky river landscape; family posing outdoors; picnic on grass
 2004_ROLL-001_Lahore,2004-01-01 Birthday Party and Home - Lahore,high,Boys wearing crowns; dinner gathering; home life
-2005-02-08 takeout-20240619,2005-02-08 Food / Restaurant,high,Top cats: Food / Restaurant(6); Medical(1)
+2005-02-08 takeout-20240619,SPLIT,see final_split_map.json,43265 files → split by date
 2006-06-21 Unsorted 1,2006-06-21 Food / Restaurant,high,Top cats: Food / Restaurant(3); Medical(3)
 2007-01-01 Olympic NP- Seattle 1,2007-01-01 Hiking / Nature - Seattle,high,Top cats: Hiking / Nature(4)
 2007-01-01 Olympic NP- Seattle 2,2007-01-01 Olympic NP- Seattle 2,low,captions too generic
@@ -34,7 +34,7 @@ old_name,new_name,confidence,notes
 2008-09-14 Unsorted 1,2008-09-14 Unsorted 1,low,captions too generic
 2008-09-24 Unsorted 2,2008-09-24 Conference,medium,Top cats: Conference(1)
 2008-10-10 Unsorted 3,2008-10-10 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
-2008-10-20 OnePlus One,2008-10-20 School / Campus - Lahore,medium,Top cats: School / Campus(1); Food / Restaurant(1)
+2008-10-20 OnePlus One,SPLIT,see final_split_map.json,11518 files → split by date
 2009-01-02 Unsorted 4,2009-01-02 Unsorted 4,low,captions too generic
 2009-03-15 Unsorted 5,2009-03-15 Hiking / Nature,medium,Top cats: Hiking / Nature(1)
 2009-05-22 Unsorted 6,2009-05-22 Food / Restaurant,high,Top cats: Food / Restaurant(8); Beach(2)
@@ -66,7 +66,7 @@ old_name,new_name,confidence,notes
 2010-07-04 Unsorted 32,2010-07-04 Unsorted 32,low,captions too generic
 2010-07-12 Unsorted 33,2010-07-12 Unsorted 33,low,captions too generic
 2010-07-18 Unsorted 34,2010-07-18 Unsorted 34,low,captions too generic
-2010-07-23 Unsorted 1,2010-07-23 Conference - Lahore,medium,Top cats: Conference(1); Zoo / Safari(1)
+2010-07-23 Unsorted 1,SPLIT,see final_split_map.json,1960 files → split by event
 2010-08-14 Unsorted 2,2010-08-14 Food / Restaurant,medium,Top cats: Food / Restaurant(2); Garden / Park(1)
 2010-08-14 Unsorted 3,2010-08-14 Unsorted 3,low,captions too generic
 2010-08-16 Unsorted 4,2010-08-16 Zoo / Safari,medium,Top cats: Zoo / Safari(1)
@@ -93,7 +93,7 @@ old_name,new_name,confidence,notes
 2010-10-25 Unsorted 15,2010-10-25 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2010-10-30 Rohtas Fort 2010 1,2010-10-30 Rohtas Fort 2010 1,low,captions too generic
 2010-10-30 Rohtas Fort 2010 2,2010-10-30 Rohtas Fort 2010 2,low,captions too generic
-2010-10-31 Rohtas Fort 2010,2010-10-31 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Food / Restaurant(1)
+2010-10-31 Rohtas Fort 2010,SPLIT,see final_split_map.json,118 files → split by event
 2010-10-31 Unsorted 17,2010-10-31 Hiking / Nature,medium,Top cats: Hiking / Nature(1)
 2010-10-31 Unsorted 18,2010-10-31 Zoo / Safari - Lahore,high,Top cats: Zoo / Safari(8)
 2010-11-02 Unsorted 19,2010-11-02 Zoo / Safari,high,Top cats: Zoo / Safari(5)
@@ -111,7 +111,7 @@ old_name,new_name,confidence,notes
 2010-12-01 Unsorted 47,2010-12-01 Snow / Winter,high,Top cats: Snow / Winter(6); Hiking / Nature(1)
 2010-12-03 Unsorted 28,2010-12-03 Wedding,high,Top cats: Wedding(3); Birthday(1)
 2010-12-03 Unsorted 29,2010-12-03 Garden / Park,medium,Top cats: Garden / Park(1); Baby / Newborn(1)
-2010-12-04 Unsorted 30,2010-12-04 Wedding,high,Top cats: Wedding(25); Garden / Park(11)
+2010-12-04 Unsorted 30,SPLIT,see final_split_map.json,52 files → split by event
 2010-12-05 Unsorted 31,2010-12-05 Wedding,medium,Top cats: Wedding(2); Garden / Park(2)
 2010-12-10 Unsorted 48,2010-12-10 Unsorted 48,low,captions too generic
 2010-12-11 Unsorted 49,2010-12-11 Conference,medium,Top cats: Conference(1)
@@ -155,12 +155,12 @@ old_name,new_name,confidence,notes
 2011-04-01 Insomnia III 2,2011-04-01 Beach,medium,Top cats: Beach(1)
 2011-04-02 Insomnia III,2011-04-02 Insomnia III,low,captions too generic
 2011-04-05 Insomnia III 1,2011-04-05 Insomnia III 1,low,captions too generic
-2011-04-05 Insomnia III 2,2011-04-05 School / Campus,medium,Top cats: School / Campus(1)
+2011-04-05 Insomnia III 2,SPLIT,see final_split_map.json,34 files → split by event
 2011-04-06 Insomnia III,2011-04-06 Insomnia III,low,captions too generic
 2011-04-09 Unsorted 40,2011-04-09 Family Gathering,medium,Top cats: Family Gathering(1)
 2011-04-10 Unsorted 41,2011-04-10 Unsorted 41,low,captions too generic
 2011-04-11 Unsorted 42,2011-04-11 Food / Restaurant,high,Top cats: Food / Restaurant(7); Conference(1)
-2011-04-11 facebook-osamakh766,2011-04-11 Family Gathering - San Francisco,medium,Top cats: Family Gathering(2); Wedding(1)
+2011-04-11 facebook-osamakh766,SPLIT,see final_split_map.json,6437 files → split by date
 2011-04-12 Unsorted 43,2011-04-12 Food / Restaurant,high,Top cats: Food / Restaurant(3); Wedding(1)
 2011-04-13 Unsorted 44,2011-04-13 Garden / Park,medium,Top cats: Garden / Park(2); Food / Restaurant(1)
 2011-04-14 Unsorted 45,2011-04-14 Unsorted 45,low,captions too generic
@@ -171,7 +171,7 @@ old_name,new_name,confidence,notes
 2011-05-03 Lunch-2011,2011-05-03 Trip / Travel,medium,Top cats: Trip / Travel(1)
 2011-05-03 Unsorted 51,2011-05-03 Unsorted 51,low,captions too generic
 2011-05-05 Unsorted 52,2011-05-05 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
-2011-05-06 DLC Project Final Stretch-2011,2011-05-06 School / Campus,medium,Top cats: School / Campus(2)
+2011-05-06 DLC Project Final Stretch-2011,SPLIT,see final_split_map.json,126 files → split by event
 2011-05-07 DLC Project Show 2011,2011-05-07 Wedding,medium,Top cats: Wedding(2); Trip / Travel(1)
 2011-05-10 Unsorted 59,2011-05-10 Garden / Park,medium,Top cats: Garden / Park(2)
 2011-05-11 Unsorted 53,2011-05-11 Hiking / Nature,medium,Top cats: Hiking / Nature(2)
@@ -236,13 +236,13 @@ old_name,new_name,confidence,notes
 2012-03-17 Khanpur-2012 1,2012-03-17 Trip / Travel,medium,Top cats: Trip / Travel(2)
 2012-03-17 Khanpur-2012 2,2012-03-17 Hiking / Nature,high,Top cats: Hiking / Nature(5)
 2012-03-18 Khanpur-2012 1,2012-03-18 Hiking / Nature,high,Top cats: Hiking / Nature(3)
-2012-03-18 Khanpur-2012 2,2012-03-18 Hiking / Nature,high,Top cats: Hiking / Nature(3); Beach(3)
+2012-03-18 Khanpur-2012 2,SPLIT,see final_split_map.json,144 files → split by event
 2012-03-21 Haircut-2012 1,2012-03-21 Haircut-2012 1,low,captions too generic
 2012-03-21 Haircut-2012 2,2012-03-21 Medical,medium,Top cats: Medical(2); Trip / Travel(1)
 2012-03-22 Unsorted 86,2012-03-22 Unsorted 86,low,captions too generic
 2012-03-23 Haircut-2012,2012-03-23 Haircut-2012,low,captions too generic
 2012-04-27 ACM @ LUMS Launch-2012 1,2012-04-27 ACM @ LUMS Launch-2012 1,low,captions too generic
-2012-04-27 ACM @ LUMS Launch-2012 2,2012-04-27 School / Campus - Lahore,high,Top cats: School / Campus(4); Conference(2)
+2012-04-27 ACM @ LUMS Launch-2012 2,SPLIT,see final_split_map.json,267 files → split by event
 2012-04-27 CyberShot,2012-04-27 Conference,high,Top cats: Conference(3)
 2012-05-27 Unsorted 87,2012-05-27 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2012-05-28 Unsorted 88,2012-05-28 Unsorted 88,low,captions too generic
@@ -252,23 +252,23 @@ old_name,new_name,confidence,notes
 2012-05-30 Unsorted 92,2012-05-30 Unsorted 92,low,captions too generic
 2012-05-30 Unsorted 93,2012-05-30 Unsorted 93,low,captions too generic
 2012-05-31 MAQ and Ghufran's Dinner 1,2012-05-31 MAQ and Ghufran's Dinner 1,low,captions too generic
-2012-05-31 MAQ and Ghufran's Dinner 2,2012-05-31 Garden / Park,high,Top cats: Garden / Park(3); Wedding(1)
+2012-05-31 MAQ and Ghufran's Dinner 2,SPLIT,see final_split_map.json,13 files → split by event
 2012-05-31 Unsorted 94,2012-05-31 Unsorted 94,low,captions too generic
 2012-06-01 The Workshop,2012-06-01 Food / Restaurant,high,Top cats: Food / Restaurant(4); Beach(1)
 2012-06-02 The Workshop,2012-06-02 The Workshop,low,captions too generic
-2012-06-02 Unsorted 95,2012-06-02 Trip / Travel - Lahore,high,Top cats: Trip / Travel(4); Beach(3)
-2012-06-02 Unsorted 96,2012-06-02 Conference - Lahore,high,Top cats: Conference(7); School / Campus(7)
+2012-06-02 Unsorted 95,SPLIT,see final_split_map.json,24 files → split by event
+2012-06-02 Unsorted 96,SPLIT,see final_split_map.json,108 files → split by event
 2012-06-04 Haircut 1,2012-06-04 Haircut 1,low,captions too generic
 2012-06-04 Haircut 2,2012-06-04 School / Campus,medium,Top cats: School / Campus(1); Zoo / Safari(1)
-2012-06-05 Haircut +1 1,2012-06-05 School / Campus,high,Top cats: School / Campus(3); Conference(2)
+2012-06-05 Haircut +1 1,SPLIT,see final_split_map.json,7 files → split by event
 2012-06-05 Haircut +1 2,2012-06-05 School / Campus - Lahore,medium,Top cats: School / Campus(2); Garden / Park(2)
-2012-06-06 Shave,2012-06-06 Beach,medium,Top cats: Beach(2); Food / Restaurant(1)
+2012-06-06 Shave,SPLIT,see final_split_map.json,22 files → split by event
 2012-06-09 Rajar's Treat 1,2012-06-09 Rajar's Treat 1,low,captions too generic
 2012-06-09 Rajar's Treat 2,2012-06-09 Food / Restaurant,high,Top cats: Food / Restaurant(5)
 2012-06-09 Trip to Harappa,2012-06-09 Construction,high,Top cats: Construction(3); Beach(2)
 2012-06-09 Unsorted 97,2012-06-09 Unsorted 97,low,captions too generic
 2012-06-09 Unsorted 98,2012-06-09 Unsorted 98,low,captions too generic
-2012-06-10 Trip to Harappa- Saddam,2012-06-10 Beach - Naran,medium,Top cats: Beach(2); Hiking / Nature(1)
+2012-06-10 Trip to Harappa- Saddam,SPLIT,see final_split_map.json,81 files → split by event
 2012-06-11 Unsorted 100,2012-06-11 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2012-06-11 Unsorted 99,2012-06-11 Unsorted 99,low,captions too generic
 2012-06-12 Unsorted 101,2012-06-12 Unsorted 101,low,captions too generic
@@ -280,7 +280,7 @@ old_name,new_name,confidence,notes
 2012-06-26 Unsorted 107,2012-06-26 Garden / Park,medium,Top cats: Garden / Park(2)
 2012-06-27 Road Trip- Kot Radha Kishan 2012,2012-06-27 Garden / Park - Lahore,medium,Top cats: Garden / Park(2); School / Campus(1)
 2012-06-28 Road Trip- Kot Radha Kishan 2012,2012-06-28 Garden / Park - Lahore,high,Top cats: Garden / Park(3); Conference(1)
-2012-07-05 Dinner-2012,2012-07-05 Food / Restaurant - San Francisco,high,Top cats: Food / Restaurant(5); Beach(3)
+2012-07-05 Dinner-2012,SPLIT,see final_split_map.json,12 files → split by event
 2012-07-10 Unsorted 108,2012-07-10 Garden / Park,high,Top cats: Garden / Park(3)
 2012-07-11 Unsorted 109,2012-07-11 Food / Restaurant - San Francisco,medium,Top cats: Food / Restaurant(1)
 2012-07-11 Unsorted 110,2012-07-11 Unsorted 110,low,captions too generic
@@ -306,7 +306,7 @@ old_name,new_name,confidence,notes
 2012-07-20 Unsorted 118,2012-07-20 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2012-07-20 Unsorted 119,2012-07-20 Beach,medium,Top cats: Beach(1)
 2012-07-22 Unsorted 120,2012-07-22 Garden / Park,medium,Top cats: Garden / Park(1)
-2012-07-22 Unsorted 121,2012-07-22 Food / Restaurant,high,Top cats: Food / Restaurant(4); Conference(1)
+2012-07-22 Unsorted 121,SPLIT,see final_split_map.json,32 files → split by event
 2012-07-23 Unsorted 122,2012-07-23 Garden / Park,medium,Top cats: Garden / Park(1)
 2012-07-23 Unsorted 123,2012-07-23 Food / Restaurant,medium,Top cats: Food / Restaurant(1); Garden / Park(1)
 2012-07-23 Unsorted 124,2012-07-23 Beach,high,Top cats: Beach(8); Hiking / Nature(3)
@@ -335,12 +335,12 @@ old_name,new_name,confidence,notes
 2012-09-19 Unsorted 4,2012-09-19 Unsorted 4,low,captions too generic
 2012-10-14 Mom1,2012-10-14 Beach,medium,Top cats: Beach(1)
 2012-10-16 Mom1,2012-10-16 Wedding,high,Top cats: Wedding(6); Garden / Park(5)
-2012-10-17 Mom1,2012-10-17 Wedding,high,Top cats: Wedding(8); Garden / Park(6)
+2012-10-17 Mom1,SPLIT,see final_split_map.json,14 files → split by event
 2012-10-24 Mom1,2012-10-24 Medical,medium,Top cats: Medical(1)
 2012-10-26 Mom1,2012-10-26 Baby / Newborn,high,Top cats: Baby / Newborn(7)
 2012-10-27 Mom1,2012-10-27 Mom1,low,captions too generic
 2012-11-04 Mom1,2012-11-04 Zoo / Safari,medium,Top cats: Zoo / Safari(1)
-2012-11-05 Mom1,2012-11-05 Wedding - Lahore,high,Top cats: Wedding(9); Garden / Park(8)
+2012-11-05 Mom1,SPLIT,see final_split_map.json,73 files → split by event
 2012-12-03 Mom1,2012-12-03 Baby / Newborn,high,Top cats: Baby / Newborn(12); Family Gathering(2)
 2012-12-05 Unsorted 5,2012-12-05 Trip / Travel,medium,Top cats: Trip / Travel(1)
 2012-12-08 Hunza Kashif Ali 1,2012-12-08 Construction,high,Top cats: Construction(8); Snow / Winter(6)
@@ -358,16 +358,16 @@ old_name,new_name,confidence,notes
 2012-12-21 Mom1-Osama,2012-12-21 Mom1-Osama,low,captions too generic
 2012-12-23 Unsorted 143,2012-12-23 Family Gathering,high,Top cats: Family Gathering(3)
 2012-12-26 Rattu 12 1,2012-12-26 Rattu 12 1,low,captions too generic
-2012-12-26 Rattu 12 2,2012-12-26 Hiking / Nature - Lahore,medium,Top cats: Hiking / Nature(1); Sports(1)
+2012-12-26 Rattu 12 2,SPLIT,see final_split_map.json,6 files → split by event
 2012-12-27 Rattu 12 1,2012-12-27 Beach,medium,Top cats: Beach(1)
 2012-12-27 Rattu 12 2,2012-12-27 Rattu 12 2,low,captions too generic
 2012-12-27 Rattu 12 3,2012-12-27 Rattu 12 3,low,captions too generic
 2012-12-27 Rattu 12 4,2012-12-27 Snow / Winter,high,Top cats: Snow / Winter(9); Garden / Park(2)
 2012-12-28 Faisalabad Wedding Pictures,2012-12-28 Faisalabad Wedding Pictures,low,captions too generic
 2012-12-28 Rattu 12,2012-12-28 Rattu 12,low,captions too generic
-2012-12-29 Faisalabad Wedding Pictures 1,2012-12-29 Wedding - Lahore,high,Top cats: Wedding(14); Family Gathering(9)
+2012-12-29 Faisalabad Wedding Pictures 1,SPLIT,see final_split_map.json,540 files → split by event
 2012-12-29 Faisalabad Wedding Pictures 2,2012-12-29 Family Gathering - Lahore,medium,Top cats: Family Gathering(1); Medical(1)
-2012-12-29 Rattu 12,2012-12-29 Snow / Winter,high,Top cats: Snow / Winter(14)
+2012-12-29 Rattu 12,SPLIT,see final_split_map.json,720 files → split by event
 2012-12-30 Faisalabad Wedding Pictures 1,2012-12-30 Wedding,high,Top cats: Wedding(19); Garden / Park(6)
 2012-12-30 Faisalabad Wedding Pictures 2,2012-12-30 Family Gathering - Lahore,medium,Top cats: Family Gathering(2); Conference(1)
 2012-12-30 Rattu 12 1,2012-12-30 Snow / Winter,high,Top cats: Snow / Winter(12); Hiking / Nature(6)
@@ -387,11 +387,11 @@ old_name,new_name,confidence,notes
 2013-01-16 SportsFest Day 3,2013-01-16 Sports,high,Top cats: Sports(8); Garden / Park(1)
 2013-01-19 Mom1,2013-01-19 Wedding,high,Top cats: Wedding(16); Graduation(1)
 2013-01-20 Mom1,2013-01-20 Mom1,low,captions too generic
-2013-01-23 Hunza Kashif Ali,2013-01-23 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(10); Snow / Winter(4)
+2013-01-23 Hunza Kashif Ali,SPLIT,see final_split_map.json,121 files → split by event
 2013-01-24 Hunza Kashif Ali 1,2013-01-24 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(11); Snow / Winter(5)
 2013-01-24 Hunza Kashif Ali 2,2013-01-24 Hunza Kashif Ali 2,low,captions too generic
 2013-01-24 Hunza Kashif Ali 3,2013-01-24 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(10)
-2013-01-25 Hunza Kashif Ali 1,2013-01-25 Hiking / Nature - San Francisco,high,Top cats: Hiking / Nature(5); Beach(3)
+2013-01-25 Hunza Kashif Ali 1,SPLIT,see final_split_map.json,13 files → split by event
 2013-01-25 Hunza Kashif Ali 2,2013-01-25 Garden / Park,medium,Top cats: Garden / Park(2); Medical(1)
 2013-01-25 Mom1-Osama 1,2013-01-25 Conference,medium,Top cats: Conference(1); Family Gathering(1)
 2013-01-25 Mom1-Osama 2,2013-01-25 Mom1-Osama 2,low,captions too generic
@@ -404,7 +404,7 @@ old_name,new_name,confidence,notes
 2013-01-27 Untitled Folder 2,2013-01-27 Food / Restaurant,high,Top cats: Food / Restaurant(10)
 2013-01-30 Untitled Folder,2013-01-30 Untitled Folder,low,captions too generic
 2013-01-31 Spring Fest 1,2013-01-31 School / Campus - Lahore,high,Top cats: School / Campus(6); Beach(1)
-2013-01-31 Spring Fest 2,2013-01-31 Sports - Cambridge,high,Top cats: Sports(7); Beach(3)
+2013-01-31 Spring Fest 2,SPLIT,see final_split_map.json,563 files → split by event
 2013-02-01 Untitled Folder,2013-02-01 Untitled Folder,low,captions too generic
 2013-02-02 Untitled Folder,2013-02-02 Untitled Folder,low,captions too generic
 2013-02-03 Spring 2013 1,2013-02-03 Family Gathering,high,Top cats: Family Gathering(3)
@@ -417,9 +417,9 @@ old_name,new_name,confidence,notes
 2013-02-08 Spring 2013,2013-02-08 Spring 2013,low,captions too generic
 2013-02-09 Spring 2013 1,2013-02-09 Trip / Travel,medium,Top cats: Trip / Travel(2); Garden / Park(1)
 2013-02-09 Spring 2013 2,2013-02-09 Spring 2013 2,low,captions too generic
-2013-02-15 IEEEFLL,2013-02-15 Conference,high,Top cats: Conference(5); School / Campus(5)
+2013-02-15 IEEEFLL,SPLIT,see final_split_map.json,347 files → split by event
 2013-02-15 Spring 2013 1,2013-02-15 School / Campus,medium,Top cats: School / Campus(1)
-2013-02-15 Spring 2013 2,2013-02-15 School / Campus,medium,Top cats: School / Campus(2); Medical(2)
+2013-02-15 Spring 2013 2,SPLIT,see final_split_map.json,10 files → split by event
 2013-02-17 Spring 2013,2013-02-17 Food / Restaurant,high,Top cats: Food / Restaurant(3)
 2013-02-19 Unsorted 144,2013-02-19 Food / Restaurant,medium,Top cats: Food / Restaurant(2); School / Campus(1)
 2013-02-19 Unsorted 145,2013-02-19 Unsorted 145,low,captions too generic
@@ -445,7 +445,7 @@ old_name,new_name,confidence,notes
 2013-03-06 Others 2012-2013,2013-03-06 Conference,high,Top cats: Conference(7); Political(1)
 2013-03-07 Culture Society,2013-03-07 Conference - San Francisco,medium,Top cats: Conference(1); School / Campus(1)
 2013-03-10 Others 2012-2013,2013-03-10 Others 2012-2013,low,captions too generic
-2013-03-11 Mom1,2013-03-11 Wedding,high,Top cats: Wedding(14); Garden / Park(9)
+2013-03-11 Mom1,SPLIT,see final_split_map.json,12 files → split by event
 2013-03-11 Others 2012-2013,2013-03-11 Zoo / Safari,high,Top cats: Zoo / Safari(3); School / Campus(1)
 2013-03-11 Saif's Birthday,2013-03-11 Sports - Lahore,medium,Top cats: Sports(2); School / Campus(2)
 2013-03-11 The not-so-Interesting Pictures,2013-03-11 The not-so-Interesting Pictures,low,captions too generic
@@ -462,7 +462,7 @@ old_name,new_name,confidence,notes
 2013-03-16 WazirKhan Mosque,2013-03-16 WazirKhan Mosque,low,captions too generic
 2013-03-17 Car Show,2013-03-17 Garden / Park,high,Top cats: Garden / Park(7)
 2013-03-17 Dog Show,2013-03-17 Garden / Park,medium,Top cats: Garden / Park(2)
-2013-03-17 Mom1,2013-03-17 Trip / Travel,medium,Top cats: Trip / Travel(1); Conference(1)
+2013-03-17 Mom1,SPLIT,see final_split_map.json,78 files → split by event
 2013-03-17 The not-so-Interesting Pictures,2013-03-17 Beach,medium,Top cats: Beach(2); Hiking / Nature(1)
 2013-03-17 Untitled Folder 1,2013-03-17 Untitled Folder 1,low,captions too generic
 2013-03-17 Untitled Folder 2,2013-03-17 Garden / Park - Lahore,high,Top cats: Garden / Park(3); Baby / Newborn(1)
@@ -471,7 +471,7 @@ old_name,new_name,confidence,notes
 2013-03-17 breakfast 2,2013-03-17 Beach,high,Top cats: Beach(8); Hiking / Nature(2)
 2013-03-18 Ikebana 1,2013-03-18 Garden / Park - San Francisco,medium,Top cats: Garden / Park(2); Hiking / Nature(1)
 2013-03-18 Ikebana 2,2013-03-18 Ikebana 2,low,captions too generic
-2013-03-18 Ikebana 3,2013-03-18 Wedding,high,Top cats: Wedding(5); Graduation(5)
+2013-03-18 Ikebana 3,SPLIT,see final_split_map.json,123 files → split by event
 2013-03-18 Olympiad Day 1,2013-03-18 School / Campus - Lahore,high,Top cats: School / Campus(7); Food / Restaurant(2)
 2013-03-18 Saad,2013-03-18 School / Campus,medium,Top cats: School / Campus(2); Conference(1)
 2013-03-18 The not-so-Interesting Pictures 1,2013-03-18 School / Campus - Lahore,high,Top cats: School / Campus(6); Graduation(2)
@@ -488,23 +488,23 @@ old_name,new_name,confidence,notes
 2013-03-19 The not-so-Interesting Pictures 3,2013-03-19 School / Campus - Lahore,medium,Top cats: School / Campus(1); Zoo / Safari(1)
 2013-03-19 Ticket,2013-03-19 Trip / Travel,medium,Top cats: Trip / Travel(1); Beach(1)
 2013-03-19 Untitled Folder,2013-03-19 Wedding,medium,Top cats: Wedding(2); Conference(2)
-2013-03-20 100D5100 2012-2013 1,2013-03-20 School / Campus,high,Top cats: School / Campus(10); Conference(5)
+2013-03-20 100D5100 2012-2013 1,SPLIT,see final_split_map.json,197 files → split by event
 2013-03-20 100D5100 2012-2013 2,2013-03-20 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
-2013-03-20 Olympiad Day 3-1 1,2013-03-20 Conference,high,Top cats: Conference(3); School / Campus(3)
+2013-03-20 Olympiad Day 3-1 1,SPLIT,see final_split_map.json,175 files → split by event
 2013-03-20 Olympiad Day 3-1 2,2013-03-20 Conference,medium,Top cats: Conference(1)
 2013-03-20 The not-so-Interesting Pictures,2013-03-20 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2013-03-21 101D5100 2012-2013 1,2013-03-21 Conference,high,Top cats: Conference(8); School / Campus(4)
-2013-03-21 101D5100 2012-2013 2,2013-03-21 Conference - Lahore,medium,Top cats: Conference(2); Sports(1)
+2013-03-21 101D5100 2012-2013 2,SPLIT,see final_split_map.json,98 files → split by event
 2013-03-21 Olympiad Day 3 1,2013-03-21 Conference,high,Top cats: Conference(8); School / Campus(4)
-2013-03-21 Olympiad Day 3 2,2013-03-21 School / Campus,high,Top cats: School / Campus(3); Conference(2)
+2013-03-21 Olympiad Day 3 2,SPLIT,see final_split_map.json,98 files → split by event
 2013-03-22 Safari Park 1,2013-03-22 Hiking / Nature,medium,Top cats: Hiking / Nature(2); Beach(2)
-2013-03-23 Safari Park 2,2013-03-23 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Beach(1)
+2013-03-23 Safari Park 2,SPLIT,see final_split_map.json,186 files → split by event
 2013-03-23 The not-so-Interesting Pictures,2013-03-23 The not-so-Interesting Pictures,low,captions too generic
 2013-03-23 Untitled Folder 1,2013-03-23 Garden / Park,medium,Top cats: Garden / Park(1)
 2013-03-23 Untitled Folder 2,2013-03-23 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Garden / Park(1)
 2013-03-26 MHLakhani,2013-03-26 Zoo / Safari,high,Top cats: Zoo / Safari(8); School / Campus(2)
-2013-03-28 Alpha ShugaLUMS,2013-03-28 Sports - San Francisco,medium,Top cats: Sports(2); Hiking / Nature(1)
-2013-03-29 Ikebana,2013-03-29 Eid ul Adha,medium,Top cats: Eid ul Adha(2); Hiking / Nature(2)
+2013-03-28 Alpha ShugaLUMS,SPLIT,see final_split_map.json,303 files → split by event
+2013-03-29 Ikebana,SPLIT,see final_split_map.json,15 files → split by event
 2013-03-29 Unsorted 1,2013-03-29 Political - Lahore,high,Top cats: Political(6); Conference(3)
 2013-03-30 Anum Thingy,2013-03-30 Food / Restaurant,high,Top cats: Food / Restaurant(5); Wedding(2)
 2013-03-30 Ikebana 1,2013-03-30 Garden / Park,high,Top cats: Garden / Park(3); Food / Restaurant(2)
@@ -514,7 +514,7 @@ old_name,new_name,confidence,notes
 2013-03-30 Unsorted 2,2013-03-30 Zoo / Safari,medium,Top cats: Zoo / Safari(2)
 2013-03-31 Ikebana 1,2013-03-31 Ikebana 1,low,captions too generic
 2013-03-31 Ikebana 2,2013-03-31 Family Gathering - Lahore,medium,Top cats: Family Gathering(1)
-2013-03-31 Ikebana 3,2013-03-31 Hiking / Nature,medium,Top cats: Hiking / Nature(2); Garden / Park(2)
+2013-03-31 Ikebana 3,SPLIT,see final_split_map.json,21 files → split by event
 2013-04-01 Ikebana,2013-04-01 Ikebana,low,captions too generic
 2013-04-01 Lahore Fort 1,2013-04-01 School / Campus - Lahore,high,Top cats: School / Campus(3); Beach(2)
 2013-04-01 Lahore Fort 2,2013-04-01 Lahore Fort 2,low,captions too generic
@@ -530,20 +530,20 @@ old_name,new_name,confidence,notes
 2013-04-06 Weird Pictures with Famous People,2013-04-06 Weird Pictures with Famous People,low,captions too generic
 2013-04-11 Ikebana,2013-04-11 Wedding,medium,Top cats: Wedding(1)
 2013-04-12 Vibrant Lahore,2013-04-12 Garden / Park - Lahore,medium,Top cats: Garden / Park(2)
-2013-04-15 Daku Day (2),2013-04-15 Birthday - Lahore,medium,Top cats: Birthday(1); School / Campus(1)
-2013-04-16 Daku Day,2013-04-16 Birthday - Lahore,medium,Top cats: Birthday(1); Garden / Park(1)
+2013-04-15 Daku Day (2),SPLIT,see final_split_map.json,403 files → split by event
+2013-04-16 Daku Day,SPLIT,see final_split_map.json,525 files → split by event
 2013-04-16 Others 2012-2013,2013-04-16 Others 2012-2013,low,captions too generic
 2013-04-17 Paindoo Day 1,2013-04-17 Paindoo Day 1,low,captions too generic
 2013-04-17 Paindoo Day 2,2013-04-17 Garden / Park - Lahore,medium,Top cats: Garden / Park(2); Wedding(1)
 2013-04-18 Yo Day 1,2013-04-18 Yo Day 1,low,captions too generic
-2013-04-18 Yo Day 2,2013-04-18 School / Campus,medium,Top cats: School / Campus(2); Garden / Park(2)
+2013-04-18 Yo Day 2,SPLIT,see final_split_map.json,520 files → split by event
 2013-04-24 Rung,2013-04-24 School / Campus - Cambridge,medium,Top cats: School / Campus(1); Garden / Park(1)
 2013-04-27 Rung,2013-04-27 Family Gathering,high,Top cats: Family Gathering(5); Garden / Park(2)
-2013-04-28 Alpha Rung,2013-04-28 Garden / Park,medium,Top cats: Garden / Park(1); Construction(1)
-2013-04-28 Rung,2013-04-28 School / Campus,medium,Top cats: School / Campus(1); Garden / Park(1)
+2013-04-28 Alpha Rung,SPLIT,see final_split_map.json,1671 files → split by event
+2013-04-28 Rung,SPLIT,see final_split_map.json,1671 files → split by event
 2013-05-08 Others 2012-2013,2013-05-08 Food / Restaurant,medium,Top cats: Food / Restaurant(2); School / Campus(1)
-2013-05-09 Others 2012-2013,2013-05-09 School / Campus,high,Top cats: School / Campus(5); Conference(4)
-2013-06-16 Unsorted 1,2013-06-16 Beach - Lahore,medium,Top cats: Beach(2); Hiking / Nature(1)
+2013-05-09 Others 2012-2013,SPLIT,see final_split_map.json,10 files → split by event
+2013-06-16 Unsorted 1,SPLIT,see final_split_map.json,3009 files → split by event
 2013-06-19 Unsorted 3,2013-06-19 Family Gathering,medium,Top cats: Family Gathering(2)
 2013-08-20 Old City,2013-08-20 Old City,low,captions too generic
 2013-09-16 Unsorted 4,2013-09-16 Unsorted 4,low,captions too generic
@@ -553,12 +553,12 @@ old_name,new_name,confidence,notes
 2013-11-10 Unsorted 2,2013-11-10 Beach,medium,Top cats: Beach(1); School / Campus(1)
 2013-11-11 Unsorted 3,2013-11-11 Food / Restaurant - New York,medium,Top cats: Food / Restaurant(1)
 2013-11-11 Unsorted 4,2013-11-11 Unsorted 4,low,captions too generic
-2013-11-12 Unsorted 5,2013-11-12 Family Gathering,high,Top cats: Family Gathering(3); Conference(2)
+2013-11-12 Unsorted 5,SPLIT,see final_split_map.json,56 files → split by event
 2013-11-15 Unsorted 6,2013-11-15 Unsorted 6,low,captions too generic
 2013-11-15 Unsorted 7,2013-11-15 Zoo / Safari,medium,Top cats: Zoo / Safari(2)
 2013-11-16 Unsorted 8,2013-11-16 Family Gathering,medium,Top cats: Family Gathering(2); Food / Restaurant(1)
 2013-11-19 Unsorted 10,2013-11-19 Food / Restaurant,medium,Top cats: Food / Restaurant(1); Zoo / Safari(1)
-2013-11-19 Unsorted 11,2013-11-19 Baby / Newborn,medium,Top cats: Baby / Newborn(2); Food / Restaurant(1)
+2013-11-19 Unsorted 11,SPLIT,see final_split_map.json,23 files → split by event
 2013-11-19 Unsorted 9,2013-11-19 Unsorted 9,low,captions too generic
 2013-11-21 Unsorted 12,2013-11-21 Unsorted 12,low,captions too generic
 2013-11-22 Unsorted 13,2013-11-22 Unsorted 13,low,captions too generic
@@ -576,16 +576,16 @@ old_name,new_name,confidence,notes
 2013-12-21 Unsorted 23,2013-12-21 Zoo / Safari,medium,Top cats: Zoo / Safari(2); Garden / Park(1)
 2013-12-21 Unsorted 3,2013-12-21 Unsorted 3,low,captions too generic
 2013-12-24 Unsorted 24,2013-12-24 Unsorted 24,low,captions too generic
-2013-12-28 Unsorted 25,2013-12-28 School / Campus,high,Top cats: School / Campus(3); Conference(1)
+2013-12-28 Unsorted 25,SPLIT,see final_split_map.json,30 files → split by event
 2013-12-28 Unsorted 4,2013-12-28 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2013-12-29 Unsorted 5,2013-12-29 School / Campus,high,Top cats: School / Campus(5); Food / Restaurant(3)
 2013-12-30 Unsorted 6,2013-12-30 Garden / Park,medium,Top cats: Garden / Park(1)
 2013-12-31 Unsorted 7,2013-12-31 Food / Restaurant,high,Top cats: Food / Restaurant(3)
-2014-01-01 Unsorted 1,2014-01-01 Garden / Park,medium,Top cats: Garden / Park(2)
+2014-01-01 Unsorted 1,SPLIT,see final_split_map.json,1535 files → split by event
 2014-01-04 Olympic NP- Seattle,2014-01-04 Olympic NP- Seattle,low,captions too generic
 2014-01-04 Unsorted 2,2014-01-04 Unsorted 2,low,captions too generic
 2014-01-06 Unsorted 8,2014-01-06 Zoo / Safari,medium,Top cats: Zoo / Safari(1)
-2014-01-07 Unsorted 4,2014-01-07 Sports,high,Top cats: Sports(8); Garden / Park(3)
+2014-01-07 Unsorted 4,SPLIT,see final_split_map.json,1103 files → split by event
 2014-01-07 Unsorted 9,2014-01-07 Unsorted 9,low,captions too generic
 2014-01-12 Unsorted 10,2014-01-12 Unsorted 10,low,captions too generic
 2014-01-12 Unsorted 11,2014-01-12 Unsorted 11,low,captions too generic
@@ -595,7 +595,7 @@ old_name,new_name,confidence,notes
 2014-01-13 Unsorted 3,2014-01-13 Hiking / Nature,high,Top cats: Hiking / Nature(4); Garden / Park(3)
 2014-01-16 Unsorted 14,2014-01-16 Unsorted 14,low,captions too generic
 2014-01-18 Kite Aerial Photography,2014-01-18 Kite Aerial Photography,low,captions too generic
-2014-01-18 Unsorted 13,2014-01-18 Snow / Winter,high,Top cats: Snow / Winter(4); Hiking / Nature(1)
+2014-01-18 Unsorted 13,SPLIT,see final_split_map.json,578 files → split by event
 2014-01-20 Unsorted 15,2014-01-20 Unsorted 15,low,captions too generic
 2014-01-21 Unsorted 16,2014-01-21 Unsorted 16,low,captions too generic
 2014-01-23 Unsorted 17,2014-01-23 Food / Restaurant,high,Top cats: Food / Restaurant(4); Beach(1)
@@ -616,7 +616,7 @@ old_name,new_name,confidence,notes
 2014-02-06 Unsorted 30,2014-02-06 Unsorted 30,low,captions too generic
 2014-02-10 Unsorted 31,2014-02-10 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2014-02-12 Kite Aerial Photography,2014-02-12 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Garden / Park(1)
-2014-02-12 Unsorted 27,2014-02-12 Beach,medium,Top cats: Beach(1); Zoo / Safari(1)
+2014-02-12 Unsorted 27,SPLIT,see final_split_map.json,387 files → split by event
 2014-02-12 Unsorted 29,2014-02-12 Medical,medium,Top cats: Medical(1)
 2014-02-12 Unsorted 32,2014-02-12 Beach,high,Top cats: Beach(4); Garden / Park(1)
 2014-02-14 Unsorted 33,2014-02-14 Trip / Travel,medium,Top cats: Trip / Travel(2); School / Campus(2)
@@ -629,7 +629,7 @@ old_name,new_name,confidence,notes
 2014-02-22 Unsorted 39,2014-02-22 Unsorted 39,low,captions too generic
 2014-02-23 Unsorted 40,2014-02-23 Garden / Park,medium,Top cats: Garden / Park(1)
 2014-02-23 Unsorted 41,2014-02-23 Conference,medium,Top cats: Conference(1)
-2014-02-24 Unsorted 31,2014-02-24 Wedding - Lahore,high,Top cats: Wedding(11); Family Gathering(8)
+2014-02-24 Unsorted 31,SPLIT,see final_split_map.json,52 files → split by event
 2014-02-24 Unsorted 42,2014-02-24 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2014-02-25 Unsorted 43,2014-02-25 Food / Restaurant,high,Top cats: Food / Restaurant(3)
 2014-02-26 Unsorted 32,2014-02-26 Wedding - Lahore,high,Top cats: Wedding(4); School / Campus(1)
@@ -642,7 +642,7 @@ old_name,new_name,confidence,notes
 2014-03-06 Unsorted 37,2014-03-06 Family Gathering,medium,Top cats: Family Gathering(1); School / Campus(1)
 2014-03-06 Unsorted 46,2014-03-06 Unsorted 46,low,captions too generic
 2014-03-07 Unsorted 47,2014-03-07 Unsorted 47,low,captions too generic
-2014-03-08 Unsorted 38,2014-03-08 School / Campus,medium,Top cats: School / Campus(2); Garden / Park(2)
+2014-03-08 Unsorted 38,SPLIT,see final_split_map.json,15 files → split by event
 2014-03-10 Unsorted 48,2014-03-10 Unsorted 48,low,captions too generic
 2014-03-11 Unsorted 39,2014-03-11 Unsorted 39,low,captions too generic
 2014-03-11 Unsorted 49,2014-03-11 Unsorted 49,low,captions too generic
@@ -671,16 +671,16 @@ old_name,new_name,confidence,notes
 2014-04-15 Unsorted 50,2014-04-15 Trip / Travel,medium,Top cats: Trip / Travel(1); Food / Restaurant(1)
 2014-05-11 Unsorted 51,2014-05-11 School / Campus,medium,Top cats: School / Campus(2); Garden / Park(2)
 2014-05-24 Unsorted 52,2014-05-24 Unsorted 52,low,captions too generic
-2014-05-24 Unsorted 53,2014-05-24 Hiking / Nature,medium,Top cats: Hiking / Nature(2); Beach(1)
+2014-05-24 Unsorted 53,SPLIT,see final_split_map.json,19 files → split by event
 2014-05-25 Unsorted 54,2014-05-25 Family Gathering,high,Top cats: Family Gathering(3)
-2014-05-25 Unsorted 55,2014-05-25 Family Gathering,high,Top cats: Family Gathering(3); Hiking / Nature(1)
+2014-05-25 Unsorted 55,SPLIT,see final_split_map.json,345 files → split by event
 2014-05-25 Unsorted 56,2014-05-25 Unsorted 56,low,captions too generic
 2014-05-26 Unsorted 57,2014-05-26 Unsorted 57,low,captions too generic
 2014-05-26 Unsorted 58,2014-05-26 Hiking / Nature,high,Top cats: Hiking / Nature(5)
 2014-06-20 Unsorted 59,2014-06-20 Wedding - Lahore,high,Top cats: Wedding(4); Graduation(2)
-2014-06-22 Unsorted 60,2014-06-22 Beach,medium,Top cats: Beach(2); Garden / Park(2)
-2014-07-05 Unsorted 61,2014-07-05 Beach,medium,Top cats: Beach(2); Zoo / Safari(2)
-2014-07-11 Unsorted 62,2014-07-11 Zoo / Safari,medium,Top cats: Zoo / Safari(2); Family Gathering(1)
+2014-06-22 Unsorted 60,SPLIT,see final_split_map.json,95 files → split by event
+2014-07-05 Unsorted 61,SPLIT,see final_split_map.json,36 files → split by event
+2014-07-11 Unsorted 62,SPLIT,see final_split_map.json,19 files → split by event
 2014-07-12 Unsorted 63,2014-07-12 Unsorted 63,low,captions too generic
 2014-07-13 Unsorted 64,2014-07-13 Unsorted 64,low,captions too generic
 2014-07-19 Unsorted 65,2014-07-19 Zoo / Safari,high,Top cats: Zoo / Safari(3); Food / Restaurant(1)
@@ -702,24 +702,24 @@ old_name,new_name,confidence,notes
 2014-09-27 Unsorted 73,2014-09-27 Unsorted 73,low,captions too generic
 2014-09-27 Unsorted 8,2014-09-27 Hiking / Nature,high,Top cats: Hiking / Nature(5); Sports(1)
 2014-09-28 Unsorted 10,2014-09-28 Beach,medium,Top cats: Beach(2)
-2014-09-28 Unsorted 9,2014-09-28 Beach,high,Top cats: Beach(3); Hiking / Nature(2)
+2014-09-28 Unsorted 9,SPLIT,see final_split_map.json,273 files → split by event
 2014-09-30 Unsorted 11,2014-09-30 Unsorted 11,low,captions too generic
 2014-10-05 Unsorted 12,2014-10-05 Unsorted 12,low,captions too generic
 2014-10-06 Unsorted 13,2014-10-06 Unsorted 13,low,captions too generic
 2014-10-08 Unsorted 14,2014-10-08 Unsorted 14,low,captions too generic
 2014-10-09 Unsorted 74,2014-10-09 Birthday,high,Top cats: Birthday(12)
 2014-10-11 Unsorted 75,2014-10-11 Unsorted 75,low,captions too generic
-2014-10-11 Unsorted 76,2014-10-11 Wedding - Lahore,high,Top cats: Wedding(8); Family Gathering(7)
+2014-10-11 Unsorted 76,SPLIT,see final_split_map.json,219 files → split by event
 2014-10-17 Unsorted 77,2014-10-17 Conference,medium,Top cats: Conference(1)
 2014-10-17 Unsorted 78,2014-10-17 School / Campus - San Francisco,medium,Top cats: School / Campus(1)
 2014-10-20 Unsorted 15,2014-10-20 Baby / Newborn,medium,Top cats: Baby / Newborn(1)
 2014-10-20 Unsorted 79,2014-10-20 Zoo / Safari,high,Top cats: Zoo / Safari(8)
 2014-10-23 Unsorted 16,2014-10-23 Beach - Mountain View,medium,Top cats: Beach(1); Food / Restaurant(1)
 2014-10-29 Unsorted 17,2014-10-29 School / Campus - Lahore,high,Top cats: School / Campus(7)
-2014-11-06 Unsorted 18,2014-11-06 Eid ul Adha,medium,Top cats: Eid ul Adha(2); Baby / Newborn(2)
+2014-11-06 Unsorted 18,SPLIT,see final_split_map.json,201 files → split by event
 2014-11-07 Unsorted 19,2014-11-07 Zoo / Safari,high,Top cats: Zoo / Safari(4); Food / Restaurant(2)
 2014-11-13 Unsorted 20,2014-11-13 Food / Restaurant,high,Top cats: Food / Restaurant(8)
-2014-11-14 Unsorted 21,2014-11-14 Family Gathering,medium,Top cats: Family Gathering(1); Snow / Winter(1)
+2014-11-14 Unsorted 21,SPLIT,see final_split_map.json,25 files → split by event
 2014-11-14 Unsorted 22,2014-11-14 Zoo / Safari,medium,Top cats: Zoo / Safari(1); Garden / Park(1)
 2014-11-17 Unsorted 23,2014-11-17 Birthday - Lahore,high,Top cats: Birthday(7); Graduation(1)
 2014-11-18 Unsorted 24,2014-11-18 Birthday,high,Top cats: Birthday(5); Food / Restaurant(2)
@@ -759,9 +759,9 @@ old_name,new_name,confidence,notes
 2015-01-16 Unknown Date Nokia217,2015-01-16 Hiking / Nature,medium,Top cats: Hiking / Nature(2)
 2015-01-17 Unknown Date Nokia217,2015-01-17 Hiking / Nature,medium,Top cats: Hiking / Nature(1); School / Campus(1)
 2015-01-18 Unknown Date Nokia217,2015-01-18 Unknown Date Nokia217,low,captions too generic
-2015-02-07 Unsorted 82,2015-02-07 Food / Restaurant,medium,Top cats: Food / Restaurant(1); Zoo / Safari(1)
+2015-02-07 Unsorted 82,SPLIT,see final_split_map.json,127 files → split by event
 2015-02-08 Unsorted 83,2015-02-08 Garden / Park,high,Top cats: Garden / Park(4)
-2015-02-09 Unsorted 84,2015-02-09 Unsorted 84,low,captions too generic
+2015-02-09 Unsorted 84,SPLIT,see final_split_map.json,66 files → split by event
 2015-02-12 Unsorted 85,2015-02-12 Garden / Park,medium,Top cats: Garden / Park(2); Zoo / Safari(1)
 2015-02-13 Unsorted 86,2015-02-13 Beach,medium,Top cats: Beach(2)
 2015-02-15 Unsorted 87,2015-02-15 Garden / Park,high,Top cats: Garden / Park(3); Conference(1)
@@ -790,12 +790,12 @@ old_name,new_name,confidence,notes
 2015-03-14 Unsorted 110,2015-03-14 Trip / Travel - New York,medium,Top cats: Trip / Travel(1); Conference(1)
 2015-03-15 Unsorted 111,2015-03-15 Food / Restaurant,high,Top cats: Food / Restaurant(10); Sports(2)
 2015-03-17 Unsorted 112,2015-03-17 Birthday,high,Top cats: Birthday(6); Family Gathering(1)
-2015-03-21 Unsorted 113,2015-03-21 Eid ul Adha,medium,Top cats: Eid ul Adha(1); Food / Restaurant(1)
+2015-03-21 Unsorted 113,SPLIT,see final_split_map.json,196 files → split by event
 2015-03-23 Unsorted 114,2015-03-23 Trip / Travel - Lahore,medium,Top cats: Trip / Travel(1); Sports(1)
 2015-03-31 Unsorted 116,2015-03-31 Unsorted 116,low,captions too generic
 2015-04-04 Unsorted 117,2015-04-04 Family Gathering,medium,Top cats: Family Gathering(2); Birthday(1)
 2015-04-04 Unsorted 35,2015-04-04 Birthday,high,Top cats: Birthday(5); Conference(1)
-2015-04-04 Unsorted 36,2015-04-04 Hiking / Nature,medium,Top cats: Hiking / Nature(2); Zoo / Safari(1)
+2015-04-04 Unsorted 36,SPLIT,see final_split_map.json,279 files → split by event
 2015-04-05 Unsorted 1,2015-04-05 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Garden / Park(1)
 2015-04-05 Unsorted 37,2015-04-05 Unsorted 37,low,captions too generic
 2015-04-08 Iowan,2015-04-08 Iowan,low,captions too generic
@@ -820,17 +820,17 @@ old_name,new_name,confidence,notes
 2015-04-28 YiCamera 1,2015-04-28 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2015-04-28 YiCamera 2,2015-04-28 School / Campus,medium,Top cats: School / Campus(1); Garden / Park(1)
 2015-04-30 Unsorted 122,2015-04-30 Garden / Park,medium,Top cats: Garden / Park(1)
-2015-04-30 YiCamera 1,2015-04-30 School / Campus,medium,Top cats: School / Campus(2); Garden / Park(2)
-2015-04-30 YiCamera 2,2015-04-30 Beach,medium,Top cats: Beach(1); Garden / Park(1)
+2015-04-30 YiCamera 1,SPLIT,see final_split_map.json,44 files → split by event
+2015-04-30 YiCamera 2,SPLIT,see final_split_map.json,413 files → split by event
 2015-05-03 Unsorted 123,2015-05-03 School / Campus,high,Top cats: School / Campus(3)
 2015-05-03 YiCamera,2015-05-03 Beach,high,Top cats: Beach(5); Hiking / Nature(1)
 2015-05-04 YiCamera,2015-05-04 Food / Restaurant,medium,Top cats: Food / Restaurant(2); Garden / Park(1)
 2015-05-05 YiCamera,2015-05-05 YiCamera,low,captions too generic
-2015-05-08 Unsorted 124,2015-05-08 Birthday,high,Top cats: Birthday(11); Garden / Park(6)
+2015-05-08 Unsorted 124,SPLIT,see final_split_map.json,120 files → split by event
 2015-05-17 Unsorted 125,2015-05-17 Family Gathering,medium,Top cats: Family Gathering(1); Food / Restaurant(1)
 2015-05-18 Unsorted 126,2015-05-18 Unsorted 126,low,captions too generic
 2015-05-19 Unsorted 127,2015-05-19 Unsorted 127,low,captions too generic
-2015-05-24 Unsorted 128,2015-05-24 Sports - Lahore,high,Top cats: Sports(3); Birthday(2)
+2015-05-24 Unsorted 128,SPLIT,see final_split_map.json,72 files → split by event
 2015-05-24 Unsorted 129,2015-05-24 Unsorted 129,low,captions too generic
 2015-05-24 Unsorted 39,2015-05-24 Unsorted 39,low,captions too generic
 2015-05-25 Iowan,2015-05-25 Garden / Park - Iowa City,medium,Top cats: Garden / Park(1)
@@ -863,22 +863,22 @@ old_name,new_name,confidence,notes
 2015-07-12 Unsorted 1,2015-07-12 Trip / Travel,medium,Top cats: Trip / Travel(2); Hiking / Nature(1)
 2015-07-12 Unsorted 5,2015-07-12 Hiking / Nature,high,Top cats: Hiking / Nature(3); Beach(2)
 2015-07-13 Unsorted 2,2015-07-13 Unsorted 2,low,captions too generic
-2015-07-13 Unsorted 3,2015-07-13 Zoo / Safari,high,Top cats: Zoo / Safari(9); Hiking / Nature(4)
+2015-07-13 Unsorted 3,SPLIT,see final_split_map.json,148 files → split by event
 2015-07-13 Unsorted 6,2015-07-13 Unsorted 6,low,captions too generic
-2015-07-13 Unsorted 7,2015-07-13 Hiking / Nature,high,Top cats: Hiking / Nature(5); Zoo / Safari(4)
+2015-07-13 Unsorted 7,SPLIT,see final_split_map.json,148 files → split by event
 2015-07-14 Iowan,2015-07-14 Iowan,low,captions too generic
 2015-07-14 YiCamera,2015-07-14 Hiking / Nature,high,Top cats: Hiking / Nature(4); Zoo / Safari(3)
-2015-07-15 Unsorted 4,2015-07-15 Food / Restaurant,medium,Top cats: Food / Restaurant(2); Garden / Park(1)
-2015-07-15 Unsorted 8,2015-07-15 Food / Restaurant,high,Top cats: Food / Restaurant(3); Sports(1)
-2015-07-16 Unsorted 10,2015-07-16 Food / Restaurant,high,Top cats: Food / Restaurant(3); Beach(2)
+2015-07-15 Unsorted 4,SPLIT,see final_split_map.json,94 files → split by event
+2015-07-15 Unsorted 8,SPLIT,see final_split_map.json,94 files → split by event
+2015-07-16 Unsorted 10,SPLIT,see final_split_map.json,17 files → split by event
 2015-07-16 Unsorted 5,2015-07-16 Unsorted 5,low,captions too generic
-2015-07-16 Unsorted 6,2015-07-16 Trip / Travel,medium,Top cats: Trip / Travel(1); Food / Restaurant(1)
+2015-07-16 Unsorted 6,SPLIT,see final_split_map.json,17 files → split by event
 2015-07-16 Unsorted 9,2015-07-16 Unsorted 9,low,captions too generic
 2015-07-16 YiCamera,2015-07-16 YiCamera,low,captions too generic
 2015-07-17 Unsorted 11,2015-07-17 Garden / Park,high,Top cats: Garden / Park(5); Food / Restaurant(2)
-2015-07-17 Unsorted 12,2015-07-17 Garden / Park - San Francisco,high,Top cats: Garden / Park(3); School / Campus(1)
+2015-07-17 Unsorted 12,SPLIT,see final_split_map.json,98 files → split by event
 2015-07-17 Unsorted 7,2015-07-17 Garden / Park - San Francisco,high,Top cats: Garden / Park(6); Food / Restaurant(1)
-2015-07-17 Unsorted 8,2015-07-17 Conference - San Francisco,medium,Top cats: Conference(1); Garden / Park(1)
+2015-07-17 Unsorted 8,SPLIT,see final_split_map.json,98 files → split by event
 2015-07-17 YiCamera,2015-07-17 Trip / Travel,high,Top cats: Trip / Travel(8)
 2015-07-18 Unsorted 10,2015-07-18 Hiking / Nature,high,Top cats: Hiking / Nature(5); Beach(5)
 2015-07-18 Unsorted 13,2015-07-18 Unsorted 13,low,captions too generic
@@ -892,9 +892,9 @@ old_name,new_name,confidence,notes
 2015-07-19 YiCamera 2,2015-07-19 YiCamera 2,low,captions too generic
 2015-07-20 Iowan,2015-07-20 Garden / Park - Iowa City,medium,Top cats: Garden / Park(1)
 2015-07-20 Unsorted 12,2015-07-20 Eid ul Adha,medium,Top cats: Eid ul Adha(2); Eid ul Fitr(2)
-2015-07-20 Unsorted 13,2015-07-20 Garden / Park - San Francisco,high,Top cats: Garden / Park(3); Food / Restaurant(1)
+2015-07-20 Unsorted 13,SPLIT,see final_split_map.json,364 files → split by event
 2015-07-20 Unsorted 16,2015-07-20 Eid ul Adha,medium,Top cats: Eid ul Adha(1); Eid ul Fitr(1)
-2015-07-20 Unsorted 17,2015-07-20 Food / Restaurant - San Francisco,medium,Top cats: Food / Restaurant(2); Hiking / Nature(1)
+2015-07-20 Unsorted 17,SPLIT,see final_split_map.json,364 files → split by event
 2015-07-20 YiCamera 1,2015-07-20 Hiking / Nature,medium,Top cats: Hiking / Nature(2)
 2015-07-20 YiCamera 2,2015-07-20 YiCamera 2,low,captions too generic
 2015-07-21 YiCamera,2015-07-21 Food / Restaurant - San Francisco,medium,Top cats: Food / Restaurant(2); Garden / Park(1)
@@ -914,8 +914,8 @@ old_name,new_name,confidence,notes
 2015-07-24 Unsorted 22,2015-07-24 Birthday,medium,Top cats: Birthday(1)
 2015-07-24 Unsorted 23,2015-07-24 Unsorted 23,low,captions too generic
 2015-07-24 YiCamera,2015-07-24 Garden / Park,medium,Top cats: Garden / Park(1)
-2015-07-25 Unsorted 20,2015-07-25 Garden / Park - San Francisco,medium,Top cats: Garden / Park(2); Hiking / Nature(1)
-2015-07-25 Unsorted 24,2015-07-25 Garden / Park - San Francisco,high,Top cats: Garden / Park(3)
+2015-07-25 Unsorted 20,SPLIT,see final_split_map.json,68 files → split by event
+2015-07-25 Unsorted 24,SPLIT,see final_split_map.json,68 files → split by event
 2015-07-26 YiCamera,2015-07-26 YiCamera,low,captions too generic
 2015-07-30 Iowan,2015-07-30 Iowan,low,captions too generic
 2015-07-30 Unsorted 21,2015-07-30 Unsorted 21,low,captions too generic
@@ -971,12 +971,12 @@ old_name,new_name,confidence,notes
 2015-08-15 YiCamera 1,2015-08-15 Hiking / Nature,high,Top cats: Hiking / Nature(4); Beach(1)
 2015-08-15 YiCamera 2,2015-08-15 Garden / Park - Lahore,high,Top cats: Garden / Park(6); Beach(2)
 2015-08-16 Unsorted 10,2015-08-16 Beach,high,Top cats: Beach(6); Food / Restaurant(1)
-2015-08-16 Unsorted 31,2015-08-16 Garden / Park,high,Top cats: Garden / Park(3); Food / Restaurant(1)
+2015-08-16 Unsorted 31,SPLIT,see final_split_map.json,34 files → split by event
 2015-08-16 Unsorted 32,2015-08-16 Hiking / Nature - San Francisco,medium,Top cats: Hiking / Nature(1); Beach(1)
-2015-08-16 Unsorted 33,2015-08-16 Hiking / Nature,medium,Top cats: Hiking / Nature(2); Beach(1)
+2015-08-16 Unsorted 33,SPLIT,see final_split_map.json,172 files → split by event
 2015-08-16 Unsorted 36,2015-08-16 Hiking / Nature - Lahore,medium,Top cats: Hiking / Nature(2); Baby / Newborn(1)
 2015-08-16 Unsorted 37,2015-08-16 Hiking / Nature,high,Top cats: Hiking / Nature(3)
-2015-08-16 Unsorted 8,2015-08-16 Garden / Park - Naran,high,Top cats: Garden / Park(3); Hiking / Nature(1)
+2015-08-16 Unsorted 8,SPLIT,see final_split_map.json,34 files → split by event
 2015-08-16 Unsorted 9,2015-08-16 Beach,high,Top cats: Beach(5)
 2015-08-16 YiCamera 1,2015-08-16 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2015-08-16 YiCamera 2,2015-08-16 Hiking / Nature,high,Top cats: Hiking / Nature(8); Beach(1)
@@ -1046,10 +1046,10 @@ old_name,new_name,confidence,notes
 2015-08-27 Unsorted 59,2015-08-27 Unsorted 59,low,captions too generic
 2015-08-27 Unsorted 60,2015-08-27 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2015-08-28 Iowan,2015-08-28 Iowan,low,captions too generic
-2015-08-28 Unsorted 36,2015-08-28 Unsorted 36,low,captions too generic
+2015-08-28 Unsorted 36,SPLIT,see final_split_map.json,111 files → split by event
 2015-08-28 Unsorted 38,2015-08-28 Unsorted 38,low,captions too generic
 2015-08-28 Unsorted 39,2015-08-28 School / Campus,medium,Top cats: School / Campus(1)
-2015-08-28 Unsorted 40,2015-08-28 Political - Lahore,medium,Top cats: Political(1)
+2015-08-28 Unsorted 40,SPLIT,see final_split_map.json,112 files → split by event
 2015-08-28 Unsorted 41,2015-08-28 Unsorted 41,low,captions too generic
 2015-08-28 Unsorted 61,2015-08-28 Unsorted 61,low,captions too generic
 2015-08-28 Unsorted 62,2015-08-28 School / Campus,medium,Top cats: School / Campus(1)
@@ -1164,10 +1164,10 @@ old_name,new_name,confidence,notes
 2015-09-19 Unsorted 44,2015-09-19 Conference - Lahore,high,Top cats: Conference(4); Political(1)
 2015-09-19 Unsorted 47,2015-09-19 Garden / Park,medium,Top cats: Garden / Park(2)
 2015-09-19 Unsorted 48,2015-09-19 Conference - Lahore,high,Top cats: Conference(5); Political(1)
-2015-09-20 Unsorted 107,2015-09-20 Trip / Travel,high,Top cats: Trip / Travel(4); Food / Restaurant(3)
+2015-09-20 Unsorted 107,SPLIT,see final_split_map.json,35 files → split by event
 2015-09-20 Unsorted 45,2015-09-20 Trip / Travel,medium,Top cats: Trip / Travel(2); Family Gathering(2)
 2015-09-20 Unsorted 49,2015-09-20 Trip / Travel,medium,Top cats: Trip / Travel(2); Family Gathering(2)
-2015-09-20 Unsorted 84,2015-09-20 Trip / Travel,medium,Top cats: Trip / Travel(2); Food / Restaurant(2)
+2015-09-20 Unsorted 84,SPLIT,see final_split_map.json,35 files → split by event
 2015-09-20 YiCamera,2015-09-20 Trip / Travel,high,Top cats: Trip / Travel(3); Beach(3)
 2015-09-22 Unsorted 46,2015-09-22 Food / Restaurant,medium,Top cats: Food / Restaurant(2); Conference(1)
 2015-09-22 Unsorted 50,2015-09-22 Food / Restaurant,medium,Top cats: Food / Restaurant(2); Conference(1)
@@ -1182,11 +1182,11 @@ old_name,new_name,confidence,notes
 2015-09-26 Unsorted 110,2015-09-26 Unsorted 110,low,captions too generic
 2015-09-26 Unsorted 87,2015-09-26 Unsorted 87,low,captions too generic
 2015-09-27 Unsorted 111,2015-09-27 Beach - Lahore,high,Top cats: Beach(3); Garden / Park(2)
-2015-09-27 Unsorted 112,2015-09-27 Beach - Lahore,medium,Top cats: Beach(1)
+2015-09-27 Unsorted 112,SPLIT,see final_split_map.json,60 files → split by event
 2015-09-27 Unsorted 49,2015-09-27 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(5); Trip / Travel(1)
 2015-09-27 Unsorted 53,2015-09-27 Hiking / Nature,high,Top cats: Hiking / Nature(3); Trip / Travel(1)
 2015-09-27 Unsorted 88,2015-09-27 Beach - Lahore,high,Top cats: Beach(3); Garden / Park(2)
-2015-09-27 Unsorted 89,2015-09-27 Zoo / Safari - Naran,medium,Top cats: Zoo / Safari(1)
+2015-09-27 Unsorted 89,SPLIT,see final_split_map.json,60 files → split by event
 2015-09-27 YiCamera,2015-09-27 Beach,high,Top cats: Beach(3)
 2015-09-29 Unsorted 113,2015-09-29 Unsorted 113,low,captions too generic
 2015-09-29 Unsorted 114,2015-09-29 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
@@ -1210,8 +1210,8 @@ old_name,new_name,confidence,notes
 2015-10-05 Unsorted 118,2015-10-05 Unsorted 118,low,captions too generic
 2015-10-05 Unsorted 119,2015-10-05 Unsorted 119,low,captions too generic
 2015-10-05 Unsorted 120,2015-10-05 Unsorted 120,low,captions too generic
-2015-10-05 Unsorted 54,2015-10-05 Food / Restaurant - New York,high,Top cats: Food / Restaurant(5); Hiking / Nature(2)
-2015-10-05 Unsorted 58,2015-10-05 Food / Restaurant - New York,high,Top cats: Food / Restaurant(5); Beach(4)
+2015-10-05 Unsorted 54,SPLIT,see final_split_map.json,28 files → split by event
+2015-10-05 Unsorted 58,SPLIT,see final_split_map.json,28 files → split by event
 2015-10-05 Unsorted 95,2015-10-05 Unsorted 95,low,captions too generic
 2015-10-05 Unsorted 96,2015-10-05 Unsorted 96,low,captions too generic
 2015-10-05 Unsorted 97,2015-10-05 Unsorted 97,low,captions too generic
@@ -1263,9 +1263,9 @@ old_name,new_name,confidence,notes
 2015-10-16 Unsorted 115,2015-10-16 Unsorted 115,low,captions too generic
 2015-10-16 Unsorted 116,2015-10-16 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2015-10-16 Unsorted 60,2015-10-16 Unsorted 60,low,captions too generic
-2015-10-16 Unsorted 61,2015-10-16 Unsorted 61,low,captions too generic
+2015-10-16 Unsorted 61,SPLIT,see final_split_map.json,127 files → split by event
 2015-10-16 Unsorted 64,2015-10-16 Unsorted 64,low,captions too generic
-2015-10-16 Unsorted 65,2015-10-16 School / Campus - Lahore,medium,Top cats: School / Campus(1)
+2015-10-16 Unsorted 65,SPLIT,see final_split_map.json,127 files → split by event
 2015-10-17 Unsorted 117,2015-10-17 Construction,medium,Top cats: Construction(1)
 2015-10-17 Unsorted 118,2015-10-17 Beach,medium,Top cats: Beach(1); Food / Restaurant(1)
 2015-10-17 Unsorted 119,2015-10-17 Food / Restaurant,medium,Top cats: Food / Restaurant(2)
@@ -1328,14 +1328,14 @@ old_name,new_name,confidence,notes
 2015-11-16 Unsorted 77,2015-11-16 Birthday,high,Top cats: Birthday(4); Food / Restaurant(1)
 2015-11-17 Iowan,2015-11-17 Birthday - Iowa City,medium,Top cats: Birthday(1)
 2015-11-17 Unsorted 152,2015-11-17 Food / Restaurant - Lahore,medium,Top cats: Food / Restaurant(1)
-2015-11-17 Unsorted 74,2015-11-17 Birthday,high,Top cats: Birthday(6); Family Gathering(4)
-2015-11-17 Unsorted 78,2015-11-17 Birthday,high,Top cats: Birthday(8); Family Gathering(5)
+2015-11-17 Unsorted 74,SPLIT,see final_split_map.json,51 files → split by event
+2015-11-17 Unsorted 78,SPLIT,see final_split_map.json,51 files → split by event
 2015-11-18 Unsorted 153,2015-11-18 Birthday,high,Top cats: Birthday(4)
 2015-11-19 Iowan,2015-11-19 Iowan,low,captions too generic
 2015-11-19 Unsorted 135,2015-11-19 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2015-11-19 Unsorted 136,2015-11-19 Unsorted 136,low,captions too generic
 2015-11-20 Unsorted 137,2015-11-20 Construction,high,Top cats: Construction(3); Hiking / Nature(2)
-2015-11-20 Unsorted 138,2015-11-20 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Conference(1)
+2015-11-20 Unsorted 138,SPLIT,see final_split_map.json,44 files → split by event
 2015-11-20 Unsorted 139,2015-11-20 Garden / Park,medium,Top cats: Garden / Park(2); Trip / Travel(1)
 2015-11-20 Unsorted 140,2015-11-20 Zoo / Safari,high,Top cats: Zoo / Safari(3); Beach(1)
 2015-11-20 Unsorted 154,2015-11-20 Beach,high,Top cats: Beach(3); Hiking / Nature(2)
@@ -1393,7 +1393,7 @@ old_name,new_name,confidence,notes
 2015-12-18 Unsorted 7,2015-12-18 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2015-12-19 Unsorted 197,2015-12-19 Food / Restaurant,high,Top cats: Food / Restaurant(3); Beach(1)
 2015-12-19 Unsorted 8,2015-12-19 Sports,medium,Top cats: Sports(1)
-2015-12-20 Unsorted 9,2015-12-20 School / Campus,medium,Top cats: School / Campus(2); Hiking / Nature(1)
+2015-12-20 Unsorted 9,SPLIT,see final_split_map.json,31 files → split by event
 2015-12-21 Unsorted 198,2015-12-21 Unsorted 198,low,captions too generic
 2015-12-22 Unsorted 10,2015-12-22 Unsorted 10,low,captions too generic
 2015-12-22 Unsorted 199,2015-12-22 Unsorted 199,low,captions too generic
@@ -1422,7 +1422,7 @@ old_name,new_name,confidence,notes
 2016-01-07 Unsorted 217,2016-01-07 Food / Restaurant,high,Top cats: Food / Restaurant(5)
 2016-01-08 Unsorted 218,2016-01-08 Food / Restaurant,high,Top cats: Food / Restaurant(6)
 2016-01-08 Unsorted 219,2016-01-08 Beach,medium,Top cats: Beach(1)
-2016-01-08 Unsorted 220,2016-01-08 Food / Restaurant,high,Top cats: Food / Restaurant(8); Zoo / Safari(7)
+2016-01-08 Unsorted 220,SPLIT,see final_split_map.json,19 files → split by event
 2016-01-09 Unsorted 221,2016-01-09 Hiking / Nature - Lahore,medium,Top cats: Hiking / Nature(1); School / Campus(1)
 2016-01-09 Unsorted 222,2016-01-09 Family Gathering,medium,Top cats: Family Gathering(1)
 2016-01-09 Unsorted 223,2016-01-09 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Beach(1)
@@ -1439,7 +1439,7 @@ old_name,new_name,confidence,notes
 2016-01-17 Unsorted 233,2016-01-17 Beach,medium,Top cats: Beach(1); Food / Restaurant(1)
 2016-01-18 Unsorted 17,2016-01-18 Garden / Park,high,Top cats: Garden / Park(3); Hiking / Nature(1)
 2016-01-18 Unsorted 234,2016-01-18 Beach,medium,Top cats: Beach(1)
-2016-01-19 Unsorted 18,2016-01-19 School / Campus,medium,Top cats: School / Campus(2); Trip / Travel(1)
+2016-01-19 Unsorted 18,SPLIT,see final_split_map.json,14 files → split by event
 2016-01-19 Unsorted 235,2016-01-19 Unsorted 235,low,captions too generic
 2016-01-19 Unsorted 236,2016-01-19 Beach,high,Top cats: Beach(4)
 2016-01-20 Unsorted 237,2016-01-20 Conference,medium,Top cats: Conference(1); Garden / Park(1)
@@ -1453,7 +1453,7 @@ old_name,new_name,confidence,notes
 2016-01-27 Unsorted 244,2016-01-27 Unsorted 244,low,captions too generic
 2016-01-27 Unsorted 245,2016-01-27 Beach,medium,Top cats: Beach(2)
 2016-01-27 Unsorted 246,2016-01-27 Food / Restaurant - New York,medium,Top cats: Food / Restaurant(2); Zoo / Safari(1)
-2016-01-28 Unsorted 19,2016-01-28 Birthday,high,Top cats: Birthday(6); Family Gathering(4)
+2016-01-28 Unsorted 19,SPLIT,see final_split_map.json,50 files → split by event
 2016-01-28 YiCamera,2016-01-28 Birthday,high,Top cats: Birthday(10); Food / Restaurant(1)
 2016-01-29 Unsorted 247,2016-01-29 Food / Restaurant,high,Top cats: Food / Restaurant(3)
 2016-01-29 Unsorted 248,2016-01-29 Unsorted 248,low,captions too generic
@@ -1478,7 +1478,7 @@ old_name,new_name,confidence,notes
 2016-02-09 Unsorted 260,2016-02-09 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2016-02-09 Unsorted 261,2016-02-09 School / Campus,medium,Top cats: School / Campus(1)
 2016-02-09 Unsorted 262,2016-02-09 Unsorted 262,low,captions too generic
-2016-02-11 Unsorted 26,2016-02-11 Snow / Winter,high,Top cats: Snow / Winter(11); Hiking / Nature(5)
+2016-02-11 Unsorted 26,SPLIT,see final_split_map.json,111 files → split by event
 2016-02-11 Unsorted 263,2016-02-11 Snow / Winter - Lahore,high,Top cats: Snow / Winter(8); Hiking / Nature(1)
 2016-02-11 Unsorted 27,2016-02-11 Unsorted 27,low,captions too generic
 2016-02-11 Unsorted 28,2016-02-11 Hiking / Nature,high,Top cats: Hiking / Nature(7); Snow / Winter(7)
@@ -1527,7 +1527,7 @@ old_name,new_name,confidence,notes
 2016-03-20 Unsorted 295,2016-03-20 Hiking / Nature,medium,Top cats: Hiking / Nature(2); Beach(2)
 2016-03-20 Unsorted 296,2016-03-20 Hiking / Nature - Naran,medium,Top cats: Hiking / Nature(1)
 2016-03-20 Unsorted 36,2016-03-20 Snow / Winter,high,Top cats: Snow / Winter(4)
-2016-03-20 Unsorted 37,2016-03-20 Hiking / Nature,high,Top cats: Hiking / Nature(8); Snow / Winter(5)
+2016-03-20 Unsorted 37,SPLIT,see final_split_map.json,32 files → split by event
 2016-03-20 Unsorted 38,2016-03-20 Hiking / Nature,high,Top cats: Hiking / Nature(5); Food / Restaurant(3)
 2016-03-20 YiCamera 1,2016-03-20 Beach,high,Top cats: Beach(10)
 2016-03-20 YiCamera 2,2016-03-20 Snow / Winter - Seattle,high,Top cats: Snow / Winter(4)
@@ -1640,7 +1640,7 @@ old_name,new_name,confidence,notes
 2016-10-06 ZTE,2016-10-06 Garden / Park,medium,Top cats: Garden / Park(1)
 2016-10-07 Unsorted 41,2016-10-07 Unsorted 41,low,captions too generic
 2016-10-07 ZTE 1,2016-10-07 ZTE 1,low,captions too generic
-2016-10-07 ZTE 2,2016-10-07 Sports - Iowa City,high,Top cats: Sports(5); School / Campus(3)
+2016-10-07 ZTE 2,SPLIT,see final_split_map.json,7 files → split by event
 2016-10-08 ZTE,2016-10-08 Family Gathering,medium,Top cats: Family Gathering(1); Food / Restaurant(1)
 2016-10-09 ZTE,2016-10-09 ZTE,low,captions too generic
 2016-10-10 Unsorted 42,2016-10-10 Food / Restaurant,medium,Top cats: Food / Restaurant(2); School / Campus(1)
@@ -1657,7 +1657,7 @@ old_name,new_name,confidence,notes
 2016-10-15 ZTE 2,2016-10-15 Food / Restaurant,medium,Top cats: Food / Restaurant(2); Garden / Park(1)
 2016-10-16 ZTE 1,2016-10-16 ZTE 1,low,captions too generic
 2016-10-16 ZTE 2,2016-10-16 ZTE 2,low,captions too generic
-2016-10-17 ZTE,2016-10-17 Wedding,medium,Top cats: Wedding(1); Beach(1)
+2016-10-17 ZTE,SPLIT,see final_split_map.json,5 files → split by event
 2016-10-18 ZTE,2016-10-18 ZTE,low,captions too generic
 2016-10-19 ZTE 1,2016-10-19 ZTE 1,low,captions too generic
 2016-10-19 ZTE 2,2016-10-19 ZTE 2,low,captions too generic
@@ -1671,7 +1671,7 @@ old_name,new_name,confidence,notes
 2016-11-04 Unsorted 45,2016-11-04 School / Campus - New York,medium,Top cats: School / Campus(1)
 2016-11-04 YiCamera,2016-11-04 School / Campus - New York,medium,Top cats: School / Campus(1)
 2016-11-08 Unsorted 46,2016-11-08 Zoo / Safari,medium,Top cats: Zoo / Safari(2)
-2016-11-11 Unsorted 143,2016-11-11 Sports - Iowa City,high,Top cats: Sports(11); Conference(1)
+2016-11-11 Unsorted 143,SPLIT,see final_split_map.json,751 files → split by event
 2016-11-12 Unsorted 47,2016-11-12 School / Campus,medium,Top cats: School / Campus(2); Garden / Park(1)
 2016-11-12 YiCamera,2016-11-12 School / Campus,medium,Top cats: School / Campus(2); Garden / Park(1)
 2016-11-13 Unsorted 48,2016-11-13 Unsorted 48,low,captions too generic
@@ -1699,7 +1699,7 @@ old_name,new_name,confidence,notes
 2016-11-28 YiCamera,2016-11-28 Conference,medium,Top cats: Conference(1)
 2016-11-29 Unsorted 8,2016-11-29 Conference,medium,Top cats: Conference(1)
 2016-12-05 Canon 1D Mark IV,2016-12-05 Canon 1D Mark IV,low,captions too generic
-2017-01-01 Unsorted 1,2017-01-01 Hiking / Nature,medium,Top cats: Hiking / Nature(2); Beach(1)
+2017-01-01 Unsorted 1,SPLIT,see final_split_map.json,660 files → split by event
 2017-01-02 Unsorted 60,2017-01-02 Family Gathering,medium,Top cats: Family Gathering(2); Food / Restaurant(2)
 2017-01-02 YiCamera,2017-01-02 Food / Restaurant,high,Top cats: Food / Restaurant(3); Family Gathering(2)
 2017-01-09 Unsorted 2,2017-01-09 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Beach(1)
@@ -1708,7 +1708,7 @@ old_name,new_name,confidence,notes
 2017-01-12 Unsorted 62,2017-01-12 Hiking / Nature,medium,Top cats: Hiking / Nature(1)
 2017-01-12 Unsorted 63,2017-01-12 Family Gathering,medium,Top cats: Family Gathering(1)
 2017-01-12 YiCamera,2017-01-12 Family Gathering,medium,Top cats: Family Gathering(1)
-2017-01-13 Unsorted 64,2017-01-13 Unsorted 64,low,captions too generic
+2017-01-13 Unsorted 64,SPLIT,see final_split_map.json,1634 files → split by event
 2017-01-13 YiCamera,2017-01-13 YiCamera,low,captions too generic
 2017-01-14 Unsorted 65,2017-01-14 Garden / Park,medium,Top cats: Garden / Park(2)
 2017-01-14 Unsorted 66,2017-01-14 Political - Lahore,high,Top cats: Political(6); Sports(1)
@@ -1759,7 +1759,7 @@ old_name,new_name,confidence,notes
 2017-02-07 Unsorted 100,2017-02-07 School / Campus,medium,Top cats: School / Campus(2); Beach(1)
 2017-02-07 Unsorted 101,2017-02-07 Garden / Park,medium,Top cats: Garden / Park(2)
 2017-02-08 Unsorted 102,2017-02-08 Garden / Park,medium,Top cats: Garden / Park(1); Medical(1)
-2017-02-09 Unsorted 103,2017-02-09 Snow / Winter,high,Top cats: Snow / Winter(3); Garden / Park(2)
+2017-02-09 Unsorted 103,SPLIT,see final_split_map.json,9 files → split by event
 2017-02-09 Unsorted 104,2017-02-09 Unsorted 104,low,captions too generic
 2017-02-10 Unsorted 105,2017-02-10 Sports,medium,Top cats: Sports(2)
 2017-02-11 Unsorted 106,2017-02-11 Unsorted 106,low,captions too generic
@@ -1819,7 +1819,7 @@ old_name,new_name,confidence,notes
 2017-03-14 Unsorted 20,2017-03-14 Unsorted 20,low,captions too generic
 2017-03-15 Unsorted 141,2017-03-15 Unsorted 141,low,captions too generic
 2017-03-15 Unsorted 21,2017-03-15 Unsorted 21,low,captions too generic
-2017-03-16 Unsorted 142,2017-03-16 School / Campus - Madison,high,Top cats: School / Campus(4); Snow / Winter(3)
+2017-03-16 Unsorted 142,SPLIT,see final_split_map.json,10 files → split by event
 2017-03-16 Unsorted 22,2017-03-16 School / Campus - Madison,medium,Top cats: School / Campus(2)
 2017-03-17 Unsorted 143,2017-03-17 Garden / Park,medium,Top cats: Garden / Park(2); Beach(1)
 2017-03-17 Unsorted 23,2017-03-17 Unsorted 23,low,captions too generic
@@ -1883,7 +1883,7 @@ old_name,new_name,confidence,notes
 2017-04-28 Unsorted 187,2017-04-28 Unsorted 187,low,captions too generic
 2017-04-29 Unsorted 188,2017-04-29 Garden / Park,medium,Top cats: Garden / Park(1)
 2017-04-29 Unsorted 189,2017-04-29 Hiking / Nature,medium,Top cats: Hiking / Nature(1)
-2017-05-01 Unsorted 190,2017-05-01 Beach - New York,medium,Top cats: Beach(1); Conference(1)
+2017-05-01 Unsorted 190,SPLIT,see final_split_map.json,5 files → split by event
 2017-05-02 Unsorted 191,2017-05-02 Conference,medium,Top cats: Conference(2); Trip / Travel(1)
 2017-05-03 Unsorted 192,2017-05-03 Trip / Travel,high,Top cats: Trip / Travel(3); Food / Restaurant(1)
 2017-05-04 Unsorted 193,2017-05-04 Unsorted 193,low,captions too generic
@@ -1963,7 +1963,7 @@ old_name,new_name,confidence,notes
 2017-10-07 Unsorted 269,2017-10-07 Food / Restaurant,high,Top cats: Food / Restaurant(7)
 2017-10-08 Unsorted 21,2017-10-08 Beach,high,Top cats: Beach(4); Family Gathering(1)
 2017-10-08 Unsorted 270,2017-10-08 Sports - Iowa City,high,Top cats: Sports(14); School / Campus(7)
-2017-10-08 Unsorted 271,2017-10-08 Family Gathering,medium,Top cats: Family Gathering(2); Food / Restaurant(2)
+2017-10-08 Unsorted 271,SPLIT,see final_split_map.json,1586 files → split by event
 2017-10-09 Unsorted 272,2017-10-09 Beach,medium,Top cats: Beach(1); Food / Restaurant(1)
 2017-10-10 Unsorted 273,2017-10-10 Unsorted 273,low,captions too generic
 2017-10-11 Unsorted 274,2017-10-11 Garden / Park,medium,Top cats: Garden / Park(1); Snow / Winter(1)
@@ -2023,12 +2023,12 @@ old_name,new_name,confidence,notes
 2017-12-30 Unsorted 32,2017-12-30 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2017-12-30 Unsorted 33,2017-12-30 Garden / Park - Lahore,high,Top cats: Garden / Park(5)
 2017-12-30 Unsorted 34,2017-12-30 Beach,medium,Top cats: Beach(1); Family Gathering(1)
-2017-12-31 Unsorted 35,2017-12-31 Wedding,high,Top cats: Wedding(3); Trip / Travel(2)
+2017-12-31 Unsorted 35,SPLIT,see final_split_map.json,15 files → split by event
 2017_ROLL-001_Iowa-City,2017-01-01 Baseball Game - Iowa City,high,Baseball field; scoreboard; softball player swinging bat
 2017_ROLL-002-Iowa-City,2017-01-01 Iowa City Life and State Capitol,high,Office/desk scene; cameras; Iowa State Capitol building
 2018-01-01 Unsorted 36,2018-01-01 Garden / Park,medium,Top cats: Garden / Park(1)
 2018-01-02 Unsorted 37,2018-01-02 Garden / Park,high,Top cats: Garden / Park(4)
-2018-01-03 Unsorted 38,2018-01-03 School / Campus,high,Top cats: School / Campus(3); Garden / Park(3)
+2018-01-03 Unsorted 38,SPLIT,see final_split_map.json,17 files → split by event
 2018-01-04 Unsorted 39,2018-01-04 Unsorted 39,low,captions too generic
 2018-01-05 Unsorted 41,2018-01-05 Conference,medium,Top cats: Conference(1)
 2018-01-05 Unsorted 42,2018-01-05 Zoo / Safari,high,Top cats: Zoo / Safari(5); Conference(1)
@@ -2217,7 +2217,7 @@ old_name,new_name,confidence,notes
 2018-08-29 Unsorted 196,2018-08-29 Hiking / Nature,medium,Top cats: Hiking / Nature(1)
 2018-08-29 Unsorted 197,2018-08-29 Unsorted 197,low,captions too generic
 2018-09-02 Unsorted 314,2018-09-02 Unsorted 314,low,captions too generic
-2018-09-23 Unsorted 1,2018-09-23 Hiking / Nature,high,Top cats: Hiking / Nature(3); Garden / Park(1)
+2018-09-23 Unsorted 1,SPLIT,see final_split_map.json,79657 files → split by date
 2018-10-13 Unsorted 2,2018-10-13 Food / Restaurant,high,Top cats: Food / Restaurant(5)
 2018-10-13 Unsorted 3,2018-10-13 Hiking / Nature - New York,medium,Top cats: Hiking / Nature(1); Garden / Park(1)
 2018-10-20 Unsorted 4,2018-10-20 Hiking / Nature,high,Top cats: Hiking / Nature(18)
@@ -2240,13 +2240,13 @@ old_name,new_name,confidence,notes
 2018-12-16 Unsorted 20,2018-12-16 Snow / Winter,high,Top cats: Snow / Winter(4); Garden / Park(1)
 2018-12-16 Unsorted 21,2018-12-16 Unsorted 21,low,captions too generic
 2018-12-16 Unsorted 22,2018-12-16 Garden / Park,medium,Top cats: Garden / Park(1)
-2018-12-17 Unsorted 23,2018-12-17 Snow / Winter,high,Top cats: Snow / Winter(7); Hiking / Nature(4)
+2018-12-17 Unsorted 23,SPLIT,see final_split_map.json,81 files → split by event
 2018-12-18 Unsorted 24,2018-12-18 Hiking / Nature,high,Top cats: Hiking / Nature(11); Garden / Park(1)
 2018-12-19 Unsorted 25,2018-12-19 Beach,medium,Top cats: Beach(1); Food / Restaurant(1)
 2018-12-20 Unsorted 26,2018-12-20 Beach,medium,Top cats: Beach(2)
 2018-12-21 Unsorted 27,2018-12-21 Unsorted 27,low,captions too generic
 2018-12-22 Unsorted 28,2018-12-22 Food / Restaurant,high,Top cats: Food / Restaurant(5); Trip / Travel(1)
-2018-12-23 Unsorted 29,2018-12-23 Sports,high,Top cats: Sports(11); Garden / Park(1)
+2018-12-23 Unsorted 29,SPLIT,see final_split_map.json,721 files → split by event
 2018-12-27 Unsorted 30,2018-12-27 Unsorted 30,low,captions too generic
 2018-12-28 Unsorted 31,2018-12-28 Unsorted 31,low,captions too generic
 2018-12-30 Untitled(15),2018-12-30 Untitled(15),low,captions too generic
@@ -2260,7 +2260,7 @@ old_name,new_name,confidence,notes
 2019-02-07 Unsorted 17,2019-02-07 Unsorted 17,low,captions too generic
 2019-02-15 Unsorted 18,2019-02-15 Conference,medium,Top cats: Conference(1)
 2019-02-21 Unsorted 19,2019-02-21 Zoo / Safari,medium,Top cats: Zoo / Safari(1)
-2019-02-23 Unsorted 38,2019-02-23 Hiking / Nature,high,Top cats: Hiking / Nature(8); Snow / Winter(8)
+2019-02-23 Unsorted 38,SPLIT,see final_split_map.json,92 files → split by event
 2019-02-23 Unsorted 39,2019-02-23 Unsorted 39,low,captions too generic
 2019-02-24 Unsorted 40,2019-02-24 Hiking / Nature,high,Top cats: Hiking / Nature(10); Garden / Park(4)
 2019-02-24 Unsorted 41,2019-02-24 Unsorted 41,low,captions too generic
@@ -2294,14 +2294,14 @@ old_name,new_name,confidence,notes
 2019-11-07 Unsorted 7,2019-11-07 School / Campus,medium,Top cats: School / Campus(1); Zoo / Safari(1)
 2019-11-26 Unsorted 8,2019-11-26 Hiking / Nature,high,Top cats: Hiking / Nature(7); Garden / Park(1)
 2019-11-27 Unsorted 10,2019-11-27 Hiking / Nature,high,Top cats: Hiking / Nature(4); Garden / Park(3)
-2019-11-27 Unsorted 9,2019-11-27 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(21); Snow / Winter(9)
-2019-11-28 Unsorted 11,2019-11-28 Hiking / Nature,high,Top cats: Hiking / Nature(11); Snow / Winter(8)
+2019-11-27 Unsorted 9,SPLIT,see final_split_map.json,210 files → split by event
+2019-11-28 Unsorted 11,SPLIT,see final_split_map.json,349 files → split by event
 2019-11-30 Unsorted 12,2019-11-30 Beach,high,Top cats: Beach(4); Trip / Travel(2)
 2019-11-30 Unsorted 13,2019-11-30 Trip / Travel,medium,Top cats: Trip / Travel(2); Beach(2)
 2019-12-21 Unsorted 1,2019-12-21 Beach,high,Top cats: Beach(11); Food / Restaurant(2)
 2019-12-21 Unsorted 2,2019-12-21 Hiking / Nature,high,Top cats: Hiking / Nature(8); Garden / Park(2)
 2019-12-22 Unsorted 3,2019-12-22 Beach,high,Top cats: Beach(7); Food / Restaurant(5)
-2019-12-22 Unsorted 4,2019-12-22 Beach,high,Top cats: Beach(5); Hiking / Nature(2)
+2019-12-22 Unsorted 4,SPLIT,see final_split_map.json,140 files → split by event
 2019-12-22 Untitled(2),2019-12-22 Untitled(2),low,captions too generic
 2019-12-22 Untitled(3),2019-12-22 Untitled(3),low,captions too generic
 2019-12-23 Unsorted 5,2019-12-23 Unsorted 5,low,captions too generic
@@ -2311,14 +2311,14 @@ old_name,new_name,confidence,notes
 2019-12-25 Unsorted 9,2019-12-25 Garden / Park,high,Top cats: Garden / Park(7); Baby / Newborn(1)
 2019-12-26 Unsorted 10,2019-12-26 Trip / Travel,medium,Top cats: Trip / Travel(1)
 2019-12-26 Unsorted 11,2019-12-26 Hiking / Nature,high,Top cats: Hiking / Nature(6); Beach(4)
-2019-12-26 Unsorted 12,2019-12-26 Conference,medium,Top cats: Conference(2); School / Campus(1)
+2019-12-26 Unsorted 12,SPLIT,see final_split_map.json,71 files → split by event
 2019-12-27 Unsorted 13,2019-12-27 Hiking / Nature - San Francisco,high,Top cats: Hiking / Nature(5); Garden / Park(2)
 2019-12-28 Unsorted 14,2019-12-28 Hiking / Nature,high,Top cats: Hiking / Nature(4); Garden / Park(3)
 2019-12-28 Unsorted 15,2019-12-28 Garden / Park - New York,high,Top cats: Garden / Park(3)
 2019-12-29 Unsorted 16,2019-12-29 School / Campus - Cambridge,high,Top cats: School / Campus(5); Hiking / Nature(1)
 2019-12-30 Unsorted 17,2019-12-30 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2019-12-30 Unsorted 18,2019-12-30 School / Campus,medium,Top cats: School / Campus(1)
-2019-12-31 Unsorted 19,2019-12-31 Garden / Park - Madison,high,Top cats: Garden / Park(4); Trip / Travel(1)
+2019-12-31 Unsorted 19,SPLIT,see final_split_map.json,30 files → split by event
 2020-01-09 Unsorted 20,2020-01-09 Unsorted 20,low,captions too generic
 2020-01-10 Unsorted 21,2020-01-10 Unsorted 21,low,captions too generic
 2020-01-15 Unsorted 22,2020-01-15 Unsorted 22,low,captions too generic
@@ -2359,11 +2359,11 @@ old_name,new_name,confidence,notes
 2020-05-02 Unsorted 16,2020-05-02 Unsorted 16,low,captions too generic
 2020-05-03 Unsorted 17,2020-05-03 Baby / Newborn,high,Top cats: Baby / Newborn(5); Family Gathering(1)
 2020-05-07 Unsorted 18,2020-05-07 Food / Restaurant - San Francisco,medium,Top cats: Food / Restaurant(1)
-2020-05-07 Unsorted 19,2020-05-07 Beach,medium,Top cats: Beach(1); Food / Restaurant(1)
+2020-05-07 Unsorted 19,SPLIT,see final_split_map.json,13 files → split by event
 2020-05-08 Unsorted 20,2020-05-08 Hiking / Nature,high,Top cats: Hiking / Nature(5); Garden / Park(1)
 2020-05-13 Unsorted 21,2020-05-13 Unsorted 21,low,captions too generic
 2020-05-17 Unsorted 22,2020-05-17 Unsorted 22,low,captions too generic
-2020-05-30 Unsorted 23,2020-05-30 Conference - Iowa City,medium,Top cats: Conference(1)
+2020-05-30 Unsorted 23,SPLIT,see final_split_map.json,93 files → split by event
 2020-06-13 Unsorted 24,2020-06-13 Hiking / Nature,high,Top cats: Hiking / Nature(3)
 2020-06-17 Unsorted 25,2020-06-17 Hiking / Nature,high,Top cats: Hiking / Nature(3)
 2020-06-25 Unsorted 26,2020-06-25 Hiking / Nature,high,Top cats: Hiking / Nature(15); Garden / Park(1)
@@ -2382,7 +2382,7 @@ old_name,new_name,confidence,notes
 2020-08-10 Unsorted 39,2020-08-10 Hiking / Nature,high,Top cats: Hiking / Nature(3)
 2020-09-05 Unsorted 1,2020-09-05 Hiking / Nature,medium,Top cats: Hiking / Nature(1)
 2020-09-05 Unsorted 2,2020-09-05 Food / Restaurant,high,Top cats: Food / Restaurant(5)
-2020-09-05 Unsorted 40,2020-09-05 Hiking / Nature,high,Top cats: Hiking / Nature(12); Garden / Park(5)
+2020-09-05 Unsorted 40,SPLIT,see final_split_map.json,318 files → split by event
 2020-09-06 Unsorted 3,2020-09-06 Hiking / Nature,high,Top cats: Hiking / Nature(13); Garden / Park(6)
 2020-09-06 Unsorted 4,2020-09-06 Hiking / Nature,high,Top cats: Hiking / Nature(4)
 2020-10-31 Unsorted 7,2020-10-31 Family Gathering,medium,Top cats: Family Gathering(1)
@@ -2409,9 +2409,9 @@ old_name,new_name,confidence,notes
 2021-01-17 Olympic NP- Seattle,2021-01-17 Hiking / Nature - Seattle,medium,Top cats: Hiking / Nature(1); Garden / Park(1)
 2021-01-17 Unsorted 26,2021-01-17 Garden / Park,high,Top cats: Garden / Park(11)
 2021-01-18 Unsorted 27,2021-01-18 Family Gathering,high,Top cats: Family Gathering(4); Garden / Park(2)
-2021-01-29 Olympic NP- Seattle,2021-01-29 Family Gathering - Seattle,medium,Top cats: Family Gathering(2); Garden / Park(2)
+2021-01-29 Olympic NP- Seattle,SPLIT,see final_split_map.json,16 files → split by event
 2021-01-30 Olympic NP- Seattle,2021-01-30 Zoo / Safari - Seattle,medium,Top cats: Zoo / Safari(1)
-2021-02-05 Olympic NP- Seattle,2021-02-05 Hiking / Nature - Seattle,medium,Top cats: Hiking / Nature(1); Beach(1)
+2021-02-05 Olympic NP- Seattle,SPLIT,see final_split_map.json,26 files → split by event
 2021-04-04 Unsorted 28,2021-04-04 Unsorted 28,low,captions too generic
 2021-04-10 Unsorted 29,2021-04-10 Hiking / Nature,high,Top cats: Hiking / Nature(10); Beach(2)
 2021-04-14 Unsorted 30,2021-04-14 School / Campus,medium,Top cats: School / Campus(2); Zoo / Safari(2)
@@ -2485,7 +2485,7 @@ old_name,new_name,confidence,notes
 2021-08-08 Olympic NP- Seattle,2021-08-08 Food / Restaurant - Seattle,medium,Top cats: Food / Restaurant(1)
 2021-08-15 Olympic NP- Seattle,2021-08-15 Garden / Park - Seattle,medium,Top cats: Garden / Park(1)
 2021-08-15 Unsorted 48,2021-08-15 Garden / Park,medium,Top cats: Garden / Park(2)
-2021-08-19 Olympic NP- Seattle 1,2021-08-19 Beach - Seattle,medium,Top cats: Beach(1); Family Gathering(1)
+2021-08-19 Olympic NP- Seattle 1,SPLIT,see final_split_map.json,52 files → split by event
 2021-08-19 Olympic NP- Seattle 2,2021-08-19 Olympic NP- Seattle 2,low,captions too generic
 2021-08-22 Olympic NP- Seattle 1,2021-08-22 Olympic NP- Seattle 1,low,captions too generic
 2021-08-22 Olympic NP- Seattle 2,2021-08-22 Garden / Park - Seattle,medium,Top cats: Garden / Park(2)
@@ -2496,7 +2496,7 @@ old_name,new_name,confidence,notes
 2021-08-29 Olympic NP- Seattle 2,2021-08-29 Olympic NP- Seattle 2,low,captions too generic
 2021-08-29 Unsorted 1,2021-08-29 Hiking / Nature,high,Top cats: Hiking / Nature(8); Beach(6)
 2021-09-04 Unsorted 2,2021-09-04 Unsorted 2,low,captions too generic
-2021-09-04 Unsorted 3,2021-09-04 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(5); Garden / Park(3)
+2021-09-04 Unsorted 3,SPLIT,see final_split_map.json,117 files → split by event
 2021-09-05 Unsorted 4,2021-09-05 Garden / Park,medium,Top cats: Garden / Park(1)
 2021-09-05 Unsorted 5,2021-09-05 Unsorted 5,low,captions too generic
 2021-09-12 Unsorted 6,2021-09-12 Hiking / Nature,high,Top cats: Hiking / Nature(10)
@@ -2520,8 +2520,8 @@ old_name,new_name,confidence,notes
 2021-12-29 Unsorted 23,2021-12-29 School / Campus - Cambridge,medium,Top cats: School / Campus(2)
 2021-12-31 Unsorted 24,2021-12-31 Unsorted 24,low,captions too generic
 2022-01-16 Unsorted 25,2022-01-16 Snow / Winter,high,Top cats: Snow / Winter(12); Hiking / Nature(4)
-2022-02-10 Olympic NP- Seattle,2022-02-10 Trip / Travel - Seattle,medium,Top cats: Trip / Travel(1); Beach(1)
-2022-02-10 Unknown Date Nokia217,2022-02-10 Trip / Travel,medium,Top cats: Trip / Travel(2); Family Gathering(2)
+2022-02-10 Olympic NP- Seattle,SPLIT,see final_split_map.json,25 files → split by event
+2022-02-10 Unknown Date Nokia217,SPLIT,see final_split_map.json,21 files → split by event
 2022-02-11 Camera Roll 1,2022-02-11 Camera Roll 1,low,captions too generic
 2022-02-11 Camera Roll 2,2022-02-11 Camera Roll 2,low,captions too generic
 2022-02-11 Camera Roll 3,2022-02-11 Camera Roll 3,low,captions too generic
@@ -2546,7 +2546,7 @@ old_name,new_name,confidence,notes
 2022-05-10 Unsorted 34,2022-05-10 Hiking / Nature - Iowa City,high,Top cats: Hiking / Nature(6); Snow / Winter(3)
 2022-05-10 Unsorted 35,2022-05-10 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(5); Baby / Newborn(2)
 2022-05-11 RoadTrip IA-WA,2022-05-11 Hiking / Nature,high,Top cats: Hiking / Nature(15); Garden / Park(4)
-2022-05-11 RoadTrip IA-WA 2 1,2022-05-11 Hiking / Nature,high,Top cats: Hiking / Nature(17); Garden / Park(9)
+2022-05-11 RoadTrip IA-WA 2 1,SPLIT,see final_split_map.json,12 files → split by event
 2022-05-11 RoadTrip IA-WA 2 2,2022-05-11 Family Gathering,medium,Top cats: Family Gathering(1)
 2022-05-11 Unsorted 36,2022-05-11 Hiking / Nature,high,Top cats: Hiking / Nature(15); Snow / Winter(7)
 2022-05-12 RoadTrip IA-WA,2022-05-12 Hiking / Nature,high,Top cats: Hiking / Nature(6); Garden / Park(3)
@@ -2571,12 +2571,12 @@ old_name,new_name,confidence,notes
 2022-05-15 RoadTrip IA-WA 2 2,2022-05-15 RoadTrip IA-WA 2 2,low,captions too generic
 2022-05-15 Unsorted 41,2022-05-15 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(5)
 2022-05-16 RoadTrip IA-WA 2,2022-05-16 RoadTrip IA-WA 2,low,captions too generic
-2022-05-24 Tag-Machine,2022-05-24 Hiking / Nature - New York,high,Top cats: Hiking / Nature(3); Beach(2)
+2022-05-24 Tag-Machine,SPLIT,see final_split_map.json,10 files → split by event
 2022-05-29 Olympic NP- Seattle 1,2022-05-29 Beach - Seattle,high,Top cats: Beach(12); Hiking / Nature(2)
 2022-05-29 Olympic NP- Seattle 2,2022-05-29 Olympic NP- Seattle 2,low,captions too generic
 2022-05-29 Oregon 1,2022-05-29 Beach,high,Top cats: Beach(17); Hiking / Nature(1)
 2022-05-29 Oregon 2,2022-05-29 Food / Restaurant - Madison,medium,Top cats: Food / Restaurant(1)
-2022-05-29 Unsorted 1,2022-05-29 Hiking / Nature - Lahore,high,Top cats: Hiking / Nature(3); Beach(1)
+2022-05-29 Unsorted 1,SPLIT,see final_split_map.json,35436 files → split by date
 2022-06-04 Olympic National Park,2022-06-04 Hiking / Nature - Seattle,high,Top cats: Hiking / Nature(17); Garden / Park(4)
 2022-06-05 Kite Aerial Photography,2022-06-05 Beach,high,Top cats: Beach(4); Food / Restaurant(3)
 2022-06-12 Reiner National Park,2022-06-12 Hiking / Nature,high,Top cats: Hiking / Nature(11); Snow / Winter(1)
@@ -2597,7 +2597,7 @@ old_name,new_name,confidence,notes
 2022-07-04 4th July 2022,2022-07-04 Beach,medium,Top cats: Beach(2); Garden / Park(1)
 2022-07-04 4th of July,2022-07-04 4th of July,low,captions too generic
 2022-07-04 Oregon Coast,2022-07-04 School / Campus,medium,Top cats: School / Campus(2)
-2022-07-04 Unsorted 1,2022-07-04 Hiking / Nature - Seattle,high,Top cats: Hiking / Nature(7); Garden / Park(5)
+2022-07-04 Unsorted 1,SPLIT,see final_split_map.json,2047 files → split by event
 2022-07-09 Colchuck Lake,2022-07-09 Hiking / Nature - Cambridge,high,Top cats: Hiking / Nature(20); Snow / Winter(4)
 2022-07-22 Camera Roll 1,2022-07-22 School / Campus,medium,Top cats: School / Campus(1)
 2022-07-22 Camera Roll 2,2022-07-22 Garden / Park,medium,Top cats: Garden / Park(2)
@@ -2611,7 +2611,7 @@ old_name,new_name,confidence,notes
 2022-07-24 Lumia San Juan Islands 2,2022-07-24 Beach,high,Top cats: Beach(11)
 2022-07-25 Camera Roll,2022-07-25 Camera Roll,low,captions too generic
 2022-07-25 Kite Aerial Photography,2022-07-25 Beach,high,Top cats: Beach(9); Hiking / Nature(1)
-2022-07-25 Unsorted 3,2022-07-25 Beach,high,Top cats: Beach(11); Food / Restaurant(1)
+2022-07-25 Unsorted 3,SPLIT,see final_split_map.json,772 files → split by event
 2022-07-26 Camera Roll 1,2022-07-26 Hiking / Nature,medium,Top cats: Hiking / Nature(1)
 2022-07-26 Camera Roll 2,2022-07-26 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Garden / Park(1)
 2022-07-26 Lumia San Juan Islands,2022-07-26 Lumia San Juan Islands,low,captions too generic
@@ -2677,7 +2677,7 @@ old_name,new_name,confidence,notes
 2022-08-21 Road Trip - WA-IA 1,2022-08-21 Hiking / Nature,medium,Top cats: Hiking / Nature(2); Wedding(1)
 2022-08-21 Road Trip - WA-IA 2,2022-08-21 Hiking / Nature,high,Top cats: Hiking / Nature(13); Garden / Park(11)
 2022-08-21 Road Trip - WA-IA 3,2022-08-21 Hiking / Nature,high,Top cats: Hiking / Nature(10); Garden / Park(5)
-2022-08-21 Unsorted 4,2022-08-21 Hiking / Nature,medium,Top cats: Hiking / Nature(2); Beach(2)
+2022-08-21 Unsorted 4,SPLIT,see final_split_map.json,169 files → split by event
 2022-08-22 Camera Roll 1,2022-08-22 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Food / Restaurant(1)
 2022-08-22 Camera Roll 2,2022-08-22 Camera Roll 2,low,captions too generic
 2022-08-22 Camera Roll 3,2022-08-22 Hiking / Nature,medium,Top cats: Hiking / Nature(2); Garden / Park(2)
@@ -2752,9 +2752,9 @@ old_name,new_name,confidence,notes
 2022-10-13 Camera Roll 2,2022-10-13 Garden / Park,medium,Top cats: Garden / Park(2)
 2022-10-15 Camera Roll,2022-10-15 Camera Roll,low,captions too generic
 2022-10-23 Iowa,2022-10-23 Zoo / Safari - Iowa City,high,Top cats: Zoo / Safari(3); Garden / Park(1)
-2022-10-30 Unsorted 1,2022-10-30 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(9); Garden / Park(6)
-2022-12-31 Pakistan,2022-12-31 School / Campus - Lahore,medium,Top cats: School / Campus(1)
-2022_ROLL-001-Western-US,2022-01-01 Western US Road Trip,medium,Film-style BW photos; woman with plant; man with key - travel feel
+2022-10-30 Unsorted 1,SPLIT,see final_split_map.json,2292 files → split by event
+2022-12-31 Pakistan,SPLIT,see final_split_map.json,51 files → split by event
+2022_ROLL-001-Western-US,SPLIT,see final_split_map.json,63 files → split by event
 2023-03-13 Boston 1,2023-03-13 Boston 1,low,captions too generic
 2023-03-13 Boston 2,2023-03-13 School / Campus - Cambridge,high,Top cats: School / Campus(3)
 2023-03-14 Boston,2023-03-14 Boston,low,captions too generic
@@ -2778,16 +2778,16 @@ old_name,new_name,confidence,notes
 2023-05-12 Boston 2,2023-05-12 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(17); Beach(9)
 2023-05-12 Boston 3,2023-05-12 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(10); Garden / Park(3)
 2023-05-12 Boston 4,2023-05-12 Hiking / Nature - Cambridge,high,Top cats: Hiking / Nature(7); Garden / Park(4)
-2023-05-21 Unsorted 1,2023-05-21 Hiking / Nature - Cambridge,high,Top cats: Hiking / Nature(8); Beach(3)
+2023-05-21 Unsorted 1,SPLIT,see final_split_map.json,2315 files → split by event
 2023-07-11 Unsorted 1,2023-07-11 Unsorted 1,low,captions too generic
-2023-12-25 mangni,2023-12-25 Wedding - Lahore,high,Top cats: Wedding(18); Garden / Park(8)
+2023-12-25 mangni,SPLIT,see final_split_map.json,560 files → split by event
 2024-01-12 DJI_001,2024-01-12 Hiking / Nature,high,Top cats: Hiking / Nature(6); Garden / Park(5)
-2024-01-21 Unsorted 1,2024-01-21 Hiking / Nature - New York,medium,Top cats: Hiking / Nature(2); Garden / Park(1)
+2024-01-21 Unsorted 1,SPLIT,see final_split_map.json,2415 files → split by event
 2024-03-15 DJI_001,2024-03-15 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(8); Garden / Park(7)
 2024-03-17 DJI_001 1,2024-03-17 Beach - Naran,high,Top cats: Beach(4); Hiking / Nature(3)
 2024-03-17 DJI_001 2,2024-03-17 Beach - Naran,high,Top cats: Beach(6); Hiking / Nature(5)
 2024-03-19 DJI_001,2024-03-19 DJI_001,low,captions too generic
-2024-03-31 Unsorted 1,2024-03-31 Hiking / Nature - New York,medium,Top cats: Hiking / Nature(1); Garden / Park(1)
+2024-03-31 Unsorted 1,SPLIT,see final_split_map.json,2749 files → split by event
 2024-04-08 Eclipse 1,2024-04-08 Eclipse 1,low,captions too generic
 2024-04-08 Eclipse 2,2024-04-08 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Garden / Park(1)
 2024-04-08 Unsorted 2,2024-04-08 Unsorted 2,low,captions too generic
@@ -2798,9 +2798,9 @@ old_name,new_name,confidence,notes
 2024-06-27 DEN-SFO,2024-06-27 Hiking / Nature - Cambridge,high,Top cats: Hiking / Nature(7); Garden / Park(2)
 2024-06-27 DJI_001 1,2024-06-27 Hiking / Nature,high,Top cats: Hiking / Nature(6); Beach(1)
 2024-06-27 DJI_001 2,2024-06-27 Trip / Travel,high,Top cats: Trip / Travel(3); Hiking / Nature(2)
-2024-06-28 DJI_001,2024-06-28 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(12); Garden / Park(10)
+2024-06-28 DJI_001,SPLIT,see final_split_map.json,18 files → split by event
 2024-06-29 DJI_001 2,2024-06-29 Hiking / Nature,high,Top cats: Hiking / Nature(11)
-2024-07-05 Unsorted 1,2024-07-05 Hiking / Nature,high,Top cats: Hiking / Nature(3); Garden / Park(2)
+2024-07-05 Unsorted 1,SPLIT,see final_split_map.json,2613 files → split by event
 2024-07-19 RAGBRAI 24 1,2024-07-19 RAGBRAI 24 1,low,captions too generic
 2024-07-19 RAGBRAI 24 2,2024-07-19 Garden / Park,medium,Top cats: Garden / Park(1)
 2024-07-20 RAGBRAI 24 1,2024-07-20 Garden / Park,medium,Top cats: Garden / Park(1)
@@ -2815,10 +2815,10 @@ old_name,new_name,confidence,notes
 2024-11-25 DJI_001 1,2024-11-25 Construction,high,Top cats: Construction(4); Trip / Travel(2)
 2024-11-25 DJI_001 2,2024-11-25 Garden / Park,high,Top cats: Garden / Park(3); Construction(2)
 2024-11-26 DJI_001,2024-11-26 DJI_001,low,captions too generic
-2024-11-27 DJI_001,2024-11-27 Snow / Winter,high,Top cats: Snow / Winter(12); Hiking / Nature(7)
-2024-11-28 DJI_001 1,2024-11-28 Hiking / Nature,high,Top cats: Hiking / Nature(8); Beach(4)
+2024-11-27 DJI_001,SPLIT,see final_split_map.json,76 files → split by event
+2024-11-28 DJI_001 1,SPLIT,see final_split_map.json,71 files → split by event
 2024-11-28 DJI_001 2,2024-11-28 Garden / Park,high,Top cats: Garden / Park(11); Snow / Winter(3)
-2024-11-29 DJI_001,2024-11-29 Hiking / Nature,high,Top cats: Hiking / Nature(5); Snow / Winter(5)
+2024-11-29 DJI_001,SPLIT,see final_split_map.json,17 files → split by event
 2024-11-30 DJI_001 1,2024-11-30 Hiking / Nature,high,Top cats: Hiking / Nature(6); Beach(2)
 2024-11-30 DJI_001 2,2024-11-30 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(14); Snow / Winter(11)
 2024-12-08 DJI_001,2024-12-08 Beach,high,Top cats: Beach(24); Hiking / Nature(7)
@@ -2830,18 +2830,18 @@ old_name,new_name,confidence,notes
 2024-12-20 dailytasveer 2,2024-12-20 Graduation - Iowa City,high,Top cats: Graduation(19); School / Campus(7)
 2024-12-21 DJI_001 1,2024-12-21 School / Campus,high,Top cats: School / Campus(9)
 2024-12-21 DJI_001 2,2024-12-21 School / Campus - Madison,high,Top cats: School / Campus(5); Beach(1)
-2024_ROLL-001-NewYork,2024-01-01 New York Winter Trip,high,Food truck; sleeping on train; ferris wheel in snow; NYC scenes
+2024_ROLL-001-NewYork,SPLIT,see final_split_map.json,52 files → split by event
 2024_ROLL-001_IC-NYC,2024-01-01 Iowa City to New York - Mixed,medium,Man with bicycle at home; couple playing cards; building views - two locations
-2024_ROLL-002-IowaCity,2024-01-01 Iowa City Events and Daily Life,medium,Woman at public event (crowd); couple smiling; park scenes
+2024_ROLL-002-IowaCity,SPLIT,see final_split_map.json,51 files → split by event
 2025-01-11 DJI_001,2025-01-11 Beach,high,Top cats: Beach(26); Garden / Park(3)
-2025-05-19 Unsorted 1,2025-05-19 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(5); Beach(2)
+2025-05-19 Unsorted 1,SPLIT,see final_split_map.json,2385 files → split by event
 2025-05-26 DJI_001,2025-05-26 Beach - Naran,medium,Top cats: Beach(1)
 2025-06-18 Unsorted 1,2025-06-18 Unsorted 1,low,captions too generic
-2025-06-19 Unsorted 1,2025-06-19 Wedding - San Francisco,high,Top cats: Wedding(3); Garden / Park(3)
-2025-06-19 Unsorted 2,2025-06-19 Beach,high,Top cats: Beach(18); Wedding(17)
+2025-06-19 Unsorted 1,SPLIT,see final_split_map.json,2287 files → split by event
+2025-06-19 Unsorted 2,SPLIT,see final_split_map.json,43 files → split by event
 2025-06-20 Sana + Osama 2025 1,2025-06-20 Wedding,medium,Top cats: Wedding(1); Garden / Park(1)
 2025-06-20 Sana + Osama 2025 2,2025-06-20 Sana + Osama 2025 2,low,captions too generic
-2025-06-20 Unsorted 3,2025-06-20 Wedding - Lahore,high,Top cats: Wedding(8); Garden / Park(6)
+2025-06-20 Unsorted 3,SPLIT,see final_split_map.json,128 files → split by event
 2025-06-20 Unsorted 4,2025-06-20 Family Gathering,medium,Top cats: Family Gathering(1)
 2025-06-21 Sana + Osama 2025 1,2025-06-21 Sana + Osama 2025 1,low,captions too generic
 2025-06-21 Sana + Osama 2025 2,2025-06-21 Family Gathering,medium,Top cats: Family Gathering(1)
@@ -2858,7 +2858,7 @@ old_name,new_name,confidence,notes
 2025-12-07 Unsorted 1,2025-12-07 Snow / Winter,high,Top cats: Snow / Winter(12)
 2025-12-09 Unsorted 1,2025-12-09 Unsorted 1,low,captions too generic
 2025-12-14 Unsorted 1,2025-12-14 Hiking / Nature - San Francisco,high,Top cats: Hiking / Nature(5)
-2025-12-19 Unsorted 1,2025-12-19 Garden / Park - New York,high,Top cats: Garden / Park(4); Food / Restaurant(3)
+2025-12-19 Unsorted 1,SPLIT,see final_split_map.json,83 files → split by event
 2025-12-20 Unsorted 1 1,2025-12-20 Hiking / Nature,medium,Top cats: Hiking / Nature(1)
 2025-12-20 Unsorted 1 2,2025-12-20 Hiking / Nature,high,Top cats: Hiking / Nature(11); Garden / Park(7)
 2025-12-21 Unsorted 1 1,2025-12-21 Garden / Park,high,Top cats: Garden / Park(5); Beach(1)
@@ -2867,17 +2867,17 @@ old_name,new_name,confidence,notes
 2025-12-22 Unsorted 1 1,2025-12-22 Hiking / Nature - Naran,high,Top cats: Hiking / Nature(6)
 2025-12-22 Unsorted 1 2,2025-12-22 Garden / Park,high,Top cats: Garden / Park(5)
 2025-12-23 Unsorted 1 1,2025-12-23 Garden / Park,medium,Top cats: Garden / Park(2)
-2025-12-23 Unsorted 1 2,2025-12-23 Trip / Travel - San Francisco,medium,Top cats: Trip / Travel(1); Conference(1)
+2025-12-23 Unsorted 1 2,SPLIT,see final_split_map.json,94 files → split by event
 2025-12-24 Unsorted 1,2025-12-24 Food / Restaurant,medium,Top cats: Food / Restaurant(1)
 2025-12-25 Unsorted 1 1,2025-12-25 Beach,high,Top cats: Beach(25); Food / Restaurant(1)
-2025-12-25 Unsorted 1 2,2025-12-25 Beach - San Francisco,high,Top cats: Beach(3); Trip / Travel(2)
+2025-12-25 Unsorted 1 2,SPLIT,see final_split_map.json,103 files → split by event
 2025-12-26 Unsorted 1,2025-12-26 Unsorted 1,low,captions too generic
-2025-12-28 Unsorted 1,2025-12-28 Garden / Park - New York,medium,Top cats: Garden / Park(1)
+2025-12-28 Unsorted 1,SPLIT,see final_split_map.json,28 files → split by event
 2025-12-29 Unsorted 1,2025-12-29 Garden / Park - New York,high,Top cats: Garden / Park(6); Beach(1)
 2025-12-31 Unsorted 1,2025-12-31 Garden / Park,medium,Top cats: Garden / Park(1)
 2025_ROLL-001-Wedding,2025-01-01 Wedding Prep and Big Sur,high,Bedroom preparations; Big Sur coastal rocks; group on balcony
-2025_ROLL-002-Wedding,2025-01-01 Wedding Celebration,high,Mountain group photo with cameras; couple on bench with pink roses
-2025_ROLL-003_Wedding,2025-01-01 Wedding Beach Honeymoon,high,Room with flowers; couple on beach; man at door with scarf
+2025_ROLL-002-Wedding,SPLIT,see final_split_map.json,52 files → split by event
+2025_ROLL-003_Wedding,SPLIT,see final_split_map.json,27 files → split by event
 2026-01-01 Unsorted 1 1,2026-01-01 Medical,medium,Top cats: Medical(1)
 2026-01-01 Unsorted 1 2,2026-01-01 Garden / Park - San Francisco,high,Top cats: Garden / Park(3); Hiking / Nature(1)
 2026-01-01 Unsorted 1 3,2026-01-01 Hiking / Nature - Naran,medium,Top cats: Hiking / Nature(2); Garden / Park(1)
@@ -2886,53 +2886,53 @@ old_name,new_name,confidence,notes
 2026-05-18 Unsorted 145,2026-05-18 Food / Restaurant,high,Top cats: Food / Restaurant(4); Conference(1)
 2026-05-18 Unsorted 324,2026-05-18 Unsorted 324,low,captions too generic
 2026-05-18 YiCamera,2026-05-18 Beach,high,Top cats: Beach(3); Family Gathering(3)
-2026_ROLL-001-MountainView,2026-01-01 Mountain View California Life,high,Woman with photo frames wall; couple portraits; California home
-2026_ROLL-001_San-Francisco,2026-01-01 San Francisco Nights Out,medium,Nighttime street scenes; woman floating in elevator; man on wall - artsy/social
+2026_ROLL-001-MountainView,SPLIT,see final_split_map.json,76 files → split by event
+2026_ROLL-001_San-Francisco,SPLIT,see final_split_map.json,54 files → split by event
 2026_ROLL-002-Cambridge,2026-01-01 Cambridge Visit,high,Couple on street; museum display; x-ray (medical?); academic setting
 2026_ROLL-050_California,2026-01-01 California Daily Life,medium,Navy ship notebook; woman reading; bookshelves - home/academic life
 Bactch 2 (10),0000-01-01 Beach,medium,Top cats: Beach(2); Zoo / Safari(1)
 Bactch 2 (12),0000-01-01 Beach,medium,Top cats: Beach(2); Family Gathering(1)
 Bactch 2 (13),0000-01-01 Family Gathering,high,Top cats: Family Gathering(4); Trip / Travel(1)
-Bactch 2 (3),0000-01-01 Family Gathering,medium,Top cats: Family Gathering(1)
+Bactch 2 (3),SPLIT,see final_split_map.json,30 files → split by event
 Bactch 2 (4),0000-01-01 Family Gathering,medium,Top cats: Family Gathering(2); Zoo / Safari(2)
-Bactch 2 (5),0000-01-01 Wedding,medium,Top cats: Wedding(2); Birthday(1)
+Bactch 2 (5),SPLIT,see final_split_map.json,40 files → split by event
 Bactch 2 (6),0000-01-01 Garden / Park,medium,Top cats: Garden / Park(1)
 Bactch 2 (7),0000-01-01 Beach,medium,Top cats: Beach(1); Family Gathering(1)
 Bactch 2 (8),0000-01-01 Garden / Park,medium,Top cats: Garden / Park(1)
-Bactch 2 (9),0000-01-01 Family Gathering,medium,Top cats: Family Gathering(1); Food / Restaurant(1)
+Bactch 2 (9),SPLIT,see final_split_map.json,22 files → split by event
 Batch 004,0000-01-01 Family Gathering,medium,Top cats: Family Gathering(1); Baby / Newborn(1)
 Batch 004 (6),0000-01-01 Beach,high,Top cats: Beach(3); Garden / Park(1)
 Batch 3a,0000-01-01 Conference,medium,Top cats: Conference(1); Zoo / Safari(1)
 Batch 3a (2),0000-01-01 Baby / Newborn,medium,Top cats: Baby / Newborn(2)
-Batch 3a (3),0000-01-01 Family Gathering,medium,Top cats: Family Gathering(2); Baby / Newborn(2)
-Batch 3aa,0000-01-01 Garden / Park,medium,Top cats: Garden / Park(2); Birthday(1)
-Batch 3aa (4),0000-01-01 Baby / Newborn,high,Top cats: Baby / Newborn(4); Conference(1)
+Batch 3a (3),SPLIT,see final_split_map.json,16 files → split by event
+Batch 3aa,SPLIT,see final_split_map.json,32 files → split by event
+Batch 3aa (4),SPLIT,see final_split_map.json,64 files → split by event
 Fuji Instax,Fuji Instax,low,captions too generic
 Kodak 2019,0000-01-01 Beach,medium,Top cats: Beach(1); Family Gathering(1)
-New 3 Kodak Gold 100,0000-01-01 Food / Restaurant - Lahore,medium,Top cats: Food / Restaurant(2); Trip / Travel(1)
+New 3 Kodak Gold 100,SPLIT,see final_split_map.json,34 files → split by event
 New 4 Perutz 200,0000-01-01 Birthday,medium,Top cats: Birthday(1); Trip / Travel(1)
-New 5 Kodak Gold,0000-01-01 Conference,high,Top cats: Conference(3); Zoo / Safari(1)
+New 5 Kodak Gold,SPLIT,see final_split_map.json,38 files → split by event
 New 6 Konica,0000-01-01 Beach,medium,Top cats: Beach(1)
 New 9,0000-01-01 Garden / Park,medium,Top cats: Garden / Park(1)
-New Agfa,0000-01-01 Family Gathering - Lahore,medium,Top cats: Family Gathering(1); Baby / Newborn(1)
-New foAlder (6),0000-01-01 Zoo / Safari,medium,Top cats: Zoo / Safari(2); Beach(1)
+New Agfa,SPLIT,see final_split_map.json,20 files → split by event
+New foAlder (6),SPLIT,see final_split_map.json,26 files → split by event
 New foldAer (10),0000-01-01 Hiking / Nature - Lahore,high,Top cats: Hiking / Nature(8); Beach(2)
 New foldAer (12),0000-01-01 Zoo / Safari,medium,Top cats: Zoo / Safari(2); Food / Restaurant(1)
-New foldAer (7),0000-01-01 Garden / Park - New York,high,Top cats: Garden / Park(4); School / Campus(1)
+New foldAer (7),SPLIT,see final_split_map.json,29 files → split by event
 New foldAer (8),0000-01-01 Garden / Park - Naran,high,Top cats: Garden / Park(3); Eid ul Adha(1)
-New folder,0000-01-01 Hiking / Nature,medium,Top cats: Hiking / Nature(2); Food / Restaurant(2)
+New folder,SPLIT,see final_split_map.json,33 files → split by event
 New folder (3),0000-01-01 Hiking / Nature,medium,Top cats: Hiking / Nature(1)
-New folder (4),0000-01-01 Birthday,high,Top cats: Birthday(4)
+New folder (4),SPLIT,see final_split_map.json,33 files → split by event
 New folder (5),0000-01-01 Hiking / Nature - Lahore,medium,Top cats: Hiking / Nature(1)
-New folder (6),0000-01-01 Beach,medium,Top cats: Beach(2); Trip / Travel(1)
-New folder (7),0000-01-01 Family Gathering,medium,Top cats: Family Gathering(2); Beach(1)
-New folder (8),0000-01-01 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Garden / Park(1)
-New folder (A11),0000-01-01 Wedding,high,Top cats: Wedding(5); Beach(4)
-New folderA,0000-01-01 Family Gathering,medium,Top cats: Family Gathering(2); Beach(1)
-New_1 Agfa Color 100,0000-01-01 Hiking / Nature,medium,Top cats: Hiking / Nature(1); Food / Restaurant(1)
+New folder (6),SPLIT,see final_split_map.json,30 files → split by event
+New folder (7),SPLIT,see final_split_map.json,28 files → split by event
+New folder (8),SPLIT,see final_split_map.json,25 files → split by event
+New folder (A11),SPLIT,see final_split_map.json,29 files → split by event
+New folderA,SPLIT,see final_split_map.json,28 files → split by event
+New_1 Agfa Color 100,SPLIT,see final_split_map.json,34 files → split by event
 New_2 Agfa XRS,New_2 Agfa XRS,low,captions too generic
 Polaroid,0000-01-01 Family Gathering,high,Top cats: Family Gathering(3); Food / Restaurant(1)
 Sana-Scans,0000-01-01 Baby / Newborn,high,Top cats: Baby / Newborn(5); Garden / Park(3)
-Scans,0000-01-01 Baby / Newborn - Lahore,high,Top cats: Baby / Newborn(6); Family Gathering(3)
-Unknown Date .thumbnails,0000-01-01 Food / Restaurant - Iowa City,medium,Top cats: Food / Restaurant(2); Conference(1)
+Scans,SPLIT,see final_split_map.json,260 files → split by event
+Unknown Date .thumbnails,SPLIT,see final_split_map.json,2259 files → split by event
 Unknown Date ML,0000-01-01 Conference,medium,Top cats: Conference(1)
