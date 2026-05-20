@@ -1,0 +1,1425 @@
+{
+  "2018-09-23 Unsorted 1": {
+    "total": 79657,
+    "year_range": "2014-2025",
+    "strategy": "split by year",
+    "sub_folder_count": 13,
+    "sub_folders": [
+      {
+        "period": "2014",
+        "suggested_name": "2014-01-01 Daily Life",
+        "file_count": 2,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "a small white and brown dog sitting in the grass",
+          "a small brown and white dog laying on top of a cement slab"
+        ],
+        "sample_files": [
+          "201210-202511/2018-09-23 Unsorted 1/Unknown Camera/Originals/2014-10-12.jpg",
+          "201210-202511/2018-09-23 Unsorted 1/Samsung Galaxy Nexus/Originals/2014-10-07(1).jpg"
+        ]
+      },
+      {
+        "period": "2015",
+        "suggested_name": "2015-01-01 Family Gathering",
+        "file_count": 2,
+        "inferred_event": "Family Gathering",
+        "sample_captions": [
+          "a man sitting on a couch with a straw in his mouth"
+        ],
+        "sample_files": [
+          "201210-202511/2018-09-23 Unsorted 1/Unknown Camera/Originals/IMG_20150309_170525.jpg",
+          "201210-202511/2018-09-23 Unsorted 1/Unknown Camera/Originals/IMG_20150309_170525-edited.jpg"
+        ]
+      },
+      {
+        "period": "2016",
+        "suggested_name": "2016-01-01 Daily Life",
+        "file_count": 2,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "a black and gold background with a black background"
+        ],
+        "sample_files": [
+          "202205-202205/2018-09-23 Unsorted 1/Unknown Camera/Originals/IMG_20161209_071027.jpg",
+          "201210-202511/2018-09-23 Unsorted 1/Unknown Camera/Originals/IMG_20161209_071027.jpg"
+        ]
+      },
+      {
+        "period": "2017",
+        "suggested_name": "2017-01-01 Park / Garden",
+        "file_count": 352,
+        "inferred_event": "Park / Garden",
+        "sample_captions": [
+          "a motorcycle parked on the side of a street next to a building",
+          "a woman standing in a hallway with a scarf on",
+          "two green tuk tuk cars parked on the side of a street"
+        ],
+        "sample_files": [
+          "202205-202205/2018-09-23 Unsorted 1/ZTE Z958/Originals/PHOTO_20171122_200958.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/ZTE Z958/Originals/PHOTO_20171122_201004.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/ZTE Z958/Originals/PHOTO_20171123_164149.jpg"
+        ]
+      },
+      {
+        "period": "2018",
+        "suggested_name": "2018-01-01 Winter / Snow & Hiking Trip",
+        "file_count": 7180,
+        "inferred_event": "Winter / Snow & Hiking Trip",
+        "sample_captions": [
+          "a street with a christmas tree in the middle of it",
+          "a man standing on a snow covered road with a camera",
+          "a woman standing in front of a classroom full of chairs"
+        ],
+        "sample_files": [
+          "202205-202205/2018-09-23 Unsorted 1/samsung SM-G965F/Originals/20180619_162159.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/ZTE Z958/Originals/PHOTO_20180103_122529.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/ZTE Z958/Originals/PHOTO_20180102_095733.jpg"
+        ]
+      },
+      {
+        "period": "2019",
+        "suggested_name": "2019-01-01 Hiking Trip",
+        "file_count": 18082,
+        "inferred_event": "Hiking Trip",
+        "sample_captions": [
+          "a long hallway with two wooden doors and a window",
+          "three men standing on top of a mountain",
+          "a body of water with buildings in the background"
+        ],
+        "sample_files": [
+          "202205-202205/2018-09-23 Unsorted 1/Google Pixel XL/Originals/00004IMG_00004_BURST20191128091849.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/Google Pixel XL/Originals/00007IMG_00007_BURST20191128091849.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/Google Pixel XL/Originals/00009IMG_00009_BURST20191128091849.jpg"
+        ]
+      },
+      {
+        "period": "2020",
+        "suggested_name": "2020-01-01 Park / Garden (COVID-era)",
+        "file_count": 8519,
+        "inferred_event": "Park / Garden",
+        "sample_captions": [
+          "a person laying on the grass in a park",
+          "the state capitol building in washington, dc",
+          "a ball of flour sitting on top of a wooden table"
+        ],
+        "sample_files": [
+          "202205-202205/2018-09-23 Unsorted 1/Unknown Camera/Originals/2020-04-21_03-21-02.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/Google Pixel XL/Originals/00001IMG_00001_BURST20200509033505.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/Google Pixel XL/Originals/00001IMG_00001_BURST20201228034717_COVER.jpg"
+        ]
+      },
+      {
+        "period": "2021",
+        "suggested_name": "2021-01-01 Park / Garden & Family Gathering (COVID Recovery)",
+        "file_count": 15585,
+        "inferred_event": "Park / Garden & Family Gathering",
+        "sample_captions": [
+          "a woman sitting on a couch eating a piece of food",
+          "two people sitting on top of a large rock",
+          "a black and white photo of a woman sitting at a desk"
+        ],
+        "sample_files": [
+          "202205-202205/2018-09-23 Unsorted 1/Unknown Camera/Originals/PXL_20210228_174107520._exported_stabilized_161.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/Google Pixel XL/Originals/IMG_20210101_024214.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/Google Pixel XL/Originals/IMG_20210101_080045.jpg"
+        ]
+      },
+      {
+        "period": "2022",
+        "suggested_name": "2022-01-01 Hiking Trip",
+        "file_count": 8416,
+        "inferred_event": "Hiking Trip",
+        "sample_captions": [
+          "a view of a mountain range through the trees",
+          "a man standing next to a stone structure with skulls on it",
+          "two men standing next to each other in front of a store"
+        ],
+        "sample_files": [
+          "202205-202205/2018-09-23 Unsorted 1/Unknown Camera/Originals/PXL_20220427_142949006.RESTORED.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/Google Pixel 4a (5G)/Originals/PXL_20220101_175841156.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/Google Pixel 4a (5G)/Originals/PXL_20220101_175905635.jpg"
+        ]
+      },
+      {
+        "period": "2023",
+        "suggested_name": "2023-01-01 Hiking Trip & Family Gathering",
+        "file_count": 8021,
+        "inferred_event": "Hiking Trip & Family Gathering",
+        "sample_captions": [
+          "a man and woman sitting next to each other on a boat",
+          "a man sitting on a couch with a box of food",
+          "a white plate topped with a piece of breaded chicken"
+        ],
+        "sample_files": [
+          "201210-202511/2018-09-23 Unsorted 1/Google Pixel 4a (5G)/Originals/PXL_20230101_123133134.jpg",
+          "201210-202511/2018-09-23 Unsorted 1/Google Pixel 4a (5G)/Originals/PXL_20230101_154558752.jpg",
+          "201210-202511/2018-09-23 Unsorted 1/Google Pixel 4a (5G)/Originals/PXL_20230102_085809861.jpg"
+        ]
+      },
+      {
+        "period": "2024",
+        "suggested_name": "2024-01-01 Winter / Snow & Park / Garden",
+        "file_count": 4892,
+        "inferred_event": "Winter / Snow & Park / Garden",
+        "sample_captions": [
+          "a group of people walking down a sidewalk next to parked cars",
+          "an aerial view of a snowy landscape with a river running through it",
+          "a display of fruit and cheese in a store"
+        ],
+        "sample_files": [
+          "201210-202511/2018-09-23 Unsorted 1/Unknown Camera/Originals/PXL_20240605_170117542.RESTORED.jpg",
+          "201210-202511/2018-09-23 Unsorted 1/Unknown Camera/Originals/PXL_20240610_235739733.RESTORED.jpg",
+          "201210-202511/2018-09-23 Unsorted 1/Unknown Camera/Originals/PXL_20240619_224035728.RESTORED.jpg"
+        ]
+      },
+      {
+        "period": "2025",
+        "suggested_name": "2025-01-01 Beach Trip",
+        "file_count": 6156,
+        "inferred_event": "Beach Trip",
+        "sample_captions": [
+          "a display case filled with pictures and memorabilia",
+          "ducks swimming in a pond with a building in the background",
+          "a large body of water with ducks in it"
+        ],
+        "sample_files": [
+          "201210-202511/2018-09-23 Unsorted 1/Google Pixel 8/Originals/PXL_20250101_030339793.jpg",
+          "201210-202511/2018-09-23 Unsorted 1/Google Pixel 8/Originals/PXL_20250101_030341908.jpg",
+          "201210-202511/2018-09-23 Unsorted 1/Google Pixel 8/Originals/PXL_20250102_004248755.jpg"
+        ]
+      },
+      {
+        "period": "undated",
+        "suggested_name": "2018-09-23 Hiking Trip & Conference - Undated Files",
+        "file_count": 2448,
+        "inferred_event": "Hiking Trip & Conference",
+        "sample_captions": [
+          "fandango - a foolish act lp",
+          "deadpool movie poster",
+          "a poster for the movie graduate"
+        ],
+        "sample_files": [
+          "202205-202205/2018-09-23 Unsorted 1/XIAOYI YDXJ 1/Originals/YDXJ0992.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/XIAOYI YDXJ 1/Originals/YDXJ0995.jpg",
+          "202205-202205/2018-09-23 Unsorted 1/XIAOYI YDXJ 1/Originals/YDXJ0998.jpg"
+        ]
+      }
+    ]
+  },
+  "2005-02-08 takeout-20240619": {
+    "total": 43265,
+    "year_range": "2014-2024",
+    "strategy": "split by year",
+    "sub_folder_count": 12,
+    "sub_folders": [
+      {
+        "period": "2014",
+        "suggested_name": "2014-01-01 Daily Life",
+        "file_count": 3,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "a small white and brown dog sitting in the grass",
+          "a small dog laying on its back on the ground",
+          "a small brown and white dog laying on top of a cement slab"
+        ],
+        "sample_files": [
+          "202406-202406/2005-02-08 takeout-20240619/Samsung Galaxy Nexus/Originals/2014-10-07(1).jpg",
+          "202406-202406/2005-02-08 takeout-20240619/NIKON CORPORATION NIKON D5100/Edited/2014-10-07.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Unknown Camera/Originals/2014-10-12.jpg"
+        ]
+      },
+      {
+        "period": "2015",
+        "suggested_name": "2015-01-01 Family Gathering",
+        "file_count": 2,
+        "inferred_event": "Family Gathering",
+        "sample_captions": [
+          "a man sitting on a couch with a straw in his mouth"
+        ],
+        "sample_files": [
+          "202406-202406/2005-02-08 takeout-20240619/Unknown Camera/Originals/IMG_20150309_170525-edited.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Unknown Camera/Originals/IMG_20150309_170525.jpg"
+        ]
+      },
+      {
+        "period": "2016",
+        "suggested_name": "2016-01-01 Daily Life",
+        "file_count": 1,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "a black and gold background with a black background"
+        ],
+        "sample_files": [
+          "202406-202406/2005-02-08 takeout-20240619/Unknown Camera/Originals/IMG_20161209_071027.jpg"
+        ]
+      },
+      {
+        "period": "2017",
+        "suggested_name": "2017-01-01 Park / Garden",
+        "file_count": 153,
+        "inferred_event": "Park / Garden",
+        "sample_captions": [
+          "a motorcycle parked on the side of a street next to a building",
+          "a woman standing in a hallway with a scarf on",
+          "two green tuk tuk cars parked on the side of a street"
+        ],
+        "sample_files": [
+          "202406-202406/2005-02-08 takeout-20240619/ZTE Z958/Originals/PHOTO_20171219_205154.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/ZTE Z958/Originals/PHOTO_20171227_185635.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/ZTE Z958/Originals/PHOTO_20171229_204837.jpg"
+        ]
+      },
+      {
+        "period": "2018",
+        "suggested_name": "2018-01-01 Winter / Snow & Hiking Trip",
+        "file_count": 4031,
+        "inferred_event": "Winter / Snow & Hiking Trip",
+        "sample_captions": [
+          "a street with a christmas tree in the middle of it",
+          "a man standing on a snow covered road with a camera",
+          "a woman sitting on top of a couch next to a table"
+        ],
+        "sample_files": [
+          "202406-202406/2005-02-08 takeout-20240619/samsung SM-G965F/Originals/20180619_162159.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel XL/Originals/IMG_20181228_215847.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel XL/Originals/IMG_20181228_220340.jpg"
+        ]
+      },
+      {
+        "period": "2019",
+        "suggested_name": "2019-01-01 Hiking Trip",
+        "file_count": 9803,
+        "inferred_event": "Hiking Trip",
+        "sample_captions": [
+          "a long hallway with two wooden doors and a window",
+          "three men standing on top of a mountain",
+          "a body of water with buildings in the background"
+        ],
+        "sample_files": [
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel XL/Originals/IMG_20191231_181455.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel XL/Originals/IMG_20191231_180754.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel XL/Originals/IMG_20191229_122405.jpg"
+        ]
+      },
+      {
+        "period": "2020",
+        "suggested_name": "2020-01-01 Park / Garden (COVID-era)",
+        "file_count": 3812,
+        "inferred_event": "Park / Garden",
+        "sample_captions": [
+          "a person laying on the grass in a park",
+          "the state capitol building in washington, dc",
+          "a black and white photo of a woman sitting at a desk"
+        ],
+        "sample_files": [
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel XL/Originals/IMG_20201229_062727.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel XL/Originals/IMG_20201228_034720.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel XL/Originals/IMG_20201228_113029.jpg"
+        ]
+      },
+      {
+        "period": "2021",
+        "suggested_name": "2021-01-01 Park / Garden & Family Gathering (COVID Recovery)",
+        "file_count": 7755,
+        "inferred_event": "Park / Garden & Family Gathering",
+        "sample_captions": [
+          "two people sitting on top of a large rock",
+          "a woman sitting on a couch eating a piece of food",
+          "a black and white photo of a woman sitting at a desk"
+        ],
+        "sample_files": [
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel 4a (5G)/Originals/PXL_20211229_191037074.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel 4a (5G)/Originals/PXL_20211229_191034024.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel 4a (5G)/Originals/PXL_20211229_190301091.jpg"
+        ]
+      },
+      {
+        "period": "2022",
+        "suggested_name": "2022-01-01 Hiking Trip",
+        "file_count": 6329,
+        "inferred_event": "Hiking Trip",
+        "sample_captions": [
+          "a view of a mountain range through the trees",
+          "a man standing next to a stone structure with skulls on it",
+          "two men standing next to each other in front of a store"
+        ],
+        "sample_files": [
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel 4a (5G)/Originals/PXL_20221203_093426476.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel 4a (5G)/Originals/PXL_20221208_105603801.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel 4a (5G)/Originals/PXL_20221210_140800658.jpg"
+        ]
+      },
+      {
+        "period": "2023",
+        "suggested_name": "2023-01-01 Hiking Trip & Family Gathering",
+        "file_count": 7921,
+        "inferred_event": "Hiking Trip & Family Gathering",
+        "sample_captions": [
+          "a man and woman sitting next to each other on a boat",
+          "a man sitting on a couch with a box of food",
+          "a white plate topped with a piece of breaded chicken"
+        ],
+        "sample_files": [
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel 4a (5G)/Originals/PXL_20231130_132135302.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel 4a (5G)/Originals/PXL_20231130_131354599.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel 4a (5G)/Originals/PXL_20231224_043053252.jpg"
+        ]
+      },
+      {
+        "period": "2024",
+        "suggested_name": "2024-01-01 Daily Life",
+        "file_count": 1762,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "a man taking a selfie in front of the chicago skyline",
+          "a screen with a bunch of information on it",
+          "a pair of boots sitting on top of a cement slab"
+        ],
+        "sample_files": [
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel 4a (5G)/Originals/PXL_20240514_203458090.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel 4a (5G)/Originals/PXL_20240610_014846066.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Google Pixel 4a (5G)/Originals/PXL_20240610_015554566.jpg"
+        ]
+      },
+      {
+        "period": "undated",
+        "suggested_name": "2005-02-08 Hiking Trip & Conference - Undated Files",
+        "file_count": 1693,
+        "inferred_event": "Hiking Trip & Conference",
+        "sample_captions": [
+          "fandango - a foolish act lp",
+          "a man taking a photo with a camera in front of a window",
+          "deadpool movie poster"
+        ],
+        "sample_files": [
+          "202406-202406/2005-02-08 takeout-20240619/EPSON Stylus Photo RX580/Edited/626.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Canon EOS-1D Mark IV/Edited/_ILD8828.jpg",
+          "202406-202406/2005-02-08 takeout-20240619/Canon EOS-1D Mark IV/Edited/_ILD8903.jpg"
+        ]
+      }
+    ]
+  },
+  "2022-05-29 Unsorted 1": {
+    "total": 35436,
+    "year_range": "2022-2024",
+    "strategy": "split by year",
+    "sub_folder_count": 4,
+    "sub_folders": [
+      {
+        "period": "2022",
+        "suggested_name": "2022-01-01 Park / Garden & Hiking Trip",
+        "file_count": 11274,
+        "inferred_event": "Park / Garden & Hiking Trip",
+        "sample_captions": [
+          "a view of a mountain range through the trees",
+          "two men standing next to each other in front of a store",
+          "a group of people standing in front of a wall of blue cubes"
+        ],
+        "sample_files": [
+          "202205-202406/2022-05-29 Unsorted 1/Google Pixel/Originals/PXL_20220910_174020247.RESTORED.jpg",
+          "202205-202406/2022-05-29 Unsorted 1/Google Pixel 4a (5G)/Originals/PXL_20220614_175800982.MP.jpg",
+          "202205-202406/2022-05-29 Unsorted 1/Google Pixel 4a (5G)/Originals/PXL_20220614_180200639.jpg"
+        ]
+      },
+      {
+        "period": "2023",
+        "suggested_name": "2023-01-01 Hiking Trip & Family Gathering",
+        "file_count": 19198,
+        "inferred_event": "Hiking Trip & Family Gathering",
+        "sample_captions": [
+          "a man and woman sitting next to each other on a boat",
+          "a man sitting on a couch with a box of food",
+          "a white plate topped with a piece of breaded chicken"
+        ],
+        "sample_files": [
+          "202205-202406/2022-05-29 Unsorted 1/Google Pixel 4a (5G)/Originals/PXL_20230103_134701767.jpg",
+          "202205-202406/2022-05-29 Unsorted 1/Google Pixel 4a (5G)/Originals/PXL_20230101_123125959.jpg",
+          "202205-202406/2022-05-29 Unsorted 1/Google Pixel 4a (5G)/Originals/PXL_20230108_090458589.jpg"
+        ]
+      },
+      {
+        "period": "2024",
+        "suggested_name": "2024-01-01 Daily Life",
+        "file_count": 3722,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "a man taking a selfie in front of the chicago skyline",
+          "a screen with a bunch of information on it",
+          "a pair of boots sitting on top of a cement slab"
+        ],
+        "sample_files": [
+          "202205-202406/2022-05-29 Unsorted 1/Google Pixel/Originals/PXL_20240518_115828232.RESTORED.jpg",
+          "202205-202406/2022-05-29 Unsorted 1/Google Pixel/Originals/PXL_20240526_202706134.RESTORED.jpg",
+          "202205-202406/2022-05-29 Unsorted 1/Google Pixel/Originals/PXL_20240610_235739733.RESTORED.jpg"
+        ]
+      },
+      {
+        "period": "undated",
+        "suggested_name": "2022-05-29 Beach Trip - Undated Files",
+        "file_count": 1242,
+        "inferred_event": "Beach Trip",
+        "sample_captions": [
+          "two men walking on the beach near a rock formation",
+          "a deer grazing in the woods near a fallen tree",
+          "a beach with rocks and a sign on the sand"
+        ],
+        "sample_files": [
+          "202205-202307/2022-05-29 Unsorted 1/Google Pixel 4a (5G)/Originals/.trashed-1690577458-PXL_20230628_033622145.jpg",
+          "202205-202307/2022-05-29 Unsorted 1/Google Pixel 4a (5G)/Originals/.trashed-1690577467-PXL_20230628_033618478.jpg",
+          "202205-202307/2022-05-29 Unsorted 1/Google Pixel 4a (5G)/Originals/.trashed-1690577507-PXL_20230626_033759216.PORTRAIT.jpg"
+        ]
+      }
+    ]
+  },
+  "2008-10-20 OnePlus One": {
+    "total": 11518,
+    "year_range": "2014-2016",
+    "strategy": "split by year",
+    "sub_folder_count": 4,
+    "sub_folders": [
+      {
+        "period": "2014",
+        "suggested_name": "2014-01-01 Daily Life",
+        "file_count": 1,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "a man and woman sitting at a table in an office"
+        ],
+        "sample_files": [
+          "201501-201508/2008-10-20 OnePlus One/Samsung Galaxy Nexus/Originals/2014-10-21 03.04.10-1.jpg"
+        ]
+      },
+      {
+        "period": "2015",
+        "suggested_name": "2015-01-01 Daily Life",
+        "file_count": 6798,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "fall in love with the person who enjoys your madness not an idiot who forces you to be normal",
+          "a collage of photos of a person grilling a pizza on a grill",
+          "two cups of coffee sitting on top of a table"
+        ],
+        "sample_files": [
+          "201501-201508/2008-10-20 OnePlus One/samsung SM-G920F/Originals/20151120_105232.jpg",
+          "201501-201508/2008-10-20 OnePlus One/NIKON CORPORATION NIKON D5300/Originals/IMG-20151018-WA0012.jpg",
+          "201501-201508/2008-10-20 OnePlus One/NIKON CORPORATION NIKON D5300/Originals/IMG-20151018-WA0014.jpg"
+        ]
+      },
+      {
+        "period": "2016",
+        "suggested_name": "2016-01-01 Food & Dining & Family Gathering",
+        "file_count": 4414,
+        "inferred_event": "Food & Dining & Family Gathering",
+        "sample_captions": [
+          "a woman in a red dress holding a candle",
+          "a dining room filled with lots of food and candles",
+          "a woman sitting on top of a couch next to a table"
+        ],
+        "sample_files": [
+          "201501-201508/2008-10-20 OnePlus One/motorola XT907/Originals/IMG-20160530-WA0001.jpg",
+          "201501-201508/2008-10-20 OnePlus One/motorola XT907/Originals/IMG-20160530-WA0004.jpg",
+          "201501-201508/2008-10-20 OnePlus One/motorola XT907/Originals/IMG-20160530-WA0006.jpg"
+        ]
+      },
+      {
+        "period": "undated",
+        "suggested_name": "2008-10-20 Desert / Morocco Trip & Conference - Undated Files",
+        "file_count": 305,
+        "inferred_event": "Desert / Morocco Trip & Conference",
+        "sample_captions": [
+          "a man standing in front of a wall with a fan",
+          "a man riding on the back of a camel",
+          "three people sitting in a lecture hall with their hands on their chin"
+        ],
+        "sample_files": [
+          "201501-201508/2008-10-20 OnePlus One/HP Scanjet SJ200/Originals/scan0007.jpg",
+          "201501-201508/2008-10-20 OnePlus One/HP Scanjet SJ200/Originals/scan0009.jpg",
+          "201501-201508/2008-10-20 OnePlus One/HP Scanjet 5590/Originals/scan0002.jpg"
+        ]
+      }
+    ]
+  },
+  "2011-04-11 facebook-osamakh766": {
+    "total": 6437,
+    "year_range": "1980-2022",
+    "strategy": "split by year",
+    "sub_folder_count": 4,
+    "sub_folders": [
+      {
+        "period": "1980",
+        "suggested_name": "1980-01-01 Daily Life",
+        "file_count": 1,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "two men standing in the middle of a field"
+        ],
+        "sample_files": [
+          "202112-202406/2011-04-11 facebook-osamakh766/Unknown Camera/Originals/19801019_1399286740149302_6881315240653592923_o_1399286740149302.jpg"
+        ]
+      },
+      {
+        "period": "1990",
+        "suggested_name": "1990-01-01 Daily Life",
+        "file_count": 1,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "a woman standing in front of a group of people"
+        ],
+        "sample_files": [
+          "202112-202406/2011-04-11 facebook-osamakh766/Unknown Camera/Originals/292128_301771719900815_1228740819_n_301771719900815.jpg"
+        ]
+      },
+      {
+        "period": "2022",
+        "suggested_name": "2022-01-01 Daily Life",
+        "file_count": 1,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "a man taking a photo with his camera on top of a building"
+        ],
+        "sample_files": [
+          "202112-202406/2011-04-11 facebook-osamakh766/Unknown Camera/Originals/49618726_2022010847876885_7344267731107053568_o_2022010827876887.jpg"
+        ]
+      },
+      {
+        "period": "undated",
+        "suggested_name": "2011-04-11 Desert / Morocco Trip & Conference - Undated Files",
+        "file_count": 6434,
+        "inferred_event": "Desert / Morocco Trip & Conference",
+        "sample_captions": [
+          "a man riding on the back of a camel",
+          "three people sitting in a lecture hall with their hands on their chin",
+          "a group of people standing on top of a beach next to a body of water"
+        ],
+        "sample_files": [
+          "202112-202406/2011-04-11 facebook-osamakh766/Unknown Camera/Originals/like.jpg",
+          "202112-202406/2011-04-11 facebook-osamakh766/Unknown Camera/Originals/flame.jpg",
+          "202112-202406/2011-04-11 facebook-osamakh766/Unknown Camera/Originals/toto.jpg"
+        ]
+      }
+    ]
+  },
+  "2013-06-16 Unsorted 1": {
+    "total": 3009,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2024-03-31 Unsorted 1": {
+    "total": 2749,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2024-07-05 Unsorted 1": {
+    "total": 2613,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2024-01-21 Unsorted 1": {
+    "total": 2415,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2025-05-19 Unsorted 1": {
+    "total": 2385,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2023-05-21 Unsorted 1": {
+    "total": 2315,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2022-10-30 Unsorted 1": {
+    "total": 2292,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2025-06-19 Unsorted 1": {
+    "total": 2287,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "Unknown Date .thumbnails": {
+    "total": 2259,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2022-07-04 Unsorted 1": {
+    "total": 2047,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2010-07-23 Unsorted 1": {
+    "total": 1960,
+    "year_range": "2013-2013",
+    "strategy": "split by month",
+    "sub_folder_count": 2,
+    "sub_folders": [
+      {
+        "period": "2013-01",
+        "suggested_name": "2013-01-01 Daily Life",
+        "file_count": 17,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "a group of people sitting around a table with bags",
+          "a man sitting at a desk in an office",
+          "a man taking a photo with a camera"
+        ],
+        "sample_files": [
+          "201109-201208/2010-07-23 Unsorted 1/SEMC Xperia Ray/Originals/IMG_20130131_200951.jpg",
+          "201109-201208/2010-07-23 Unsorted 1/SEMC Xperia Ray/Originals/IMG_20130131_202220.jpg",
+          "201109-201208/2010-07-23 Unsorted 1/SEMC Xperia Ray/Originals/IMG_20130131_202402.jpg"
+        ]
+      },
+      {
+        "period": "undated",
+        "suggested_name": "2010-07-23 Birthday Party & Beach Trip - Undated Files",
+        "file_count": 1943,
+        "inferred_event": "Birthday Party & Beach Trip",
+        "sample_captions": [
+          "a white dress with pink butterflies on it",
+          "a group of people standing on top of a beach next to a body of water",
+          "a person sitting in a car looking out the window at a city street"
+        ],
+        "sample_files": [
+          "201109-201208/2010-07-23 Unsorted 1/iPhone 3G/Originals/IMG_0804.jpg",
+          "201109-201208/2010-07-23 Unsorted 1/Unknown Camera/Originals/IMG-1395650846065-V.jpg",
+          "201109-201208/2010-07-23 Unsorted 1/Unknown Camera/Originals/IMG-1395924530726-V.jpg"
+        ]
+      }
+    ]
+  },
+  "2013-04-28 Rung": {
+    "total": 1671,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2013-04-28 Alpha Rung": {
+    "total": 1671,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2017-01-13 Unsorted 64": {
+    "total": 1634,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2017-10-08 Unsorted 271": {
+    "total": 1586,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2014-01-01 Unsorted 1": {
+    "total": 1535,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2014-01-07 Unsorted 4": {
+    "total": 1103,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2022-07-25 Unsorted 3": {
+    "total": 772,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2016-11-11 Unsorted 143": {
+    "total": 751,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2018-12-23 Unsorted 29": {
+    "total": 721,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2012-12-29 Rattu 12": {
+    "total": 720,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2017-01-01 Unsorted 1": {
+    "total": 660,
+    "year_range": "2017-2017",
+    "strategy": "split by month",
+    "sub_folder_count": 2,
+    "sub_folders": [
+      {
+        "period": "2017-01",
+        "suggested_name": "2017-01-01 Beach Trip",
+        "file_count": 657,
+        "inferred_event": "Beach Trip",
+        "sample_captions": [
+          "a man sitting in the back seat of a car with his arms crossed",
+          "a paved road with a blue circle in the middle of it",
+          "A blurry image of a person walking down a dirt road."
+        ],
+        "sample_files": [
+          "201907-201907/2017-01-01 Unsorted 1/ZikeIntelligence SeaBird/Originals/20170105233149_00049820.jpg",
+          "201907-201907/2017-01-01 Unsorted 1/ZikeIntelligence SeaBird/Originals/20170105233159_00032724.jpg",
+          "201907-201907/2017-01-01 Unsorted 1/ZikeIntelligence SeaBird/Originals/20170105233150_00004272.jpg"
+        ]
+      },
+      {
+        "period": "2017-02",
+        "suggested_name": "2017-02-01 Daily Life",
+        "file_count": 3,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "A person holding a green pen in their hand.",
+          "a group of people walking down a sidewalk next to a building",
+          "a man standing in front of a red building"
+        ],
+        "sample_files": [
+          "201907-201907/2017-01-01 Unsorted 1/Unknown Camera/Originals/20170201175132_00017155_thumb.jpg",
+          "201907-201907/2017-01-01 Unsorted 1/Unknown Camera/Originals/20170201164419_00064201_thumb.jpg",
+          "201907-201907/2017-01-01 Unsorted 1/Unknown Camera/Originals/20170201165438_00027878_thumb.jpg"
+        ]
+      }
+    ]
+  },
+  "2014-01-18 Unsorted 13": {
+    "total": 578,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2013-01-31 Spring Fest 2": {
+    "total": 563,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2023-12-25 mangni": {
+    "total": 560,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2012-12-29 Faisalabad Wedding Pictures 1": {
+    "total": 540,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2013-04-16 Daku Day": {
+    "total": 525,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2013-04-18 Yo Day 2": {
+    "total": 520,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2012-06-09 Trip to Harappa": {
+    "total": 232,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2025-06-20 Unsorted 3": {
+    "total": 128,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2013-03-18 Ikebana 3": {
+    "total": 123,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2018-12-17 Unsorted 23": {
+    "total": 81,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2004_ROLL-001_Lahore": {
+    "total": 74,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2019-12-26 Unsorted 12": {
+    "total": 71,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2018-11-10 Unsorted 9": {
+    "total": 67,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2026_ROLL-001_San-Francisco": {
+    "total": 54,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2024_ROLL-001-NewYork": {
+    "total": 52,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2014-02-24 Unsorted 31": {
+    "total": 52,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2015-11-17 Unsorted 78": {
+    "total": 51,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "1995_ROLL-001-Islamabad": {
+    "total": 46,
+    "year_range": "2026-2026",
+    "strategy": "split by month",
+    "sub_folder_count": 1,
+    "sub_folders": [
+      {
+        "period": "2026-03",
+        "suggested_name": "2026-03-01 Park / Garden & Eid Celebration",
+        "file_count": 46,
+        "inferred_event": "Park / Garden & Eid Celebration",
+        "sample_captions": [
+          "three young boys sitting next to each other in front of a fence",
+          "a man and a child petting a sheep in a field",
+          "three boys standing next to a white sheep in a park"
+        ],
+        "sample_files": [
+          "Scans/1995_ROLL-001-Islamabad/2026-03-11-0007.jpg",
+          "Scans/1995_ROLL-001-Islamabad/2026-03-11-0009.jpg",
+          "Scans/1995_ROLL-001-Islamabad/2026-03-11-0011.jpg"
+        ]
+      }
+    ]
+  },
+  "2015-05-17 Unsorted 125": {
+    "total": 46,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2025-06-19 Unsorted 2": {
+    "total": 43,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2022-05-12 Unsorted 37": {
+    "total": 43,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2026-05-18 Unsorted 145": {
+    "total": 40,
+    "year_range": "2016-2016",
+    "strategy": "split by month",
+    "sub_folder_count": 2,
+    "sub_folders": [
+      {
+        "period": "2016-01",
+        "suggested_name": "2016-01-01 Family Gathering",
+        "file_count": 20,
+        "inferred_event": "Family Gathering",
+        "sample_captions": [
+          "a man sitting on the floor holding up a book",
+          "a man holding a bag of coffee and a book",
+          "a man holding up a notebook with the letter i on it"
+        ],
+        "sample_files": [
+          "201310-201611/2026-05-18 Unsorted 145/Android Phone/Originals/IMG_20160102_163342.jpg",
+          "201310-201611/2026-05-18 Unsorted 145/Android Phone/Originals/IMG_20160108_221251.jpg",
+          "201310-201611/2026-05-18 Unsorted 145/Android Phone/Originals/IMG_20160108_221327.jpg"
+        ]
+      },
+      {
+        "period": "undated",
+        "suggested_name": "2026-05-18 Family Gathering - Undated Files",
+        "file_count": 20,
+        "inferred_event": "Family Gathering",
+        "sample_captions": [
+          "a woman sitting at a table with her head in her hands",
+          "a man and woman sitting next to each other on a couch",
+          "a group of people sitting on the floor holding up signs"
+        ],
+        "sample_files": [
+          "201310-201611/2026-05-18 Unsorted 145/Android Phone/Originals/14151692_1085721038172542_2031254799_o.jpg",
+          "201310-201611/2026-05-18 Unsorted 145/Android Phone/Originals/11215186_10206706701120298_3387267556044928882_n.jpg",
+          "201310-201611/2026-05-18 Unsorted 145/Android Phone/Originals/11350795_1503308473328915_1346425207_n.jpg"
+        ]
+      }
+    ]
+  },
+  "2015-09-20 Unsorted 84": {
+    "total": 35,
+    "year_range": "2015-2015",
+    "strategy": "split by month",
+    "sub_folder_count": 1,
+    "sub_folders": [
+      {
+        "period": "2015-09",
+        "suggested_name": "2015-09-01 Travel & Family Gathering",
+        "file_count": 35,
+        "inferred_event": "Travel & Family Gathering",
+        "sample_captions": [
+          "a man sitting in an airplane eating a piece of food",
+          "a small child standing in front of a building with posters on it",
+          "a man sitting on top of a blue couch holding a cell phone"
+        ],
+        "sample_files": [
+          "201508-201602/2015-09-20 Unsorted 84/oneplus A0001/Originals/IMG_20150920_094156.jpg",
+          "201508-201602/2015-09-20 Unsorted 84/oneplus A0001/Originals/IMG_20150920_094200.jpg",
+          "201508-201602/2015-09-20 Unsorted 84/oneplus A0001/Originals/IMG_20150920_095659_1.jpg"
+        ]
+      }
+    ]
+  },
+  "2015-09-20 Unsorted 107": {
+    "total": 35,
+    "year_range": "2015-2015",
+    "strategy": "split by month",
+    "sub_folder_count": 1,
+    "sub_folders": [
+      {
+        "period": "2015-09",
+        "suggested_name": "2015-09-01 Travel & Family Gathering",
+        "file_count": 35,
+        "inferred_event": "Travel & Family Gathering",
+        "sample_captions": [
+          "a man sitting in an airplane eating a piece of food",
+          "a small child standing in front of a building with posters on it",
+          "a man sitting on top of a blue couch holding a cell phone"
+        ],
+        "sample_files": [
+          "201508-201603/2015-09-20 Unsorted 107/oneplus A0001/Originals/IMG_20150920_094156.jpg",
+          "201508-201603/2015-09-20 Unsorted 107/oneplus A0001/Originals/IMG_20150920_094200.jpg",
+          "201508-201603/2015-09-20 Unsorted 107/oneplus A0001/Originals/IMG_20150920_095659_1.jpg"
+        ]
+      }
+    ]
+  },
+  "New_1 Agfa Color 100": {
+    "total": 34,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "New folder": {
+    "total": 33,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "New folder (6)": {
+    "total": 30,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "New folder (A11)": {
+    "total": 29,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2024-11-28 DJI_001 2": {
+    "total": 28,
+    "year_range": "2024-2024",
+    "strategy": "split by month",
+    "sub_folder_count": 1,
+    "sub_folders": [
+      {
+        "period": "2024-11",
+        "suggested_name": "2024-11-01 Winter / Snow & Park / Garden",
+        "file_count": 28,
+        "inferred_event": "Winter / Snow & Park / Garden",
+        "sample_captions": [
+          "a group of people walking across a snow covered field",
+          "an aerial view of a car parked in the middle of a parking lot",
+          "an aerial view of a small plane flying over a field"
+        ],
+        "sample_files": [
+          "202411-202505/2024-11-28 DJI_001 2/DJI FC8482/Edited/DJI_20241128113058_0190_D.jpg",
+          "202411-202505/2024-11-28 DJI_001 2/DJI FC8482/Edited/DJI_20241128113106_0192_D.jpg",
+          "202411-202505/2024-11-28 DJI_001 2/DJI FC8482/Edited/DJI_20241128114955_0204_D.jpg"
+        ]
+      }
+    ]
+  },
+  "2015-10-05 Unsorted 54": {
+    "total": 28,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2025_ROLL-003_Wedding": {
+    "total": 27,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "1999_ROLL-001_Lahore": {
+    "total": 26,
+    "year_range": "2026-2026",
+    "strategy": "split by month",
+    "sub_folder_count": 1,
+    "sub_folders": [
+      {
+        "period": "2026-03",
+        "suggested_name": "2026-03-01 Travel",
+        "file_count": 26,
+        "inferred_event": "Travel",
+        "sample_captions": [
+          "a man and a child are sitting on the floor",
+          "A little girl sitting on top of a metal cart.",
+          "a young boy sitting in a crib with a stuffed animal"
+        ],
+        "sample_files": [
+          "Scans/1999_ROLL-001_Lahore/2026-03-11-0006.jpg",
+          "Scans/1999_ROLL-001_Lahore/2026-03-11-0008.jpg",
+          "Scans/1999_ROLL-001_Lahore/2026-03-11-0010.jpg"
+        ]
+      }
+    ]
+  },
+  "2021-02-05 Olympic NP- Seattle": {
+    "total": 26,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2022-02-10 Olympic NP- Seattle": {
+    "total": 25,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2012-06-02 Unsorted 95": {
+    "total": 24,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2013-11-19 Unsorted 11": {
+    "total": 23,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2014-07-11 Unsorted 62": {
+    "total": 19,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2014-05-24 Unsorted 53": {
+    "total": 19,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2024-06-28 DJI_001": {
+    "total": 18,
+    "year_range": "2024-2024",
+    "strategy": "split by month",
+    "sub_folder_count": 1,
+    "sub_folders": [
+      {
+        "period": "2024-06",
+        "suggested_name": "2024-06-01 Park / Garden & Hiking Trip",
+        "file_count": 18,
+        "inferred_event": "Park / Garden & Hiking Trip",
+        "sample_captions": [
+          "a view of a desert with mountains in the background",
+          "a large open field with mountains in the background",
+          "two people standing in the middle of a large open field"
+        ],
+        "sample_files": [
+          "202411-202505/2024-06-28 DJI_001/DJI FC8482/Edited/DJI_20240628223333_0670_D.jpg",
+          "202411-202505/2024-06-28 DJI_001/DJI FC8482/Edited/DJI_20240628223416_0672_D.jpg",
+          "202411-202505/2024-06-28 DJI_001/DJI FC8482/Edited/DJI_20240628223614_0674_D.jpg"
+        ]
+      }
+    ]
+  },
+  "2024-11-29 DJI_001": {
+    "total": 17,
+    "year_range": "2024-2024",
+    "strategy": "split by month",
+    "sub_folder_count": 1,
+    "sub_folders": [
+      {
+        "period": "2024-11",
+        "suggested_name": "2024-11-01 Hiking Trip & Desert / Morocco Trip",
+        "file_count": 17,
+        "inferred_event": "Hiking Trip & Desert / Morocco Trip",
+        "sample_captions": [
+          "an aerial view of a field with a small plane flying over it",
+          "an aerial view of a dirt road in the middle of nowhere",
+          "a group of turtles walking across a body of water"
+        ],
+        "sample_files": [
+          "202411-202505/2024-11-29 DJI_001/DJI FC8482/Edited/DJI_20241129081008_0230_D.jpg",
+          "202411-202505/2024-11-29 DJI_001/DJI FC8482/Edited/DJI_20241129081017_0232_D.jpg",
+          "202411-202505/2024-11-29 DJI_001/DJI FC8482/Edited/DJI_20241129081155_0234_D.jpg"
+        ]
+      }
+    ]
+  },
+  "2015-07-16 Unsorted 6": {
+    "total": 17,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "Batch 3a (3)": {
+    "total": 16,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2015-08-15 Unsorted 34": {
+    "total": 16,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2022-08-09 Camera Roll": {
+    "total": 15,
+    "year_range": "2022-2022",
+    "strategy": "split by month",
+    "sub_folder_count": 1,
+    "sub_folders": [
+      {
+        "period": "2022-08",
+        "suggested_name": "2022-08-01 Daily Life",
+        "file_count": 15,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "a tree trunk with graffiti on it in front of a building",
+          "a sculpture of a man laying on the ground under a bridge",
+          "a large rock with a tree growing out of it"
+        ],
+        "sample_files": [
+          "202205-202210/2022-08-09 Camera Roll/Nokia Lumia 1020/Originals/WP_20220809_15_02_15_Raw.jpg",
+          "202205-202210/2022-08-09 Camera Roll/Nokia Lumia 1020/Originals/WP_20220809_15_02_47_Raw.jpg",
+          "202205-202210/2022-08-09 Camera Roll/Nokia Lumia 1020/Originals/WP_20220809_15_07_47_Raw.jpg"
+        ]
+      }
+    ]
+  },
+  "2017-12-31 Unsorted 35": {
+    "total": 15,
+    "year_range": "2017-2017",
+    "strategy": "split by month",
+    "sub_folder_count": 1,
+    "sub_folders": [
+      {
+        "period": "2017-12",
+        "suggested_name": "2017-12-01 Daily Life",
+        "file_count": 15,
+        "inferred_event": "Daily Life",
+        "sample_captions": [
+          "a row of colorful chairs in a library",
+          "A blurry image of a street light at night.",
+          "a long hallway with a carpeted floor and a ceiling fan"
+        ],
+        "sample_files": [
+          "201801-201804/2017-12-31 Unsorted 35/ZTE Z958/Originals/PHOTO_20171231_194503.jpg",
+          "201801-201804/2017-12-31 Unsorted 35/ZTE Z958/Originals/PHOTO_20171231_203702.jpg",
+          "201801-201804/2017-12-31 Unsorted 35/ZTE Z958/Originals/PHOTO_20171231_211919.jpg"
+        ]
+      }
+    ]
+  },
+  "2014-03-08 Unsorted 38": {
+    "total": 15,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2016-01-19 Unsorted 18": {
+    "total": 14,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2012-10-17 Mom1": {
+    "total": 14,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2020-05-07 Unsorted 19": {
+    "total": 13,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2022-05-11 RoadTrip IA-WA 2 1": {
+    "total": 12,
+    "year_range": "2022-2022",
+    "strategy": "split by month",
+    "sub_folder_count": 1,
+    "sub_folders": [
+      {
+        "period": "2022-05",
+        "suggested_name": "2022-05-01 Hiking Trip & Desert / Morocco Trip",
+        "file_count": 12,
+        "inferred_event": "Hiking Trip & Desert / Morocco Trip",
+        "sample_captions": [
+          "a woman sitting on a bench taking a photo with her camera",
+          "a woman taking a photo of the mountains from a car",
+          "an empty road in the middle of a desert"
+        ],
+        "sample_files": [
+          "202112-202406/2022-05-11 RoadTrip IA-WA 2 1/Google Pixel 4a (5G)/Originals/PXL_20220511_141947140.jpg",
+          "202112-202406/2022-05-11 RoadTrip IA-WA 2 1/Google Pixel 4a (5G)/Originals/PXL_20220511_153815444.jpg",
+          "202112-202406/2022-05-11 RoadTrip IA-WA 2 1/Google Pixel 4a (5G)/Originals/PXL_20220511_154759367.jpg"
+        ]
+      }
+    ]
+  },
+  "2013-03-11 Mom1": {
+    "total": 12,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2012-07-05 Dinner-2012": {
+    "total": 12,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2022-05-24 Tag-Machine": {
+    "total": 10,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2017-03-16 Unsorted 142": {
+    "total": 10,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2013-05-09 Others 2012-2013": {
+    "total": 10,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2013-02-15 Spring 2013 2": {
+    "total": 10,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2017-02-09 Unsorted 103": {
+    "total": 9,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2016-10-07 ZTE 2": {
+    "total": 7,
+    "year_range": "2016-2016",
+    "strategy": "split by month",
+    "sub_folder_count": 1,
+    "sub_folders": [
+      {
+        "period": "2016-10",
+        "suggested_name": "2016-10-01 Sports",
+        "file_count": 7,
+        "inferred_event": "Sports",
+        "sample_captions": [
+          "a white sheet of paper with a black and white image of a basketball game",
+          "a piece of paper with a number of numbers on it",
+          "a group of people sitting at desks in front of laptops"
+        ],
+        "sample_files": [
+          "201609-201610/2016-10-07 ZTE 2/ZTE Z958/Originals/2016-10-07 19.07.31.jpg",
+          "201609-201610/2016-10-07 ZTE 2/ZTE Z958/Originals/2016-10-07 19.08.42.jpg",
+          "201609-201610/2016-10-07 ZTE 2/ZTE Z958/Originals/2016-10-07 19.28.51.jpg"
+        ]
+      }
+    ]
+  },
+  "2012-06-05 Haircut +1 1": {
+    "total": 7,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2012-12-26 Rattu 12 2": {
+    "total": 6,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  },
+  "2016-10-17 ZTE": {
+    "total": 5,
+    "year_range": "2016-2016",
+    "strategy": "split by month",
+    "sub_folder_count": 1,
+    "sub_folders": [
+      {
+        "period": "2016-10",
+        "suggested_name": "2016-10-01 Park / Garden",
+        "file_count": 5,
+        "inferred_event": "Park / Garden",
+        "sample_captions": [
+          "a tree in the middle of a parking lot at night",
+          "a piece of paper with handwriting on it",
+          "a laptop computer sitting on top of a desk"
+        ],
+        "sample_files": [
+          "201609-201610/2016-10-17 ZTE/ZTE Z958/Originals/2016-10-17 20.08.13.jpg",
+          "201609-201610/2016-10-17 ZTE/ZTE Z958/Originals/2016-10-17 22.04.12.jpg",
+          "201609-201610/2016-10-17 ZTE/ZTE Z958/Originals/2016-10-18 00.29.06.jpg"
+        ]
+      }
+    ]
+  },
+  "2017-05-01 Unsorted 190": {
+    "total": 5,
+    "strategy": "manual",
+    "reason": "no date info in filenames",
+    "sub_folders": []
+  }
+}
