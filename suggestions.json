@@ -1,0 +1,61 @@
+{
+  "unk\u0001Scans\u00012022_ROLL-001-Western-US": {
+    "cities": [
+      "Western USA"
+    ],
+    "tags": [
+      "road trip",
+      "travel",
+      "film",
+      "landscape"
+    ],
+    "people": [],
+    "notes": "Scanned film roll from a road trip through the Western United States.",
+    "year": "2022",
+    "reasoning": "Camera name '2022_ROLL-001-Western-US' directly encodes both year and region. User was in Iowa City in 2022 (pre-Sep 2024), so 'Western US' = a travel trip away from home base. Gemma corroborates with",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T19:59:35"
+  },
+  "unk\u0001Scans\u00011995_ROLL-001_Lahore": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "celebration",
+      "childhood",
+      "indoor",
+      "vintage"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Family celebration in Lahore with children and a festive meal, circa 1995.",
+    "year": "1995",
+    "reasoning": "Camera name '1995_ROLL-001_Lahore' explicitly encodes year and city. Janus shows children gathered around a table with balloons in an indoor casual setting — consistent with a Pakistani family celebra",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T19:59:35"
+  },
+  "unk\u0001Scans\u0001New 5 Kodak Gold": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "vintage",
+      "film",
+      "indoor"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned Kodak Gold film roll, likely a family gathering in Pakistan.",
+    "year": "",
+    "reasoning": "No year or location encoded in camera name. All sibling cameras in this Scans event are Pakistani family rolls (Peshawar 1998, Lahore 1995), and Kodak Gold was a common consumer film stock in Pakistan",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T19:59:35"
+  }
+}
