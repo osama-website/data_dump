@@ -932,5 +932,425 @@
     "confidence": "low",
     "source": "claude-sonnet+gemma+janus",
     "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001Bactch 2 (13)": {
+    "cities": [
+      "Peshawar, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "gathering",
+      "portrait",
+      "childhood"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Family gathering in a Pakistani home setting, likely Peshawar.",
+    "year": "",
+    "reasoning": "No year or location in camera name 'Bactch 2 (13)'. Soft tags from sibling scans indicate Peshawar, family/childhood/gathering content circa 1998.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u0001Bactch 2 (12)": {
+    "cities": [
+      "Peshawar, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "gathering",
+      "portrait",
+      "childhood"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Family gathering in a Pakistani home setting, likely Peshawar.",
+    "year": "",
+    "reasoning": "Same sibling batch as idx 0 — 'Bactch 2 (12)' gives no year/location. Soft tags point to Peshawar family context around 1998.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00012026_ROLL-050_California": {
+    "cities": [
+      "San Francisco Bay Area, USA"
+    ],
+    "tags": [
+      "film",
+      "Street",
+      "Travel"
+    ],
+    "people": [],
+    "notes": "Film roll shot in California, scanned in 2026.",
+    "year": "2026",
+    "reasoning": "Camera name '2026_ROLL-050_California' explicitly names California and 2026. User moved to SF Bay Area Oct 2024, so California-era film fits.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00012025_ROLL-002-Wedding": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "Wedding",
+      "family",
+      "celebration",
+      "traditional clothing"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Film roll from a wedding in Pakistan, scanned in 2025.",
+    "year": "2025",
+    "reasoning": "Camera name '2025_ROLL-002-Wedding' gives year and event type. No location in name; Lahore is the dominant family city in user's tagging history. Soft confirms Pakistani family gathering.",
+    "confidence": "medium",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00012025_ROLL-001-Wedding": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "Wedding",
+      "family",
+      "celebration",
+      "traditional clothing"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "First film roll from the same 2025 wedding event.",
+    "year": "2025",
+    "reasoning": "Camera name '2025_ROLL-001-Wedding' — paired with ROLL-002 above; same wedding event.",
+    "confidence": "medium",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00012024_ROLL-002-IowaCity": {
+    "cities": [
+      "Iowa City, USA"
+    ],
+    "tags": [
+      "film",
+      "daily life",
+      "Street"
+    ],
+    "people": [],
+    "notes": "Film roll from Iowa City, scanned in 2024.",
+    "year": "2024",
+    "reasoning": "Camera name '2024_ROLL-002-IowaCity' explicitly states Iowa City and 2024. User was in Iowa City Aug 2016–Sep 2024.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00012024_ROLL-001_IC-NYC": {
+    "cities": [
+      "Iowa City, USA",
+      "New York City, USA"
+    ],
+    "tags": [
+      "Travel",
+      "Street",
+      "film"
+    ],
+    "people": [],
+    "notes": "Film roll spanning Iowa City and New York City, shot in 2024.",
+    "year": "2024",
+    "reasoning": "Camera name '2024_ROLL-001_IC-NYC' = Iowa City + New York City, 2024. IC-NYC abbreviation is unambiguous.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00012017_ROLL-002-Iowa-City": {
+    "cities": [
+      "Iowa City, USA"
+    ],
+    "tags": [
+      "film",
+      "daily life",
+      "Street"
+    ],
+    "people": [],
+    "notes": "Film roll from Iowa City, 2017.",
+    "year": "2017",
+    "reasoning": "Camera name '2017_ROLL-002-Iowa-City' explicitly states Iowa City and 2017. User arrived Iowa City Aug 2016.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00012011-09-03 pic": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "indoor",
+      "portrait"
+    ],
+    "people": [],
+    "notes": "Photos from Lahore on September 3, 2011.",
+    "year": "2011",
+    "reasoning": "Camera name '2011-09-03 pic' gives precise date. Sep 2011 is before Aug 2016 => Lahore era per timeline. Berkeley trip wasn't until Dec 2011.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00012011-08-19 photo": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "indoor",
+      "portrait"
+    ],
+    "people": [],
+    "notes": "Photos from Lahore on August 19, 2011.",
+    "year": "2011",
+    "reasoning": "Camera name '2011-08-19 photo' gives precise date. Aug 2011 is pre-Aug 2016 => Lahore era.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00012010-11 (Nov)": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "gathering",
+      "indoor"
+    ],
+    "people": [],
+    "notes": "Photos from Lahore, November 2010.",
+    "year": "2010",
+    "reasoning": "Camera name '2010-11 (Nov)' gives month/year. Nov 2010 is pre-Aug 2016 => Lahore era per timeline.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00012004_ROLL-001_Lahore": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "film",
+      "portrait"
+    ],
+    "people": [],
+    "notes": "Film roll from Lahore, 2004.",
+    "year": "2004",
+    "reasoning": "Camera name '2004_ROLL-001_Lahore' explicitly states Lahore and 2004.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00012002_ROLL-001_Naran": {
+    "cities": [
+      "Naran, Pakistan"
+    ],
+    "tags": [
+      "Travel",
+      "Nature",
+      "Mountains",
+      "family"
+    ],
+    "people": [],
+    "notes": "Film roll from a family trip to Naran in the Kaghan Valley, 2002.",
+    "year": "2002",
+    "reasoning": "Camera name '2002_ROLL-001_Naran' explicitly names Naran (famous hill station in KPK). Pre-Lahore-move era; family travel context.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00011999_ROLL-002_Lahore": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "film",
+      "portrait"
+    ],
+    "people": [],
+    "notes": "Film roll from Lahore, 1999.",
+    "year": "1999",
+    "reasoning": "Camera name '1999_ROLL-002_Lahore' explicitly states Lahore and 1999.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00011991_ROLL-001_Lahore": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "film",
+      "childhood"
+    ],
+    "people": [],
+    "notes": "Film roll from Lahore, 1991.",
+    "year": "1991",
+    "reasoning": "Camera name '1991_ROLL-001_Lahore' explicitly states Lahore and 1991.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00011988_ROLL-001_Lahore": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "film",
+      "childhood"
+    ],
+    "people": [],
+    "notes": "Film roll from Lahore, 1988.",
+    "year": "1988",
+    "reasoning": "Camera name '1988_ROLL-001_Lahore' explicitly states Lahore and 1988.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "unk\u0001Scans\u00011987_ROLL-038_Lahore": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "film",
+      "childhood"
+    ],
+    "people": [],
+    "notes": "Film roll from Lahore, 1987; high roll number suggests prolific archiving.",
+    "year": "1987",
+    "reasoning": "Camera name '1987_ROLL-038_Lahore' explicitly states Lahore and 1987. Roll #38 indicates an active film archive from that year.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "2026\u00012026-05-18 — Lahore\u0001Unknown Camera": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "Street",
+      "Travel"
+    ],
+    "people": [],
+    "notes": "Single photo from Lahore, May 18, 2026.",
+    "year": "2026",
+    "reasoning": "Event name '2026-05-18 — Lahore' and event_location=Lahore give explicit date and city. Count=1 suggests a lone capture.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "2026\u00012026-05-18 ca. 2016 Street & Market — Lahore\u0001Android Phone": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "Street",
+      "Market",
+      "Travel"
+    ],
+    "people": [],
+    "notes": "Street and market photos from Lahore circa 2015, digitized in 2026.",
+    "year": "2015",
+    "reasoning": "Event name '2026-05-18 ca. 2016 Street & Market — Lahore' + event_location=Lahore. suggested_year=2015; 'ca. 2016' confirms mid-2010s. Street/Market matches user's own vocabulary directly.",
+    "confidence": "medium",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "2026\u00012026-01-02 Street & Market — San Francisco Bay Area\u0001Canon EOS M6 Mark II": {
+    "cities": [
+      "San Francisco Bay Area, USA"
+    ],
+    "tags": [
+      "Street",
+      "Market"
+    ],
+    "people": [],
+    "notes": "Street and market photography around the SF Bay Area on January 2, 2026.",
+    "year": "2026",
+    "reasoning": "Event name and event_location both explicitly state SF Bay Area, Jan 2026. Street/Market matches user's vocabulary.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "2026\u00012026-01-01 Snow Photography — San Francisco Bay Area\u0001Canon EOS M6 Mark II": {
+    "cities": [
+      "San Francisco Bay Area, USA"
+    ],
+    "tags": [
+      "Snow",
+      "Nature",
+      "Photography"
+    ],
+    "people": [],
+    "notes": "Snow photography in the SF Bay Area on New Year's Day 2026.",
+    "year": "2026",
+    "reasoning": "Event name '2026-01-01 Snow Photography — San Francisco Bay Area' and event_location are explicit.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "2026\u00012026-01-01 Nature Walk — San Francisco Bay Area\u0001Canon EOS M6 Mark II": {
+    "cities": [
+      "San Francisco Bay Area, USA"
+    ],
+    "tags": [
+      "Nature",
+      "Walk",
+      "Outdoors"
+    ],
+    "people": [],
+    "notes": "Nature walk in the SF Bay Area on New Year's Day 2026.",
+    "year": "2026",
+    "reasoning": "Event name '2026-01-01 Nature Walk — San Francisco Bay Area' and event_location are explicit.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "2026\u00012026-01-01 Mountain Outing — San Francisco Bay Area\u0001Canon EOS M6 Mark II": {
+    "cities": [
+      "San Francisco Bay Area, USA"
+    ],
+    "tags": [
+      "Mountains",
+      "Nature",
+      "Outdoors"
+    ],
+    "people": [],
+    "notes": "Mountain outing in the SF Bay Area on New Year's Day 2026.",
+    "year": "2026",
+    "reasoning": "Event name '2026-01-01 Mountain Outing — San Francisco Bay Area' and event_location are explicit.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
+  },
+  "2026\u00012026\u00012026-05-15 2026_ROLL-002-Cambridge": {
+    "cities": [
+      "Cambridge, USA"
+    ],
+    "tags": [
+      "Travel",
+      "Street",
+      "film"
+    ],
+    "people": [],
+    "notes": "Film roll from a trip to Cambridge (likely MA), shot and scanned May 2026.",
+    "year": "2026",
+    "reasoning": "Camera name '2026-05-15 2026_ROLL-002-Cambridge' gives date and location. User is SF Bay Area-based so Cambridge (Harvard/MIT area, MA) is a likely travel destination in 2026.",
+    "confidence": "medium",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-27T05:02:55"
   }
 }
