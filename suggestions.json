@@ -1,21 +1,22 @@
 {
   "unk\u0001Scans\u00012022_ROLL-001-Western-US": {
     "cities": [
-      "Western USA"
+      "Oregon, USA"
     ],
     "tags": [
       "road trip",
       "travel",
-      "film",
+      "film photography",
+      "outdoor",
       "landscape"
     ],
     "people": [],
-    "notes": "Scanned film roll from a road trip through the Western United States.",
+    "notes": "Western US road trip, likely through Oregon or nearby states.",
     "year": "2022",
-    "reasoning": "Camera name '2022_ROLL-001-Western-US' directly encodes both year and region. User was in Iowa City in 2022 (pre-Sep 2024), so 'Western US' = a travel trip away from home base. Gemma corroborates with",
+    "reasoning": "Camera name '2022_ROLL-001-Western-US' gives year and region directly; gemma suggests Oregon road trip with rural landscapes and black-and-white film; user was in Iowa City in 2022 so this would be a ",
     "confidence": "high",
     "source": "claude-sonnet+gemma+janus",
-    "at": "2026-05-26T19:59:35"
+    "at": "2026-05-26T21:05:47"
   },
   "unk\u0001Scans\u00011995_ROLL-001_Lahore": {
     "cities": [
@@ -23,39 +24,415 @@
     ],
     "tags": [
       "family",
-      "celebration",
       "childhood",
+      "celebration",
       "indoor",
-      "vintage"
+      "gathering"
     ],
-    "people": [
-      "Sana"
-    ],
-    "notes": "Family celebration in Lahore with children and a festive meal, circa 1995.",
+    "people": [],
+    "notes": "Family celebration in Lahore with children at a table with balloons.",
     "year": "1995",
-    "reasoning": "Camera name '1995_ROLL-001_Lahore' explicitly encodes year and city. Janus shows children gathered around a table with balloons in an indoor casual setting — consistent with a Pakistani family celebra",
+    "reasoning": "Camera name '1995_ROLL-001_Lahore' encodes both year and city; janus shows children gathered at a table with a balloon in a casual indoor setting; gemma confirms family dinner/celebration with 1980s-9",
     "confidence": "high",
     "source": "claude-sonnet+gemma+janus",
-    "at": "2026-05-26T19:59:35"
+    "at": "2026-05-26T21:05:47"
   },
   "unk\u0001Scans\u0001New 5 Kodak Gold": {
+    "cities": [
+      "Pakistan"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "vintage",
+      "indoor",
+      "portrait"
+    ],
+    "people": [],
+    "notes": "Pakistani family roll from the 1990s, similar in character to the sibling Kodak Gold scans.",
+    "year": "",
+    "reasoning": "Camera 'New 5 Kodak Gold' mirrors confirmed sibling 'New 3 Kodak Gold 100' (tagged UAE 1991, Pakistani family); soft tags reinforce family/childhood/gathering; gemma places it in the 1990s vintage ran",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u00012026_ROLL-001_San-Francisco": {
+    "cities": [
+      "San Francisco, USA"
+    ],
+    "tags": [
+      "film photography",
+      "urban",
+      "outdoor",
+      "California",
+      "friends"
+    ],
+    "people": [],
+    "notes": "Film roll shot around San Francisco, matching the user's Bay Area residency.",
+    "year": "2026",
+    "reasoning": "Camera name '2026_ROLL-001_San-Francisco' encodes both year and city; user relocated to SF Bay Area in Oct 2024 so 2026 is fully consistent; janus shows outdoor scene by a parked car; gemma confirms u",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001New foldAer (7)": {
+    "cities": [],
+    "tags": [
+      "outdoor",
+      "cycling",
+      "travel",
+      "landscape",
+      "film"
+    ],
+    "people": [],
+    "notes": "Outdoor cycling or road trip scenes in a flat or desert landscape.",
+    "year": "",
+    "reasoning": "Generic folder name gives no year or location; janus shows a cyclist on a rural road with clear sky; gemma suggests a desert/Las Vegas-area landscape; soft tags suggest Pakistani family context but vi",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001Bactch 2 (6)": {
+    "cities": [],
+    "tags": [
+      "outdoor",
+      "group",
+      "people",
+      "gathering",
+      "portrait"
+    ],
+    "people": [],
+    "notes": "Group gathered outdoors near a park or body of water.",
+    "year": "",
+    "reasoning": "Generic batch name; janus shows people standing together outdoors with trees and water; gemma contradicts with nighttime Washington D.C. cityscapes which seems misattributed; soft tags suggest Pakista",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001Bactch 2 (10)": {
+    "cities": [],
+    "tags": [
+      "street photography",
+      "black and white",
+      "urban",
+      "portrait",
+      "candid"
+    ],
+    "people": [],
+    "notes": "Black and white urban street photography with reflective and candid compositions.",
+    "year": "",
+    "reasoning": "Generic batch name; janus shows a variety of scenes across different urban and natural settings; gemma specifically calls out black-and-white reflection/street photography; no location signal.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001Batch 004": {
+    "cities": [],
+    "tags": [
+      "couple",
+      "outdoor",
+      "portrait",
+      "bridge",
+      "nature"
+    ],
+    "people": [],
+    "notes": "Couple holding hands on a bridge over a river with green surroundings.",
+    "year": "",
+    "reasoning": "Generic batch name; janus clearly describes two people on a bridge holding hands with river and greenery; gemma's Brasília suggestion seems misattributed; soft tags suggest Pakistani family context bu",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u00012024_ROLL-001-NewYork": {
+    "cities": [
+      "New York, USA"
+    ],
+    "tags": [
+      "travel",
+      "friends",
+      "film photography",
+      "indoor",
+      "gathering"
+    ],
+    "people": [],
+    "notes": "Film roll from a New York visit, capturing friends gathered around a table.",
+    "year": "2024",
+    "reasoning": "Camera name '2024_ROLL-001-NewYork' encodes both year and city; user was transitioning from Iowa City to SF Bay Area in late 2024, making a NYC visit plausible; janus shows a group seated at a table w",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u00011995_ROLL-001-Islamabad": {
+    "cities": [
+      "Islamabad, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "leisure",
+      "outdoor",
+      "Pakistan",
+      "vintage"
+    ],
+    "people": [],
+    "notes": "Family leisure outing in Islamabad, including what appears to be pool or sports activity.",
+    "year": "1995",
+    "reasoning": "Camera name '1995_ROLL-001-Islamabad' encodes both year and city; janus shows person in white outfit in a diving/pool setting; gemma corroborates a poolside outdoor celebration context.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u00012011-08-20 photo": {
     "cities": [
       "Lahore, Pakistan"
     ],
     "tags": [
       "family",
-      "vintage",
-      "film",
-      "indoor"
+      "gathering",
+      "indoor",
+      "formal",
+      "portrait"
     ],
-    "people": [
-      "Sana"
+    "people": [],
+    "notes": "Formal family gathering in Lahore with people seated on chairs against a curtain backdrop.",
+    "year": "2011",
+    "reasoning": "Camera name '2011-08-20 photo' encodes a specific date; user was in Lahore before Aug 2016 so 2011 places this in Lahore; janus shows a semi-formal seated group with curtain backdrop; gemma suggests I",
+    "confidence": "medium",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001New folder (5)": {
+    "cities": [
+      "Pakistan"
     ],
-    "notes": "Scanned Kodak Gold film roll, likely a family gathering in Pakistan.",
+    "tags": [
+      "outdoor",
+      "family",
+      "people",
+      "portrait",
+      "candid"
+    ],
+    "people": [],
+    "notes": "Outdoor family moment in Pakistan, including a person in a wheelchair.",
     "year": "",
-    "reasoning": "No year or location encoded in camera name. All sibling cameras in this Scans event are Pakistani family rolls (Peshawar 1998, Lahore 1995), and Kodak Gold was a common consumer film stock in Pakistan",
+    "reasoning": "Generic folder name; janus shows a person in a wheelchair being pushed outdoors on grass with trees; gemma independently suggests a Pakistani public/community setting; soft tags reinforce Pakistani fa",
     "confidence": "low",
     "source": "claude-sonnet+gemma+janus",
-    "at": "2026-05-26T19:59:35"
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001New folder (A11)": {
+    "cities": [],
+    "tags": [
+      "beach",
+      "night",
+      "outdoor",
+      "portrait",
+      "romantic"
+    ],
+    "people": [],
+    "notes": "Beach scene at night with a person in a flowing dress holding flowers.",
+    "year": "",
+    "reasoning": "Generic folder name; janus describes a beach at night with a person in a long flowing dress looking at the ocean; gemma confirms beach/couple/night/water; visual evidence contradicts the soft Pakistan",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001New foldAer (8)": {
+    "cities": [],
+    "tags": [
+      "photography",
+      "indoor",
+      "portrait",
+      "travel",
+      "candid"
+    ],
+    "people": [],
+    "notes": "Person with a camera on an indoor staircase, possibly documenting a trip or event.",
+    "year": "",
+    "reasoning": "Generic folder name; janus shows person on staircase holding a camera; gemma suggests travel/group outing possibly for a vlog or photo project; no location or year signal.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001Bactch 2 (9)": {
+    "cities": [],
+    "tags": [
+      "outdoor",
+      "candid",
+      "street",
+      "portrait",
+      "people"
+    ],
+    "people": [],
+    "notes": "Candid outdoor shot of a person near a yellow wall, likely in an urban or semi-urban setting.",
+    "year": "",
+    "reasoning": "Generic batch name; janus shows person bending down near a yellow wall on a concrete surface; gemma's Iowa/police interpretation seems misattributed; soft tags suggest Pakistani family context.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001Bactch 2 (7)": {
+    "cities": [],
+    "tags": [
+      "indoor",
+      "casual",
+      "domestic",
+      "relaxation",
+      "portrait"
+    ],
+    "people": [],
+    "notes": "Casual indoor scene of a person relaxing on a couch watching television.",
+    "year": "",
+    "reasoning": "Generic batch name; janus clearly shows person on couch with remote control and TV; gemma confirms casual/lifestyle low-angle photography; soft tags suggest Pakistani family domestic setting.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001New_1 Agfa Color 100": {
+    "cities": [
+      "Kashmir"
+    ],
+    "tags": [
+      "outdoor",
+      "nature",
+      "mountains",
+      "travel",
+      "landscape"
+    ],
+    "people": [],
+    "notes": "Outdoor trip through forested mountain terrain, likely Kashmir or northern Pakistan.",
+    "year": "",
+    "reasoning": "Camera 'New_1 Agfa Color 100' is a specific analog film stock suggesting scanned film; janus shows person sitting on a large tree trunk in a forest with others; gemma independently and confidently ide",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001New folder (3)": {
+    "cities": [],
+    "tags": [
+      "outdoor",
+      "bridge",
+      "landscape",
+      "portrait",
+      "nature"
+    ],
+    "people": [],
+    "notes": "Person standing on a bridge over a river, surrounded by trees and open sky.",
+    "year": "",
+    "reasoning": "Generic folder name; janus shows person on bridge over river with trees and clear sky; gemma confirms bridge/water/outdoor theme with reflections; no year or city signal.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001New foldAer (10)": {
+    "cities": [
+      "Pakistan"
+    ],
+    "tags": [
+      "family",
+      "indoor",
+      "gathering",
+      "mountains",
+      "Pakistan"
+    ],
+    "people": [],
+    "notes": "Family gathered indoors with a mountainous Pakistani landscape visible through the window.",
+    "year": "",
+    "reasoning": "Generic folder name; janus shows group of people on a couch in a living room with a mountainous landscape outside the window; gemma independently suggests Pakistan with lakes and landscape; soft tags ",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u00011999_ROLL-001_Lahore": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "domestic",
+      "indoor",
+      "portrait"
+    ],
+    "people": [],
+    "notes": "Young child playing at home in Lahore.",
+    "year": "1999",
+    "reasoning": "Camera name '1999_ROLL-001_Lahore' encodes both year and city; janus shows a young child standing in a room with a toy; gemma confirms childhood/family/domestic vintage setting.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u00012025_ROLL-003_Wedding": {
+    "cities": [
+      "SF Bay Area, USA"
+    ],
+    "tags": [
+      "wedding",
+      "celebration",
+      "formal",
+      "indoor",
+      "gathering"
+    ],
+    "people": [],
+    "notes": "Wedding celebration shot on film, likely in the SF Bay Area in 2025.",
+    "year": "2025",
+    "reasoning": "Camera name '2025_ROLL-003_Wedding' encodes year and event type; user was in SF Bay Area from Oct 2024 so 2025 fits; janus shows person in formal attire (white shirt, red tie) in a formal room with fr",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001Batch 3a": {
+    "cities": [],
+    "tags": [
+      "vintage",
+      "film",
+      "street",
+      "urban",
+      "exploration"
+    ],
+    "people": [],
+    "notes": "Vintage-era film frames documenting a person in front of various urban establishments.",
+    "year": "",
+    "reasoning": "Generic batch name; janus unusually describes sequential film frames showing a person in front of named establishments (Bakery, Hotel, Restaurant, Bar, Theater, Museum, Library); gemma suggests vintag",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u00012017_ROLL-001_Iowa-City": {
+    "cities": [
+      "Iowa City, USA"
+    ],
+    "tags": [
+      "sports",
+      "softball",
+      "outdoor",
+      "university",
+      "film photography"
+    ],
+    "people": [],
+    "notes": "Softball game at the University of Iowa, shot on film roll in 2017.",
+    "year": "2017",
+    "reasoning": "Camera name '2017_ROLL-001_Iowa-City' encodes both year and city; user moved to Iowa City in Aug 2016 so 2017 is fully consistent; janus clearly shows a softball game with red/white university uniform",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u00011986_ROLL-001_Lahore": {
+    "cities": [
+      "Lahore, Pakistan"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "baby",
+      "indoor",
+      "vintage"
+    ],
+    "people": [],
+    "notes": "Baby or young child at home in Lahore, photographed on film in 1986.",
+    "year": "1986",
+    "reasoning": "Camera name '1986_ROLL-001_Lahore' encodes both year and city; gemma suggests baby/childhood/family/vintage with playful domestic scenes; janus shows person on a bed with a colorful blanket.",
+    "confidence": "high",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T21:05:47"
   }
 }
