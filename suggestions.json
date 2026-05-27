@@ -434,5 +434,503 @@
     "confidence": "high",
     "source": "claude-sonnet+gemma+janus",
     "at": "2026-05-26T21:05:47"
+  },
+  "unk\u0001Scans\u0001Polaroid": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned Polaroid instant film photos from a family gathering in Pakistan.",
+    "year": "1998",
+    "reasoning": "Polaroid instant cameras were common in Pakistani households in the 1990s; soft sibling tags confirm childhood/family/Pakistan setting; Peshawar from sibling cameras, Lahore from pre-2016 location tim",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New_2 Agfa XRS": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned Agfa XRS film photos from a family gathering in Pakistan.",
+    "year": "1998",
+    "reasoning": "Agfa XRS was a common film stock in 1990s Pakistan; soft sibling tags confirm childhood/family context.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New folderA": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned family photos from Pakistan, part of a digitization batch.",
+    "year": "1998",
+    "reasoning": "Generic scan folder within Scans event; soft sibling tags confirm childhood/family/Pakistan; year from sibling soft override.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New folder (8)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned family photos from Pakistan, part of a digitization batch.",
+    "year": "1998",
+    "reasoning": "Generic scan folder; soft sibling tags confirm Pakistan family context with ~1998 era.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New folder (7)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned family photos from Pakistan, part of a digitization batch.",
+    "year": "1998",
+    "reasoning": "Generic scan folder; soft sibling tags confirm Pakistan family context with ~1998 era.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New folder (6)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned family photos from Pakistan, part of a digitization batch.",
+    "year": "1998",
+    "reasoning": "Generic scan folder; soft sibling tags confirm Pakistan family context with ~1998 era.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New folder (4)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned family photos from Pakistan, part of a digitization batch.",
+    "year": "1998",
+    "reasoning": "Generic scan folder; soft sibling tags confirm Pakistan family context with ~1998 era.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New folder": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned family photos from Pakistan, part of a digitization batch.",
+    "year": "1998",
+    "reasoning": "Generic scan folder; soft sibling tags confirm Pakistan family context with ~1998 era.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New foldAer (12)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned family photos from Pakistan, part of a large digitization batch.",
+    "year": "1998",
+    "reasoning": "Generic scan folder (35 photos); soft sibling tags confirm Pakistan family context with ~1998 era.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New foAlder (6)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned family photos from Pakistan, part of a digitization batch.",
+    "year": "1998",
+    "reasoning": "Generic scan folder; soft sibling tags confirm Pakistan family context with ~1998 era.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New Agfa": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned Agfa film photos from a family gathering in Pakistan.",
+    "year": "1998",
+    "reasoning": "Agfa film brand common in 1990s Pakistan; soft sibling tags confirm childhood/family context.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New 9": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned family photos from Pakistan, small batch.",
+    "year": "1998",
+    "reasoning": "Generic scan folder (3 photos only); soft sibling tags confirm Pakistan family context.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New 6 Konica": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned Konica film photos from a family gathering in Pakistan.",
+    "year": "1998",
+    "reasoning": "Konica film cameras were widely used in Pakistan in the 1990s; soft sibling tags confirm childhood/family/Pakistan.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001New 4 Perutz 200": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scanned Perutz 200 film photos from a family gathering in Pakistan.",
+    "year": "1998",
+    "reasoning": "Perutz 200 was a German film stock popular in the 1980s–90s; era and soft sibling tags both point to late-1990s Pakistani family setting.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001Kodak 2019": {
+    "cities": [],
+    "tags": [
+      "scans",
+      "film",
+      "family"
+    ],
+    "people": [],
+    "notes": "Scanned Kodak film photos; '2019' in folder name may indicate when photos were taken or when the roll was scanned.",
+    "year": "2019",
+    "reasoning": "'2019' in the camera/folder name is a strong year signal; if taken in 2019 user was in Iowa City, but this could also be a Pakistan visit or a scan batch date — city left blank due to ambiguity. Soft ",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001Fuji Instax": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "portrait",
+      "gathering",
+      "indoor"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Two scanned Fuji Instax instant film photos from a family gathering in Pakistan.",
+    "year": "",
+    "reasoning": "Fuji Instax Mini launched in 1998 and remained popular in Pakistan through the 2010s; only 2 photos limits signal. Soft sibling tags point to Pakistan family context but year is too uncertain across t",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001Batch 3aa (4)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Large scan batch of family photos from Pakistan, likely from a systematic digitization effort.",
+    "year": "1998",
+    "reasoning": "Named 'Batch 3aa (4)' suggesting organized scanning of old prints; 64 photos is a large batch; soft sibling tags confirm Pakistan childhood/family context.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001Batch 3aa": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scan batch of family photos from Pakistan, part of an organized digitization effort.",
+    "year": "1998",
+    "reasoning": "Named 'Batch 3aa'; batch naming convention implies systematic scanning of old prints; soft sibling tags confirm Pakistan childhood/family context.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001Batch 3a (3)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scan batch of family photos from Pakistan, part of an organized digitization effort.",
+    "year": "1998",
+    "reasoning": "'Batch 3a (3)' naming confirms systematic scanning of old prints; soft sibling tags confirm Pakistan childhood/family context.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001Batch 3a (2)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scan batch of family photos from Pakistan, part of an organized digitization effort.",
+    "year": "1998",
+    "reasoning": "'Batch 3a (2)' naming confirms systematic scanning; soft sibling tags confirm Pakistan childhood/family context.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001Bactch 2 (8)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scan batch of family photos from Pakistan, part of an organized digitization effort.",
+    "year": "1998",
+    "reasoning": "'Bactch 2 (8)' (typo of Batch) confirms systematic scanning of old prints; soft sibling tags confirm Pakistan childhood/family context.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001Bactch 2 (5)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scan batch of family photos from Pakistan, part of an organized digitization effort.",
+    "year": "1998",
+    "reasoning": "'Bactch 2 (5)' naming confirms systematic scanning; soft sibling tags confirm Pakistan childhood/family context.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001Bactch 2 (4)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scan batch of family photos from Pakistan, part of an organized digitization effort.",
+    "year": "1998",
+    "reasoning": "'Bactch 2 (4)' naming confirms systematic scanning; soft sibling tags confirm Pakistan childhood/family context.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
+  },
+  "unk\u0001Scans\u0001Bactch 2 (3)": {
+    "cities": [
+      "Lahore",
+      "Peshawar"
+    ],
+    "tags": [
+      "family",
+      "childhood",
+      "portrait",
+      "gathering"
+    ],
+    "people": [
+      "Sana"
+    ],
+    "notes": "Scan batch of family photos from Pakistan, part of an organized digitization effort.",
+    "year": "1998",
+    "reasoning": "'Bactch 2 (3)' naming confirms systematic scanning; soft sibling tags confirm Pakistan childhood/family context.",
+    "confidence": "low",
+    "source": "claude-sonnet+gemma+janus",
+    "at": "2026-05-26T22:02:18"
   }
 }
