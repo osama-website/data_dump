@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>image_bench</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header>
+  <div class="hd-left">
+    <a id="title" href="#/" title="home">image_bench</a>
+    <span class="muted" id="crumbs"></span>
+  </div>
+  <div class="hd-right">
+    <input id="search" placeholder="filter albums (substring)" />
+    <button id="btn-tagger" title="show/hide tagger panel (t)">🏷</button>
+    <button id="btn-hide-deleted" title="hide albums whose every photo is flagged">hide deleted</button>
+    <button id="btn-suggestions">suggestions</button>
+    <button id="btn-merge"  class="primary" disabled>merge (0)</button>
+    <button id="btn-split"  class="primary" disabled>split here</button>
+    <button id="btn-flag"   class="danger"  disabled>flag</button>
+    <button id="btn-undo"   title="undo last action (cmd+z)">undo</button>
+    <button id="btn-export" title="download JSON">export</button>
+    <button id="btn-nuke"   class="nuke" title="wipe ALL edits (with confirmation)">☢</button>
+    <button id="btn-help"   class="help" title="keyboard shortcuts (?)">?</button>
+    <span id="stats" class="muted"></span>
+  </div>
+</header>
+
+<aside id="tagger-panel" aria-hidden="true">
+  <div class="tp-header">
+    <span class="tp-title">🏷 album tagger</span>
+    <button id="tp-close" title="hide (t / Esc)">×</button>
+  </div>
+  <div id="tp-body">
+    <div class="muted" style="padding:14px;font-size:11px">
+      click an album cover in the grid to load its metadata here.
+    </div>
+  </div>
+</aside>
+
+<main id="root"></main>
+
+<aside id="drawer" aria-hidden="true">
+  <button id="drawer-close" title="close (Esc)">×</button>
+  <div id="drawer-body"></div>
+</aside>
+<div id="drawer-scrim"></div>
+
+<div id="toast"></div>
+
+<div id="lightbox" hidden>
+  <div class="lb-backdrop"></div>
+  <div class="lb-content">
+    <button class="lb-close" title="close (Esc)">×</button>
+    <div id="lb-body"></div>
+  </div>
+</div>
+
+<script src="/main.js"></script>
+</body>
+</html>
